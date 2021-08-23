@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://valiantdist.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://valiantdist.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://valiantdist.ca/collections/miscellaneous.atom"/>
+  <title>Valiant Distribution Canada</title>
+  <updated>2018-03-09T21:30:15-07:00</updated>
+  <author>
+    <name>Valiant Distribution Canada</name>
+  </author>
+  <entry>
+    <id>https://valiantdist.ca/products/1330844860458</id>
+    <published>2018-03-09T21:30:15-07:00</published>
+    <updated>2018-03-09T21:30:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/5-tier-bug-shellz-display"/>
+    <title>5 TIER Bug/ Shellz Display</title>
+    <s:type>Display</s:type>
+    <s:vendor>Shellz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/display_grande_ae065bb6-4a67-4a35-acbf-1bec998b22d0.jpg?v=1520656312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shellz<br>
+        <strong>Type: </strong>Display<br>
+        <strong>Price: </strong>
+            34.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>5 TIER Bug/ Shellz Display</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>shelf</s:tag>
+    <s:tag>Type_Display</s:tag>
+    <s:tag>Vendor_Shellz</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1330844860458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.50</s:price>
+      <s:sku>DIS5SHL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1252464263210</id>
+    <published>2018-02-19T18:04:38-07:00</published>
+    <updated>2018-02-19T18:04:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/acrylic-display-for-tank-and-e-juice"/>
+    <title>Acrylic Display For Tank and E-Juice</title>
+    <s:type>Display</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/displaystand-web1.jpg?v=1519625857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Display<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Acrylic Display For Tank and E-Juice</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acrylic Display</s:tag>
+    <s:tag>Display Shelves</s:tag>
+    <s:tag>E-Cig Display</s:tag>
+    <s:tag>hiddenE-Juice Display</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>SALE Electronic Cigarettes</s:tag>
+    <s:tag>Type_Display</s:tag>
+    <s:tag>vendor_valiant</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1252464263210</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>ACRYLIC TRAYS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251422339114</id>
+    <published>2018-02-19T14:10:33-07:00</published>
+    <updated>2018-02-19T14:10:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/acrylic-trays-for-cheech-chong-e-juice"/>
+    <title>Acrylic Trays for Cheech &amp; Chong E-Juice</title>
+    <s:type>Display</s:type>
+    <s:vendor>Cheech &amp; Chong</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/cheechandchong_5.jpg?v=1519625951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheech &amp; Chong<br>
+        <strong>Type: </strong>Display<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Acrylic Trays for Cheech &amp; Chong E-Juice</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acrylic Display</s:tag>
+    <s:tag>Display Shelves</s:tag>
+    <s:tag>E-Juice Display</s:tag>
+    <s:tag>New-UpdateThe World Piece</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Display</s:tag>
+    <s:tag>Vendor_Cheech &amp; Chong</s:tag>
+    <s:tag>World Piece</s:tag>
+    <s:tag>World Piece Display</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251422339114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ACRYLICTRAYSCC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251410116650</id>
+    <published>2018-02-19T14:09:47-07:00</published>
+    <updated>2018-02-19T14:09:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/incense-juicy-jays-cotton-candy"/>
+    <title>Juicy Jay&apos;s Incense</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Juicy Jay</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/juicyjaysincense_1_f2610ec9-c610-4c2b-ae7a-d48f5f19d179.jpg?v=1572627095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Juicy Jay<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            11.36 - 14.20
+            <a href="https://valiantdist.ca/products/incense-juicy-jays-cotton-candy">(13 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><b>Juicy Jay's Incense Flavour List</b></p>
+<p>Black &amp; Blueberry<br>Cherry Vanilla<br>Chocolate Chip Cookie Dough<br>Grapes Gone Wild<br>Lychee<br>Mango Papaya<br>Orange Overload<br>Pear<br>Raspberry<br>Strawberry Fields<br>Tropical Passion<br>Funkincense<br>Cotton Candy<br>Black Magic<br>Patchouli</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Juicy Jays</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Incense</s:tag>
+    <s:tag>Vendor_Juicy Jay</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251410116650</id>
+      <title>Cherry Vanilla</title>
+      <s:price currency="CAD">14.20</s:price>
+      <s:sku>HI1036C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251410116650</id>
+      <title>Chocolate Chip Cookie Dough</title>
+      <s:price currency="CAD">14.20</s:price>
+      <s:sku>HI1036D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251410116650</id>
+      <title>Grapes Gone Wild</title>
+      <s:price currency="CAD">14.20</s:price>
+      <s:sku>HI1036E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251410116650</id>
+      <title>Lychee</title>
+      <s:price currency="CAD">11.36</s:price>
+      <s:sku>HI1036F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251410116650</id>
+      <title>Mango Papaya</title>
+      <s:price currency="CAD">14.20</s:price>
+      <s:sku>HI1036G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251410116650</id>
+      <title>Orange Overload</title>
+      <s:price currency="CAD">14.20</s:price>
+      <s:sku>HI1036H</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251410116650</id>
+      <title>Pear</title>
+      <s:price currency="CAD">11.36</s:price>
+      <s:sku>HI1036I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251410116650</id>
+      <title>Raspberry</title>
+      <s:price currency="CAD">14.20</s:price>
+      <s:sku>HI1036J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251410116650</id>
+      <title>Strawberry Fields</title>
+      <s:price currency="CAD">14.20</s:price>
+      <s:sku>HI1036K</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251410116650</id>
+      <title>Tropical Passion</title>
+      <s:price currency="CAD">14.20</s:price>
+      <s:sku>HI1036L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251410116650</id>
+      <title>Cotton Candy</title>
+      <s:price currency="CAD">14.20</s:price>
+      <s:sku>HI1036N</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251410116650</id>
+      <title>Patchouli</title>
+      <s:price currency="CAD">14.20</s:price>
+      <s:sku>HI1036P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251410116650</id>
+      <title>Apple Brown</title>
+      <s:price currency="CAD">11.36</s:price>
+      <s:sku>HI1036A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237402419242</id>
+    <published>2018-02-16T17:52:47-07:00</published>
+    <updated>2018-02-16T17:52:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/satya-nagchampa-incense"/>
+    <title>Satya Incense</title>
+    <s:type>Incense</s:type>
+    <s:vendor>Satya</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/satyasatyaincense_2.jpg?v=1604073891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Satya<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            4.00 - 5.00
+            <a href="https://valiantdist.ca/products/satya-nagchampa-incense">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The world's Most Popular Incense - Made in India</p>
+<p>12/Box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Incense</s:tag>
+    <s:tag>Vendor_Satya</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402419242</id>
+      <title>Fortune</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HI1037A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402419242</id>
+      <title>Midnight</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HI1037C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402419242</id>
+      <title>Patchouli Forest</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HI1037E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402419242</id>
+      <title>Rain Forest</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HI1037F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402419242</id>
+      <title>Romance</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HI1037G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402419242</id>
+      <title>Sandalwood</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HI1037H</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402419242</id>
+      <title>Super Hit</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HI1037J</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237402320938</id>
+    <published>2018-02-16T17:52:42-07:00</published>
+    <updated>2018-02-16T17:52:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/flute-incense"/>
+    <title>Flute Incense 6 Stick 25/Box</title>
+    <s:type>Incense</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/flute_incense.jpg?v=1611105860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Incense<br>
+        <strong>Price: </strong>
+            4.00 - 5.00
+            <a href="https://valiantdist.ca/products/flute-incense">(22 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Available in 37 sacred flavours.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>SALE Incense</s:tag>
+    <s:tag>Type_Incense</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Amber Rose</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HI1001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Anti Tobacco</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HI1003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Calling Money</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HI1004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Chandan</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HI1005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Chocolate</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HI1006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Cinnamon Sandal</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HI1007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Coconut</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HI1008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Frankincense</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HI1012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Ganesha</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HI1013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Gold Rain</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HI1014</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Honey Rose</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HI1015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Jasmine Honey</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HI1017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Lavender</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HI1018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Lluva De Oro</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HI1019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Moon</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HI1024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Patchuli</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HI1026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Red Rose</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HI1028</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Sacred Family</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HI1029</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Sandal Rose</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HI1031</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Sea Breeze</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HI1032</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Myrrh</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HI1035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402320938</id>
+      <title>Jasmine</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>HI1036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

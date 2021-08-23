@@ -1,0 +1,1546 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://valiantdist.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://valiantdist.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://valiantdist.ca/collections/herbal.atom"/>
+  <title>Valiant Distribution Canada</title>
+  <updated>2020-12-10T12:49:44-07:00</updated>
+  <author>
+    <name>Valiant Distribution Canada</name>
+  </author>
+  <entry>
+    <id>https://valiantdist.ca/products/4804928143409</id>
+    <published>2020-12-10T12:49:44-07:00</published>
+    <updated>2020-12-10T12:49:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/famous-x-valkyrie-vaporizer-accessory-1"/>
+    <title>Famous X-Valkyrie Vaporizer accessory</title>
+    <s:type>Vaporizer Accessory</s:type>
+    <s:vendor>Famous X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/CV5003-HP_1.jpg?v=1610748038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Famous X<br>
+        <strong>Type: </strong>Vaporizer Accessory<br>
+        <strong>Price: </strong>
+            1.99 - 5.99
+            <a href="https://valiantdist.ca/products/famous-x-valkyrie-vaporizer-accessory-1">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Type_Vaporizer Accessory</s:tag>
+    <s:tag>Vendor_Famous X</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4804928143409</id>
+      <title>Herb Pod</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>CV5003-HP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4804928143409</id>
+      <title>Glass Mouthpiece with Metal Base</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>CV5003-MP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4804928143409</id>
+      <title>Screen Filter</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>CV5003-SC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4804928143409</id>
+      <title>Adapter</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>CV5003-WA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4804928143409</id>
+      <title>Wax Pod</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>CV5003-WP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4804926439473</id>
+    <published>2020-12-10T12:49:12-07:00</published>
+    <updated>2020-12-10T12:49:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/famous-x-wraith-vaporizer-acce"/>
+    <title>Famous X-Wraith Vaporizer accessory</title>
+    <s:type>Vaporizer Accessory</s:type>
+    <s:vendor>Famous X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/CV5001-MP_1_bae8c3d5-61a6-4d5e-a7f8-11cfab7cc5bb.jpg?v=1610747735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Famous X<br>
+        <strong>Type: </strong>Vaporizer Accessory<br>
+        <strong>Price: </strong>
+            0.99 - 2.49
+            <a href="https://valiantdist.ca/products/famous-x-wraith-vaporizer-acce">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Type_Vaporizer Accessory</s:tag>
+    <s:tag>Vendor_Famous X</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4804926439473</id>
+      <title>Mouthpiece</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>CV5001-MP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4804926439473</id>
+      <title>Silicone Mouthpiece Attachement</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku>CV5001-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4802081194033</id>
+    <published>2020-12-02T14:04:10-07:00</published>
+    <updated>2020-12-02T14:04:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/yocan-evolve-plus-kit-atomizer-coil-cap-battery-champagne-gold"/>
+    <title>Yocan-Evolve Plus Kit (Atomizer Coil Cap Battery)</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>Yocan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/CE3067GDEVOLVEPLUS_5.jpg?v=1612907436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yocan<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            29.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>herbal vaporizers</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Herb Vaporizer</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>vape</s:tag>
+    <s:tag>vapes</s:tag>
+    <s:tag>Vaporizer</s:tag>
+    <s:tag>vaporizers</s:tag>
+    <s:tag>Vendor_Yocan</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802081194033</id>
+      <title>Apple Green</title>
+      <s:price currency="CAD">29.90</s:price>
+      <s:sku>CE3067AG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802081194033</id>
+      <title>Champagne Gold</title>
+      <s:price currency="CAD">29.90</s:price>
+      <s:sku>CE3067GD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802081194033</id>
+      <title>Green</title>
+      <s:price currency="CAD">29.90</s:price>
+      <s:sku>CE3067G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802081194033</id>
+      <title>Sakura Pink</title>
+      <s:price currency="CAD">29.90</s:price>
+      <s:sku>CE3067P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4799780225073</id>
+    <published>2020-11-26T13:43:15-07:00</published>
+    <updated>2020-11-26T13:43:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/davinci-miqro-vaporizer"/>
+    <title>Davinci-Miqro Explorer Dry Herb Vaporizer</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>DaVinci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/4181_source_1557396217.jpg?v=1606423976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DaVinci<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            126.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Explore a world of new possibilities with the MIQRO Explorers Collection from DaVinci. This all-encompassing collection is perfect for intrepid cannabis connoisseur looking to vape on the go. It included everything you need to get the most out of your MIQRO vaporizer.</p>
+<p>The DaVinci MIQRO is a small, sleek, and sophisticated loose-leaf vaporizer crafted to fit your lifestyle. The vape masters at Davinci have packed all the flavor, quality, and precision from their flagship IQ into the smallest premium vaporizer on the market today. The MIQRO is the perfect choice for the micro-doser or light user.</p>
+<p>Founded in 2011, DaVinci Tech is of the OGs of the vape game. Like their Renaissance inventor namesake, they have become know for relentless innovation and the pursuit of perfection. Through mindful design, meticulous engineering, and a vision for innovative solutions, DaVinci Tech continues to lead the pack on elevating the cannabis experience at every level.</p>
+<p>Specs &amp; Features:</p>
+<ul>
+<li>Dimensions: 1.34" W x 3.13" H x 0.91" D</li>
+<li>Weight: 3.53 oz</li>
+<li>Heat-up Time (to 230° F): 39 Sec</li>
+<li>Charging Time: 1.5 to 2 Hours</li>
+<li>Warranty: 5 Years</li>
+<li>Removable 18350 Battery</li>
+<li>Adjustable Oven Pearl</li>
+<li>Attached Lids</li>
+<li>Zinconium Airflow System</li>
+<li>Precision Temperature + Smart Paths</li>
+<li>All-Ceramic Airpath</li>
+<li>
+</li>
+</ul>
+<p>Included Items</p>
+<ul>
+<li>MIQRO Glove x1</li>
+<li>Grinder Coin x1</li>
+<li>Carry Can XL x1</li>
+<li>Extra 18350 Battery</li>
+<li>Carrying Case x1</li>
+<li>USB Charging Cablex1</li>
+<li>Accessory Kit</li>
+<li>Extended Mouthpiece</li>
+</ul>
+<ul data-mce-fragment="1"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Herb Vaporzier</s:tag>
+    <s:tag>Price_$100 - $200</s:tag>
+    <s:tag>Type_Herb Vaporizer</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vendor_DaVinci</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4799780225073</id>
+      <title>Onyx</title>
+      <s:price currency="CAD">126.06</s:price>
+      <s:sku>V1039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4799780225073</id>
+      <title>Cobalt</title>
+      <s:price currency="CAD">126.06</s:price>
+      <s:sku>V1041</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4799780225073</id>
+      <title>Graphite</title>
+      <s:price currency="CAD">126.06</s:price>
+      <s:sku>V1043</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4799780225073</id>
+      <title>Amethyst</title>
+      <s:price currency="CAD">126.06</s:price>
+      <s:sku>V1045</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4799780225073</id>
+      <title>Rust</title>
+      <s:price currency="CAD">126.06</s:price>
+      <s:sku>V1047</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4755118129201</id>
+    <published>2020-08-27T08:31:06-06:00</published>
+    <updated>2020-08-27T08:31:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/vaporizer-crafty-plus"/>
+    <title>Storz &amp; Bickel-Vaporizer Crafty Plus Portable</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>Storz &amp; Bickel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/01-01-cy-01.jpg?v=1598534780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Storz &amp; Bickel<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            248.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-contrast="auto">For over 20 years Stor</span><span data-contrast="auto">z and Bickel has been the leading manufacturer in vaporizers. They are the most trusted and innovative company, bringing you the gold standard in stationary, portable and medical devices. The Crafty+ is the newest addition to their catalogue, making improvements upon the already sought after portable vaporizer The Crafty. </span><span data-ccp-props='{"201341983":0,"335559739":160,"335559740":259}'> </span></p>
+<p><span data-contrast="auto">The Crafty+ is a portable vaporizer that utilizes convection and conduction heating. This brings you the flavor profile you want while expertly heating the ground material evenly and efficiently. Unlike other devices which tend to get clogged or need a constant stirring to maintain air flow the Crafty+ has managed to deliver phenomenal airflow throughout your entire session. </span><span data-ccp-props='{"201341983":0,"335559739":160,"335559740":259}'> </span></p>
+<p><span data-contrast="auto">The cooling unit lessens the heat from the vapor to bring you smooth and tasty flavor. It’s made from PEEK, a quality, food-grade and heat resistant plastic. The Crafty+ has been upgraded to bring you enhanced electronics and circuit board. They also changed the exterior for a more ergonomic grip.</span><span data-ccp-props='{"201341983":0,"335559739":160,"335559740":259}'> </span></p>
+<p><span data-contrast="auto">The Crafty+ can reach the desired temperature in under a minute. This is 30% faster than what the original Crafty was capable of. The device uses single button control, allowing you to turn the unit on and off as well as use the included pre-set temperatures. The super-boost setting is achieved by pressing the power button three times to get to the maximum heat of 210</span><span data-contrast="auto">⁰</span><span data-contrast="auto">C/410</span><span data-contrast="auto">⁰</span><span data-contrast="auto">F. The Crafty+ has a remote control app for your phone which lets you customize your session with new temperatures and extend the auto-off function. It also lets you turn on unit and heat up to set temperature remotely.  The app comes with a locate your device feature, so you can track it down if you’ve misplaced it. </span><span data-ccp-props='{"201341983":0,"335559739":160,"335559740":259}'> </span></p>
+<p><span data-contrast="auto">Bringing you the quality vapor you’re accustomed to with Storz &amp; Bickel products and a sleek, portable design the Crafty+ is the ultimate in high end vaporizers.</span><span data-ccp-props='{"201341983":0,"335559739":160,"335559740":259}'> </span></p>
+<p><span data-contrast="auto">Contents:</span><span> <br></span><span data-contrast="auto">1 pc. CRAFTY+ Vaporizer</span><span> <br></span><span data-contrast="auto">1 pc. USB Cable</span><span> <br></span><span data-contrast="auto">3 pcs. Base Seal Ring, small</span><span> <br></span><span data-contrast="auto">3 pcs. Normal Screen, small</span><span> <br></span><span data-contrast="auto">3 pcs. Coarse Screen, small</span><span> <br></span><span data-contrast="auto">2 pcs. Drip Pad, small</span><span> <br></span><span data-contrast="auto">1 pc. Dosing Capsule</span><span> <br></span><span data-contrast="auto">1 pc. Cleaning Brush</span><span> <br></span><span data-contrast="auto">1 pc. Instruction for Use (concise)</span><span> <br></span><span data-contrast="auto">1 pc. Safety Instructions</span><span data-ccp-props='{"201341983":0,"335559739":160,"335559740":259}'> </span></p>
+<p><span data-ccp-props='{"201341983":0,"335559739":160,"335559740":259}'> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Price_$200 +</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vendor_Storz &amp; Bickel</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4755118129201</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">248.90</s:price>
+      <s:sku>CE2037</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2131238125617</id>
+    <published>2020-03-09T11:55:14-06:00</published>
+    <updated>2020-03-09T11:55:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/randys-chill-vaporizer"/>
+    <title>Randy&apos;s Chill Vaporizer</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>Randy&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/Black_Chill.jpg?v=1598980998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Randy&#39;s<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            59.93 - 79.90
+            <a href="https://valiantdist.ca/products/randys-chill-vaporizer">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Randy’s Chill is made from lightweight aluminum and is the only vaporizer that has a freezable tube. It works similar to a water pipe’s ice catcher without the mess. It offers exceptional flavour that’s easy to achieve with the chilled tube. Freeze the tube upright in the freezer for at least 15 minutes before use.</p>
+<p>The Chill is a 2-in-1 vaporizer, which allows you to use dry herb and extracts. The dry herb attachment is a ceramic plate with a quartz cup and has 3 temperature settings. The three settings are low, medium and high and are colour coded as follows, Red: 212-392⁰F (100-200⁰C), Green: 450-572⁰F (232-300⁰C) and White: 600-752⁰F (315-400⁰C). The concentrate attachment is a dual quartz coil with a quartz cup and has 3 temperature settings. The three settings are low, medium and high and are colour coded as follows, Red: 315-450⁰F (157-232⁰C), Green: 450-600⁰F (232-315⁰C), and White: 600-900⁰F (315-482⁰F).</p>
+<p>Swapping between the coils is a breeze with the magnetic coil chamber. The bottom of the Chill acts as a storage compartment and can fit an extra coil and the included metal tool. Randy’s Chill also comes equipped with an aqua bubbler, that provides portable water filtration. The aqua bubbler mouthpiece is especially handy when you don’t have access to a freezer to chill your regular mouthpiece.</p>
+<p>To use the device: Click the button 5 times to turn the unit ON/OFF. Press the button quickly 3 times to toggle between temperatures. Hold the button down to draw on the Chill. The device shuts off after 1 minute of inactivity. The Micro USB charger allows for the unit to be charged easily and efficiently.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Price_$50 - $100</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vendor_Randy&apos;s</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2131238125617</id>
+      <title>Black</title>
+      <s:price currency="CAD">59.93</s:price>
+      <s:sku>CV5008BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2131238125617</id>
+      <title>Blue</title>
+      <s:price currency="CAD">79.90</s:price>
+      <s:sku>CV5008B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2131238125617</id>
+      <title>Silver</title>
+      <s:price currency="CAD">79.90</s:price>
+      <s:sku>CV5008S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4311295623217</id>
+    <published>2020-02-20T13:35:39-07:00</published>
+    <updated>2020-02-20T13:35:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/aurora-davinci-iq-vaporizer"/>
+    <title>Davinci x Aurora Dry Herb Vaporizer</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>Aurora</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/0259_Davinci_IQ.jpg?v=1622572456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aurora<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            224.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This sleek and stylish portable herbal vaporizer is perfect for on-the-go and home sessions. Aurora’s Davinci iQ utilizes conduction heating and has a zirconia ceramic air path for clean, smooth draws. The Bluetooth app offers full customization including changing preferences for the 3 session settings, Smart Path, Precision and Boost. You can also use it to turn the device on! The temperature can be adjusted between 121-222⁰C (250-420⁰F) and the unit will reach desired temperature in roughly 16 seconds. The iQ runs for roughly 1.5 hours and can be fully charged in 3 hours. It can also be used while charging. The removable and replaceable battery used is 18650. The iQ is turned ON/OFF by clicking the button 5 times, and clicking once will switch between heating modes. It is recommended to turn unit on to hottest heat setting and let it run for a full cycle before initial use – this helps burn off any debris from manufacturing.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_$200 +</s:tag>
+    <s:tag>Type_Herb Vaporizer</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vendor_Aurora</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4311295623217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">224.00</s:price>
+      <s:sku>AURDAVINCI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4403730055217</id>
+    <published>2019-11-27T13:41:52-07:00</published>
+    <updated>2019-11-27T13:41:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/black-mamba-dry-herb-vaporizer"/>
+    <title>Black Mamba Dry Herb Vaporizer</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>BLACK MAMBA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/CV630B_front.jpg?v=1625165962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACK MAMBA<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            57.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>The Black Mamba vaporizer is an easy to use, inexpensive unit for true beginners and connoisseurs alike. The small and sleek device is perfect for portability and its non-removable battery is 1600mAh for long lasting use. The device has 5 heat settings ranging between 180-220⁰C which is optimal for vaporizing. Remember to start off at a lower heat and increase from there. The unit will heat to the lowest temperature in only 30 seconds, and has a 5 minute auto shutoff making it the ideal unit for impatient people.</p>
+<p>To use: Click button 5 times to turn unit ON/OFF, and hold down to toggle through temperatures. The light will illuminate to show which heat setting is activated. Red lights mean the unit is heating and they will turn green when fully heated. It is recommended to run a full session at the highest heat before packing your bowl initially, this burns off any residuals from manufacturing. Pro tip: Grind up your herb and loosely pack your bowl for optimal draws</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Price_$50 - $100</s:tag>
+    <s:tag>Type_Herb Vaporizer</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>vendor_black mamba</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4403730055217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.90</s:price>
+      <s:sku>CV630B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4372091404337</id>
+    <published>2019-11-22T10:42:14-07:00</published>
+    <updated>2019-11-22T10:42:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/exxus-mini-plus"/>
+    <title>Exxus Mini Plus (4 colors)</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>Got Vape</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/CE2057CL.jpg?v=1625165920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Got Vape<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            69.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Small and stylish, the Exxus Mini Plus provides remarkable sessions. The simple design includes a digital readout for setting precise temperatures optimal for vaporizing between 160⁰-210⁰C (320⁰-410⁰F). Not just for dry herb, the included mesh chamber offers diversity by allowing extracts to be used. The device heats up in less than 30 seconds and charges in under an hour.</p>
+<p>To use: Press large power button quickly 5 times to turn ON/OFF. Change the temperature by clicking the little buttons underneath the digital readout. The Exxus Mini’s auto-shutoff is 4 minutes to prevent overheating and wasting power. Grind your herb and loosely pack it in the chamber for an easier draw. Liquids are not recommended for this device. It is suggested to heat and run the device for a full session before initial use.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Herb Vaporzier</s:tag>
+    <s:tag>Price_$50 - $100</s:tag>
+    <s:tag>Type_Concentrate Vaporizer</s:tag>
+    <s:tag>Type_Herb Vaporizer</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vendor_Got Vape</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4372091404337</id>
+      <title>Black</title>
+      <s:price currency="CAD">69.90</s:price>
+      <s:sku>CE2057BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4372091404337</id>
+      <title>Rainbow</title>
+      <s:price currency="CAD">69.90</s:price>
+      <s:sku>CE2057CL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4372091404337</id>
+      <title>Green</title>
+      <s:price currency="CAD">69.90</s:price>
+      <s:sku>CE2057GR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4372091404337</id>
+      <title>Red</title>
+      <s:price currency="CAD">69.90</s:price>
+      <s:sku>CE2057RD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2086928482353</id>
+    <published>2019-11-20T11:32:56-07:00</published>
+    <updated>2019-11-20T11:32:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/vaporizer-pulsar-apx-v2"/>
+    <title>Vaporizer Pulsar APX V2</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>Pulsar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/PulsarAPXV2_Skull.jpg?v=1563906700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pulsar<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            52.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pulsar is at the leading edge of vaporizer technology with over 1000 products. Based in Asheville, NC they have taken community feedback to create the most sought after, highest quality products at the best prices. Their main goal is to #Enjoyhigherculture</p>
+<p>APX by Pulsar is easy to use and features a large ceramic heating chamber. It comes equipped with 5 pre-set optimal temperatures ranging from 180C-220C (356F-428F) and is designed with an auto-shutoff of 4 minutes. Run time on the APX is roughly 45 minutes based on temperature. Quickly charge your unit with the included micro USB charging port in 1.5 hours. Includes a one year warranty. Available in a multitude of colours, including Black, Skulls, Psychedelic Spaceman, THC Molecule, and Wood Grain.</p>
+<p>To use: It is recommended to turn unit on at maximum heat for a full session before packing for the first time, this burns off any unwanted materials from production. Loosely pack your chamber with herb and click exterior button 5 times rapidly to start heating. Hold button down to change temperature. Drier herbs and discreet sessions are better at a lower heat, and gradually increasing temperature allows you to get the most out of your bowl. The unit will flash while heating and glow solid and provide haptic feedback when it has reached temperature. Let it cool down after auto-shutoff.</p>
+<p> </p>
+<p>Ceramic heating chamber<br> 5 pre-set temperatures<br> 180C-220C range (356F-428F)<br> Auto-shutoff of 4 minutes<br> 45 minute run time<br> Micro USB charger<br> 1.5hr charge time<br> One year warranty<br> Available in Black, Skulls, Psychedelic Spaceman, THC Molecule &amp; Wood Grain</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Price_$50 - $100</s:tag>
+    <s:tag>Type_Herb Vaporizer</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vendor_Pulsar</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2086928482353</id>
+      <title>Black</title>
+      <s:price currency="CAD">52.50</s:price>
+      <s:sku>CV1070BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2086928482353</id>
+      <title>Skulls</title>
+      <s:price currency="CAD">52.50</s:price>
+      <s:sku>CV1070SK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2086928482353</id>
+      <title>Psychadelic Spaceman</title>
+      <s:price currency="CAD">52.50</s:price>
+      <s:sku>CV1070SP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2086928482353</id>
+      <title>THC Molecule</title>
+      <s:price currency="CAD">52.50</s:price>
+      <s:sku>CV1070THC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2086928482353</id>
+      <title>Wood Grain</title>
+      <s:price currency="CAD">52.50</s:price>
+      <s:sku>CV1070WG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4360617721905</id>
+    <published>2019-11-14T11:49:41-07:00</published>
+    <updated>2019-11-14T11:49:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/volcano-vaporizer-hybrid"/>
+    <title>Volcano Vaporizer Hybrid</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>Volcano</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/volcano1.jpg?v=1625165763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Volcano<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            690.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Welcome to the Hybrid.</p>
+<p>The original heavy-hitter is back with a bang. Tired of bags? The Volcano Hybrid has you covered. It heats up in under a minute and allows you to customize your session by using the traditional bags or the new hose/tube. All the amazing features you expect with a few improvements. Utilizing the digital readout and now adding the ability to use a rotating hose, this setup allows for portion control or just a super long draw. Equipped with a Bluetooth App, changing temperatures and customizing settings makes it easy to personalize your unit. With a temperature range between 40-230⁰C (104-446⁰F), and the ability to turn the unit on and have it heat up via the Bluetooth App this device is a game changer. Another feature the Hybrid brings is a new heating style, a stainless steel ring creates conduction to provide a thicker, more dense vapor. As always, all Storz &amp; Bickel products are made in Germany. Same quality. Same great taste. More options.</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb Vape</s:tag>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Herb Vaporzier</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Oil Vaporizer</s:tag>
+    <s:tag>Price_$200 +</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vaporizers</s:tag>
+    <s:tag>Vendor_Volcano</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4360617721905</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">690.00</s:price>
+      <s:sku>CVC103</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4117326037041</id>
+    <published>2019-09-28T13:13:30-06:00</published>
+    <updated>2019-09-28T13:13:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/arizer-air-vaporizer-black"/>
+    <title>Arizer Air Vaporizer</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>Arizer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/Air-black_left-ON.jpg?v=1606844100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizer<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p> </p>
+<p><span data-contrast="auto">Hailing </span><span data-contrast="auto">from Canada, Arizer </span><span data-contrast="auto">wanted to make a small, portable vaporizer without sacrificing function and flavour. Utilizing </span><span data-contrast="auto">a hybrid conduction/</span><span data-contrast="auto">convection </span><span data-contrast="auto">heating </span><span data-contrast="auto">method </span><span data-contrast="auto">and a glass mouthpiece </span><span data-contrast="auto">equals the</span><span data-contrast="auto"> recipe for</span><span data-contrast="auto"> smooth, tasty hits. </span><span data-contrast="auto">The unit has 5 pre-set temperatures at optimal range</span><span data-contrast="auto"> and the</span><span data-contrast="auto"> removable battery is able to be charged in the unit or with a separate dual-battery charger. </span><span data-contrast="auto">Included are caps for pre-packing a bowl and a carrying case for portability.</span><span data-ccp-props='{"201341983":0,"335559739":160,"335559740":259}'> </span></p>
+<p><span data-contrast="auto">To use: Press down the middle of the button </span><span data-contrast="auto">to turn ON/OFF. When turning on </span><span data-contrast="auto">light flashes and unit beeps. Choose temperature by using the up and down arrows – different temperatures are shown by different colour lights. Once unit is heated the light will stop flashing and glow solid. Before using device initially heat the unit up to the hottest setting (red) and let it sit for a full cycle. After about ten minutes the device will shut off by utilizing the auto-shutoff. </span><span data-contrast="auto">This allows for the pressure fitting to expand and the glass mouthpiece to s</span><span data-contrast="auto">lide in perfectly. After the initial run, the unit </span><span data-contrast="auto">is ready to use! The more </span><span data-contrast="auto">discreet you’re aiming to be, and the </span><span data-contrast="auto">amount of </span><span data-contrast="auto">moisture content in your herb are two of the main factors in choosing the right temperature setting. Remember it’s always better to start off low and add more heat as the session progresses. Green (middle heat) is a personal </span><span data-contrast="auto">favourite</span><span data-contrast="auto">! While waiting for the device to heat up, you can start packing your bowl. Make sure your </span><span data-contrast="auto">herb is ground up so heat can pass through it easily. Loosely pack your bowl and turn device upside down to insert mouthpiece/bowl. You can attach your mouthpiece before or after unit is fully heated. </span><span data-contrast="auto">Device</span><span data-contrast="auto"> will shut off after 10 minutes. Leave unit off and allow to cool for increased longevity of the vaporizer. Pro tip: Long, light draws are more effective than short, hard pulls. </span><span data-contrast="auto">When herb is finished it will lose its flavour and will be a dark brown colour, however it will still be the same consistency as when you put it in. Save your vaporized material for making edibles. Vaporizing has “decarboxylated” the herb for you – you’re ready to bake!</span><span data-ccp-props='{"201341983":0,"335559739":160,"335559740":259}'> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Price_$50 - $100</s:tag>
+    <s:tag>Type_Herb Vaporizer</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vendor_Arizer</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4117326037041</id>
+      <title>Black</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>CEQ005BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4117326037041</id>
+      <title>Titanium</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>CEQ005TI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4117311029297</id>
+    <published>2019-09-28T13:13:30-06:00</published>
+    <updated>2019-09-28T13:13:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/arizer-v-tower-desktop"/>
+    <title>Arizer V-Tower Desktop</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>Arizer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/V-tower_whip.jpg?v=1606844077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizer<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>V-Tower</strong></p>
+<p>Hailing from Canada, Arizer set out to make a vaporizer comparable to other well-known units for a fraction of the price. Utilizing true convection, the V-Tower is a convenient and reliable desktop vaporizer. The V-Tower uses glass components perfect for maintaining flavour and keeping clean. The digital readout allows for temperature, volume and C/F control, while the wide base keeps the device sturdy. The exterior of the unit is high grade, dual-wall, stainless steel that stays cool to the touch. However, the glass pieces get hot. Seriously.</p>
+<p><strong>Instructions</strong></p>
+<p>To use: Press power button to turn ON/OFF. Unit will beep and digital readout will appear. Toggle through precise temperatures by pressing the up and down arrows. Hit the menu button to silence unit to switch between Celsius and Fahrenheit, or set timer. Unit takes about a minute to heat up fully. Remember the element is wrapped in glass, so it will get HOT. It is recommended for first time use to let unit burn off excess materials for roughly 5 minutes before using. Optimal temperature is based on moisture content of your herb, amount being used, whether it’s fine or coarsely ground, how discreet you’re trying to be and of course the type of hit you enjoy. Somewhere between 180-220⁰C is a great place to stay within, remember it’s always easier to add heat than to remove it. While you’re waiting for your unit to heat start packing your bowl, and once heating is completed connect bowl with glass surrounding heating element. After bowl is placed on device ONLY touch the black rim (this black rim should be at the top) – the rest of the glass will be TOO HOT. I cannot stress this enough, you WILL burn your fingers. After the bowl is in place add glass whip. Draw slowly to achieve proper hits. Adding heat as your session increases is a great way to utilize all your herb has to offer. When herb is finished it will lose it’s flavour and will be a dark brown colour, however it will still be the same consistency as when you put it in. Save your vaporized material for making edibles. Vaporizing has “decarboxylated” the herb for you – you’re ready to bake!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Price_$50 - $100</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vendor_Arizer</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4117311029297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>CV1100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237212659754</id>
+    <published>2019-09-27T17:04:16-06:00</published>
+    <updated>2019-09-27T17:04:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/arizer-solo-ii-complete"/>
+    <title>Vaporizer Portable Arizer Solo II</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>Arizer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/ARIZER-SOLO-II.jpg?v=1535817597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizer<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            119.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Arizer Solo II is the latest vaporizer produced by the well known and respected Canadian manufacturer Arizer. This device is the evolved version of the famous Arizer Solo that we all know and loved. Although there are many similarities to the original Solo, this version has really stepped it up a notch where it counts; such as the LED display, temperature control capabilities, an improved air path system and better battery life.</p>
+<p>One of the most significant changes on the new Solo II in the user-friendly interface. The original Solo featured seven temperature indication lights which has been replaced by an LED display on the newer model. Below this new display are the navigation buttons which allows easy control of the customization features and temperature control.</p>
+<p>The Solo II allows precise customization through various settings. These settings include volume control, a session timer, temperature measurement options (Celsius or Fahrenheit), LED brightness and a start-up timer. Using these new features is a guaranteed way to improve your vaping experience.</p>
+<p>The Solo II provides extreme temperature flexibility which can be set anywhere between 50 and 210 degrees Celsius. The heat up time is also much quicker and more efficient than the previous model. The new Solo II takes less than 30 seconds to reach the maximum temperature, a significant improvement.</p>
+<p>Time to brag about vapour quality, a right which the Arizer Solo II has earned. The air path has been improved to make it less restrictive which improves airflow. Also, with the new precision temperature control system, the flavour produced is much more pure and tasteful. Use the lower temperatures to preserve flavour and to create a thinner cloud or increase the temperature for a thicker cloud which reduces some of the flavour but produces no harshness.</p>
+<p>The Solo II has twice the battery lifespan of its predecessor and four times more than the original Arizer Air. Depending on your heat setting, the Solo II will provide up to three hours of impressive battery life.</p>
+<p><strong><b>How to Use:</b></strong></p>
+<ol>
+<li>
+<span></span>Load Glass Aroma Tube. Do not over pack dish or pack dish too tightly.</li>
+<li>
+<span></span>Insert the glass aroma tube.</li>
+<li>
+<span></span>Press and hold the up arrow (^) and the menu (M) button to power the unit on.</li>
+<li>
+<span></span>Use the arrow buttons to set the desired temperature.</li>
+<li>
+<span></span>Inhale vapour through the glass aroma tube.</li>
+</ol>
+<p><strong>Pro Tip</strong><b> </b>for aroma therapy purposes, use the small dish for dried botanicals (example: lavender flowers) and/or 4-8 drops of essential oils. Set the temperature between 50 ºC - 100 <span>ºC</span> (122 <span>º</span>F - 212 <span>º</span>F) and gently inhale the fragrance.</p>
+<p><strong><b>Product Includes:</b></strong></p>
+<p>1 x Solo II Multi-Purpose Micro Heater<br>1 x Charger / Power Adapter<br>1 x Glass Aroma Tube (90 mm)<br>1 x Glass Aroma Tube (110 mm)<br>1 x Glass Aroma Dish<br>1 x Belt-Clip Carrying Case<br>2 x Silicone Stem Cap<br>1 x Stainless Steel Stirring Tool<br>4 x Stainless Steel Filter Screens<br>1 x Sample Aromatic Botanicals<br>1 x Owner's Manual</p>
+<p><strong><b>Warranty </b></strong>The Solo II include a manufacturer lifetime warranty on the heating element, a limited two-year warranty covering defective material or workmanship and a one-year warranty on the battery. Please retain proof of purchase for warranty. Warranty does not cover misuse, mistreatment, damaged caused by dropping or tampering of the product.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>arizer</s:tag>
+    <s:tag>arizer solo II</s:tag>
+    <s:tag>featured</s:tag>
+    <s:tag>hand held</s:tag>
+    <s:tag>handheld</s:tag>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>led</s:tag>
+    <s:tag>led screen</s:tag>
+    <s:tag>Price_$100 - $200</s:tag>
+    <s:tag>solo</s:tag>
+    <s:tag>Solo II</s:tag>
+    <s:tag>Temperature Control</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>vaporizer</s:tag>
+    <s:tag>Vaporizers</s:tag>
+    <s:tag>Vendor_Arizer</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237212659754</id>
+      <title>Blue</title>
+      <s:price currency="CAD">119.00</s:price>
+      <s:sku>CAS02B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237212659754</id>
+      <title>Black</title>
+      <s:price currency="CAD">119.00</s:price>
+      <s:sku>CAS02BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237212463146</id>
+    <published>2019-09-27T17:03:59-06:00</published>
+    <updated>2019-09-27T17:03:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/arizer-air-ii-complete"/>
+    <title>Vaporizer Arizer Air II Complete</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>Arizer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/arizer-air-II.jpg?v=1542474393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizer<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Arizer Air II is smaller, yet more powerful that is predecessor, the Arizer Air. The new Arizer Air II is exploding with high performance features, such as: improved flavour, revamped user-friendly controls, interchangeable high capacity batteries, portable body design and a two-year warranty. There is no doubt that this vape is one of the top favourites of any vapour enthusiast.</p>
+<p>The new Arizer Air II features a new and improved digital temperature control system and faster heat up time (about 20 seconds faster) than its predecessor. This device also offers precision control down to the very degree in both Celsius (50 <span>º</span>C - 220 ºC) and Fahrenheit (122 ºF - 428 ºF). A nice benefit, especially when you are searching for that perfect temperature to provide the right amount of vapour and excellent flavour.</p>
+<p>We love the new interchangeable 18650 battery. A single battery can provide up to an hour and a half of continuous use at max temperature and if your battery dies, you have the option of swapping it out for a different one while you recharge the original. You can also charge the batteries inside the device.</p>
+<p>The slightly smaller body design makes the Air II easier to take with you wherever you go. Although, you will want to ensure you carry the device and the accessories in the nifty belt-clip carrying case that comes with the unit to prevent damage from being inflicted to the glass aroma tubes.</p>
+<p><strong>Directions:</strong></p>
+<ol>
+<li>
+<span></span>Load the glass aroma tube. Do not over pack.</li>
+<li>
+<span></span>Insert that glass aroma tube into the device.</li>
+<li>
+<span></span>Press and hold the minus (-) and menu (m) buttons to power on the device.</li>
+<li>
+<span></span>Set the device to the desired temperature. Unit will take approximately 30 seconds to reach max temperature.</li>
+<li>
+<span></span>Inhale vapours and enjoy.</li>
+</ol>
+<p><strong>Pro Tip</strong><b> </b>for aroma therapy uses, use the small aroma dish for dried botanicals (example: lavender flowers) and/or 4-8 drops of essential oils. Set the temperature between 50 ºC - 100 <span>º</span>C (122 <span>º</span>F - 212 <span>º</span>F) and softly inhale the fragrance.</p>
+<p><strong>Product Includes:</strong></p>
+<p>1 x Air II Multi Purpose Micro Heater<br>1 x Battery<br>1 x Charger / USB / Power Adapter<br>1 x Glass Aroma Tube (70mm)<br>1 x Tipped Glass Aroma Tube (70mm)<br>1 x Glass Aroma Dish<br>2 x Silicone Stem Caps<br>1 x Belt-Clip Carrying Case<br>4 x Stainless Steel Stirring Tool<br>1 x Sample Aromatic Botanicals<br>1 x Owners Manual</p>
+<p><strong><b>Warranty </b></strong>The Solo II include a manufacturer lifetime warranty on the heating element, a limited two-year warranty covering defective material or workmanship and a one-year warranty on the battery. Please retain proof of purchase for warranty. Warranty does not cover misuse, mistreatment, damaged caused by dropping or tampering of the product.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Price_$100 - $200</s:tag>
+    <s:tag>Slim Vape</s:tag>
+    <s:tag>Temperature Control</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vaporizer</s:tag>
+    <s:tag>Vendor_Arizer</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237212463146</id>
+      <title>Blue</title>
+      <s:price currency="CAD">130.00</s:price>
+      <s:sku>CEQ004B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237212463146</id>
+      <title>Black</title>
+      <s:price currency="CAD">130.00</s:price>
+      <s:sku>CEQ004BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1543915372586</id>
+    <published>2019-09-27T17:03:43-06:00</published>
+    <updated>2019-09-27T17:03:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/vaporizer-arizer-argo"/>
+    <title>Vaporizer Arizer Argo</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>Arizer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/arizer_argo_vaporizer_655x_d6699577-c6fb-4ed3-bc9a-44b1eca24a23.jpg?v=1583082717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizer<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vaporizer Arizer Argo</p>
+<p><span>Fans of Arizer vaporizers rejoice! The new ArGo ultra-portable vape is as good as it gets! These new ArGo vapes are truly pocket sized with a digital display and precise controls plus </span><b>fast heat-up time</b><span> (~60 seconds), </span><b>easier draw</b><span>, and up to </span><b>90 minutes per charge</b><span>! Continue to Vape while charging! The digital panel helps you set the exact temperature that will deliver maximum flavour for your strain. The glass, ceramic and stainless steel air path combined with hybrid heating protects the taste of your herbs and helps ensure that pure flavour flows without restriction.</span><br><br><b>What's Included with the ArGo?</b></p>
+<ul>
+<li>1 x ArGo Portable Vaporizer</li>
+<li>1 x ArGo Swappable 18650 Battery</li>
+<li>1 x ArGo USB Charger /Power Adapter</li>
+<li>2 x ArGo Glass Aroma Tube </li>
+<li>1 x Belt-Clip Carry Case</li>
+<li>2 x Silicone Stem Caps</li>
+<li>1 x Stainless Steel Stirring Tool</li>
+<li>4 x Stainless Steel Filter Screens</li>
+<li>1 x ArGo Owner's Manual</li>
+</ul>
+<p><br><b>ArGo Vaporizer Specs</b><span>:</span></p>
+<ul>
+<li>Height 3.5 in / 9 cm</li>
+<li>Width 2 in / 5 cm</li>
+<li>Depth 1 in / 2.5 cm</li>
+<li>Weight 3.4 oz / 96 g</li>
+<li>Temp Range: 122 °F - 428 °F (50 °C - 220 °C) Fully Adjustable</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Argo</s:tag>
+    <s:tag>Arizer</s:tag>
+    <s:tag>Herb</s:tag>
+    <s:tag>Herb Vape</s:tag>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Herbal</s:tag>
+    <s:tag>Portable</s:tag>
+    <s:tag>Price_$100 - $200</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vaporizer</s:tag>
+    <s:tag>Vendor_Arizer</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1543915372586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">130.00</s:price>
+      <s:sku>CV1008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2142698012721</id>
+    <published>2019-08-19T08:21:32-06:00</published>
+    <updated>2019-08-19T08:21:32-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/vaporizer-xvape-aria-dry-herb"/>
+    <title>Vaporizer XVape Aria Dry Herb</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>XVape</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/Vaporizer_XVape_Aria_Dry_Herb_Blue.jpg?v=1598981331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XVape<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            49.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The XVape Aria is a unique vaporizer that works with dry herbs and concentrates. The digital OLED screen enables you to choose the exact degree you’d like to vaporize at between 100⁰C-240⁰C (212⁰F-464⁰F). The device heats up within 20 seconds and alerts you with haptic feedback. The XVape Aria features a ceramic conduction oven with an oval design for more even heating. The ceramic mouthpiece is secured to the top of the unit with super strong magnets and the isolated airflow allows for a smooth, consistent draw. Inside the unit is a small, scraping tool and the exterior is wrapped with a fabric to be more comfortable to hold. The internal 2600 (18650) mAh battery is able to be charged with the included micro USB charger.</p>
+<p>Xvape Aria<br> User’s manual<br> 2 sets of screens<br> Mesh concentrate pad<br> Cleaning brush<br> Alcohol pad<br> Cotton swabs<br> Micro USB Charger<br> 1 year warranty</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vendor_XVape</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2142698012721</id>
+      <title>Black</title>
+      <s:price currency="CAD">49.90</s:price>
+      <s:sku>CV1072BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2142698012721</id>
+      <title>Blue</title>
+      <s:price currency="CAD">49.90</s:price>
+      <s:sku>CV1072B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2113408008241</id>
+    <published>2019-08-07T09:49:20-06:00</published>
+    <updated>2019-08-07T09:49:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/vaporizer-famous-x-valkyrie"/>
+    <title>Vaporizer Famous X Valkyrie</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>Famous X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/CV5003BK-_02.jpg?v=1610747856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Famous X<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Valkyrie</strong></p>
+<p>Small and Sleek<br> Magnetized Mouthpiece<br> Convection<br> Digital OLED Screen<br> Temperature Control<br> Auto Shutoff<br> Rechargeable Removeable 3200 mAh battery</p>
+<p>Famous Brandz is the leading manufacturer of branded lifestyle accessories around the world. The Valkyrie is a small and sleek portable vaporizer by Famous Brandz. It is incredibly easy to use and charge. Utilizing the preferred vaporizing method of convection the Valkyrie allows you to customize each session to your preferred preferences.</p>
+<p> </p>
+<p>To use: Lift magnetic mouth piece and load chamber with loosely packed, ground herb. Quickly press circular power button 3 times. Choose between Normal mode and Smart path mode. Smart path allows you to modify session by temperature and time. Change temperature degree by degree by using the small buttons flanking the Digital OLED screen, press both together to switch between Celsius and Fahrenheit. Temperature range is able to be controlled between 80⁰C-200⁰C (176⁰F-428⁰F). Ideal temperature is based on moisture content in your herb and desired vapor thickness.</p>
+<p>This device is able to be used with oil and wax by using a stainless steel pod that is sold separately.</p>
+<p> </p>
+<p>Package Includes:</p>
+<p>Valkyrie Vaporizer<br> 5 Filter Screens<br> Packing Tool<br> Cleaning Brush<br> USB Charger<br> User Manual</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vendor_Famous X</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2113408008241</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>CV5003BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2113407647793</id>
+    <published>2019-08-07T09:46:52-06:00</published>
+    <updated>2019-08-07T09:46:52-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/vaporizer-famous-x-wraith"/>
+    <title>Vaporizer Famous X Wraith</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>Famous X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/CV5001BK-_04.jpg?v=1610747678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Famous X<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small and Ergonomic design<br> Quick heat-up time<br> Convection<br> Digital LED screen<br> Temperature Control<br> Auto Shutoff</p>
+<p> </p>
+<p>Famous Brandz is the leading manufacturer of branded lifestyle accessories around the world. The Wraith is a small, ergonomically designed, dry herb vaporizer by Famous Brandz. It utilizes convection heating for a more flavorful experience and features a fast heat up time and a digital readout.</p>
+<p> </p>
+<p>To use: Twist mouthpiece counterclockwise to remove and then loosely pack chamber with ground material. Quickly press the center button 3 times to turn on and use the flanking buttons to control temperature. With a full digital screen you are able to change temperature by precise degrees between 160⁰C-221⁰C (320⁰F-430⁰F). Ideal temperature is dependent on moisture content of your herb and desired vapor thickness. Unit will turn off after being idle for 3 minutes.</p>
+<p> </p>
+<p>Package Includes:</p>
+<p> </p>
+<p>Wraith Vaporizer<br> Silicone insert for mouthpiece<br> Cleaning brush<br> Packing tool<br> USB charging cable<br> User Manual</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vendor_Famous X</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2113407647793</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.99</s:price>
+      <s:sku>CV5001BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1992790310961</id>
+    <published>2019-05-23T10:43:43-06:00</published>
+    <updated>2019-05-23T10:43:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/vaporizer-xvape-starry-3-0-dry-herb-black"/>
+    <title>Vaporizer XVape Starry 3.0 Dry Herb</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>XMAX</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/5241eaf8-d590-3506-43d6-315bbb330c50_700x700_bf10220a-d816-4ffc-9ba0-b031204e35c8.jpg?v=1591031531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XMAX<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            67.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><strong>XMAX Starry 3.0</strong><span> is an upgraded, mighty and crafty popular portable vape. It keeps the same style and best function, only a couple of small improvements to perfect this excellent entry point vaporizer. Starry 3.0 is the top and best selling dry herb vaporizer with latest vape mods. Tobacco shops and vapor shops carry the Starry 3.0.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Price_$50 - $100</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vaporizers</s:tag>
+    <s:tag>Vendor_XMAX</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1992790310961</id>
+      <title>Black</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>CV1068BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1992790310961</id>
+      <title>Silver</title>
+      <s:price currency="CAD">67.50</s:price>
+      <s:sku>CV1068S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1992695382065</id>
+    <published>2019-05-23T08:38:48-06:00</published>
+    <updated>2019-05-23T08:38:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/vaporizer-mig-dray-dry-herb"/>
+    <title>Vaporizer Mig Dray Dry Herb</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>Mig Vapor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/Others-2-1.jpg?v=1591031520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mig Vapor<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            93.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>The newest creation gives you intensity, sensation, and flavor that you'd get from the expensive vaporizers for just the fracture of the price! DRAY vaporizer has a fully customizable temperature scale down to 1°F increments between 385-430°F. Our new quartz chamber and heat element offer endless options, giving you the ability to get the maximum efficiency and flavor from your dry herbs!</span></p>
+<p>The new wedge lipped chamber really allows for a cleaner filling, and the device makes a softer, more even vape. You will love this dry herb vaporizer. As always, Mig Vapor offers only the best quality products made specially to fit all of your needs.</p>
+<div class="text-3-list-title">What's Included:</div>
+<div class="text-3-list">
+<ul class="text-3-list-3-2">
+<li>DRAY Dry Herb Vaporizer - Black</li>
+<li>USB Adapter with cable</li>
+<li>1 Cleaning Brush</li>
+<li>1 Pack of cleaning swabs</li>
+<li>1 Manual</li>
+<li>1 Pair of Tweezers</li>
+<li>Very cool storage - Carry Box</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Price_$50 - $100</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vendor_Mig Vapor</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1992695382065</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">93.90</s:price>
+      <s:sku>CV1066</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251428827178</id>
+    <published>2018-02-19T14:10:57-07:00</published>
+    <updated>2018-02-19T14:10:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/vaporizer-volcano-digital"/>
+    <title>Vaporizer Volcano Digital</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>Volcano</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/volcanodigital_2.jpg?v=1519686433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Volcano<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            664.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Volcano Digital Vaporizer is one of the most technologically advanced oil and dry herb vaporizers that we can see on today's market. Sleek cone structure, through its patented technology, expels toxins and other harmful by products of combustion (i.e. tars and other compounds) through a vaporizing process which intensifies the effects of the active ingredients released through the vapor by approximately 75 percent.</p>
+<p>The Volcano is a powerful convection heated monster that delivers a great toast to your herbs in no time at all. What's backing up all this heating power is the high-performance heating cartridge which can reach maximum temperatures in no time at all with very little power needed. What's more, the heating block that vaporizes the herbs is made of food-grade quality, letting you know that exactly what is going into your lungs is not only safe but healthy.</p>
+<p><br></p>
+<h3>Details</h3>
+<ul>
+<li>Vaporizes  Herbs and Concentrates</li>
+<li>Storage Capacity 0.75 grams</li>
+<li>Temperature Levels - 40°C to 230°C</li>
+<li>Initial Heating Approx. 3 min</li>
+<li>Heating System Convection</li>
+<li>Material Stainless Steel</li>
+<li>No Batter</li>
+<li>Charger Power Supply</li>
+<li>Dimensions 18cm X 19cm X 1.98cm</li>
+<li>Weight  1.8 kilos</li>
+</ul>
+<p> </p>
+<h3><strong>What's in the box?</strong></h3>
+<ul>
+<li>1 x Volcano Digit Vaporizer</li>
+<li>1 x Aromatherapy Blend Filling Chamber</li>
+<li>1 x Balloon Set (Solid or Easy Valve)</li>
+<li>1 x Normal Screen Set</li>
+<li>1 x Air Filter Set</li>
+<li>1 x Liquid Pad</li>
+<li>1 x Cleaning Brush</li>
+<li>1 x Aromatherapy Grinder</li>
+<li>1 x Instruction Manual</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb Vape</s:tag>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Herb Vaporzier</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Oil Vaporizer</s:tag>
+    <s:tag>Price_$200 +</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vaporizers</s:tag>
+    <s:tag>Vendor_Volcano</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251428827178</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">664.90</s:price>
+      <s:sku>CVC102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251428401194</id>
+    <published>2018-02-19T14:10:56-07:00</published>
+    <updated>2018-02-19T14:10:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/vaporizer-volcano-classic-with-easy-valve-kit"/>
+    <title>Vaporizer Volcano Classic with Easy Valve Kit</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>Volcano</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/class.jpg?v=1519686496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Volcano<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            519.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vaporizer Volcano Classic with Easy Valve Kit</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Oil Vaporizer</s:tag>
+    <s:tag>Price_$200 +</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vendor_Volcano</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251428401194</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">519.90</s:price>
+      <s:sku>CVC101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237374730282</id>
+    <published>2018-02-16T17:39:47-07:00</published>
+    <updated>2018-02-16T17:39:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/portable-tundra-vaporizer"/>
+    <title>Vaporizer Wulf Mod Tundra</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>Wulf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/Wulf-Mods-Tundra-Portable-Vaporizer-3c8f31c6-fd9a-43e0-8bce-e31d89154ded_600.jpg?v=1518827989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wulf<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            39.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Wulf Tundra Classic Vape is portable and user friendly. It has 3 Preset temperature settings and a stainless steel encased ceramic chamber which allows your device to heat up quickly and evenly distribute heat throughout your herb. You can easily enjoy up to a 60 minute session on a single charge with the lithium-ion battery. This device is compact, easily controlled with 1 hand and has minimal cleanup after use.</p>
+<p><strong>Special Features:</strong></p>
+<ul>
+<li>
+<span></span>Portable and Compact</li>
+<li>
+<span></span>Stainless Steel Heating Oven</li>
+<li>
+<span></span>Quick Warm-up</li>
+<li>
+<span></span>3 Preset Temperature Settings</li>
+<li>
+<span></span>Max Temp 420 Fº</li>
+<li>
+<span></span>Micro USB Charging</li>
+<li>
+<span></span>High Rate Discharge Lithium Ion Battery</li>
+<li>
+<span></span>5" T x 1" W</li>
+</ul>
+<p><strong>Directions:</strong></p>
+<ol>
+<li>
+<span></span>First, remove the mouthpiece from your device by applying pressure from side to side (removing front to back could cause damage to the mouthpiece)</li>
+<li>
+<span></span>Before filling the chamber of your device, allow it to preheat without the mouthpiece</li>
+<li>
+<span></span>Turn on your device by pressing the power button rapidly 5x</li>
+<li>
+<span></span>To set your desired temp, hold the power button for 3 seconds to change the temperature</li>
+</ol>
+<ul>
+<li>
+<span></span>360 Fº is ideal for light vapour</li>
+<li>
+<span></span>420 Fº is ideal for dense vapour</li>
+</ul>
+<ol start="5">
+<li>
+<span></span>Grind herb and fill the chamber with the desired amount (for best results grind herb to crushed pepper consistency)</li>
+<li>
+<span></span>Do not overpack the chamber or else the device will not have good airflow</li>
+<li>
+<span></span>Once you have vaped your product, give it a stir. If your herb is all discoloured it is no longer useable. If it still has some colour, stir it up and keep on vaping</li>
+</ol>
+<p><strong>Product Includes:</strong></p>
+<ul>
+<li>1 x Classic Vaporizer</li>
+<li>1 x Mouthpiece</li>
+<li>1 x USB Cable</li>
+<li>1 x Cleaning Brush</li>
+<li>3 x Silicone Mouthpiece Covers</li>
+<li>2 x Mouthpiece Tips</li>
+<li>5 x Screens</li>
+</ul>
+<p><strong><b>Pro Tip </b></strong>When you first purchase the unit, charge it initially for 3 to 4 hours. After the 1<sup>st </sup>charge, do not charge it for more than 2 hours. Overcharging could ruin the battery or wear down the lifespan.</p>
+<p><strong><b>Warranty Information: </b></strong>1 year limited warranty.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Famous Dispensary Supply</s:tag>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vendor_Wulf</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237374730282</id>
+      <title>Black</title>
+      <s:price currency="CAD">39.90</s:price>
+      <s:sku>CWT001BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237374730282</id>
+      <title>Red</title>
+      <s:price currency="CAD">39.90</s:price>
+      <s:sku>CWT001R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237286354986</id>
+    <published>2018-02-16T17:08:54-07:00</published>
+    <updated>2018-02-16T17:08:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/mighty-portable"/>
+    <title>Vaporizer Mighty Portable</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>Storz &amp; Bickel</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/ce2039-1.jpg?v=1542398922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Storz &amp; Bickel<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            348.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: left;">The Mighty, a family member of the Volcano, is a portable, yet highly efficient. The Mighty is a battery-operated device that uses a combination of full hot air convection heating along with additional conduction. This process ensures an efficient vaporization from the very first draw. This device gives great performance and is the perfect size to slip into a purse or backpack with ease.</p>
+<p style="text-align: left;"><strong>Special Features:</strong></p>
+<ul style="text-align: left;">
+<li>Portable Vaporizer with two built-in rechargeable lithium-ion batteries</li>
+<li>Full Hot Air Convection Heating</li>
+<li>Odor-free and food safe materials</li>
+<li>High-performance heating cartridge and temperature fuse</li>
+<li>Display changeover between Celsius and Fahrenheit</li>
+<li>Vaporization temperature adjustable between approx. 40 ºC and 210 ºC (104 ºF and 410 ºF)</li>
+</ul>
+<ul style="text-align: left;">
+<li>
+<span></span>Large, digital LCD display with set and actual temperature</li>
+<li>
+<span></span>Precise electronic control</li>
+<li>
+<span></span>Includes Herb Mill and Filling Aid</li>
+<li>
+<span></span>Automatic switch off</li>
+</ul>
+<p style="text-align: left;"><strong>Product Specifications:</strong></p>
+<ul style="text-align: left;">
+<li>Size: 5.5" x 3.2" x 1.2"</li>
+<li>Power Consumption: 36 W</li>
+<li>Supply Voltage: 100 v - 240 v</li>
+<li>Operating Temperature: 5 ºC - 40 ºC / 41 ºF - 104 ºF</li>
+<ul>
+<li>Vaporization Temperature: 40 ºC - 210 ºC / 104 ºF - 41 ºF</li>
+</ul>
+<li>Weight: approx. 235 g (0.5 lbs)</li>
+</ul>
+<p style="text-align: left;"><strong>Directions:</strong></p>
+<ol style="text-align: left;">
+<li>
+<span></span>Please charge the MIGHTY vaporizer before use</li>
+<li>
+<span></span>Remove the cooling unit and mouthpiece</li>
+<li>
+<span></span>Fill the filling aid with ground herbs</li>
+<li>
+<span></span>Fill the filling chamber with filling aid</li>
+<li>
+<span></span>Turn on the MIGHTY and when the actual temperature heats up to your desired temperature the MIGHTY is ready to use</li>
+</ol>
+<p style="text-align: left;"><strong>Product Includes:</strong></p>
+<ul style="text-align: left;">
+<li>1 x MIGHTY Vaporizer</li>
+<li>1 x Power Adapter</li>
+<li>1 x Filling Aid</li>
+<li>1 x Herb Mill (approx. 55mm)</li>
+<li>1 x Cleaning Brush</li>
+<li>1 x MIGHTY Liquid Pad (approx. 15 mm x 5 mm )</li>
+<li>3 x Spare Screens (approx. 15 mm)</li>
+<li>1 x Spare Sealing Rings (one of each extra)</li>
+<li>1 x Dosing Capsule</li>
+<li>1 x Instructions for use</li>
+</ul>
+<p style="text-align: left;"><strong><b>Pro Tip </b></strong>You can purchase a car charger separately on <span><u><a href="http://www.storz-bickel.com">www.storz-bickel.com<br></a></u></span> so that you can always charge on the go!</p>
+<p style="text-align: left;"><strong><b>Warranty Information: </b></strong>2 year warranty.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb Vaporizer</s:tag>
+    <s:tag>Price_$200 +</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vendor_Storz &amp; Bickel</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237286354986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">348.90</s:price>
+      <s:sku>CE2039</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

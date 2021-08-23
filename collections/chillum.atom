@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://valiantdist.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://valiantdist.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://valiantdist.ca/collections/chillum.atom"/>
+  <title>Valiant Distribution Canada</title>
+  <updated>2021-02-19T08:51:36-07:00</updated>
+  <author>
+    <name>Valiant Distribution Canada</name>
+  </author>
+  <entry>
+    <id>https://valiantdist.ca/products/4824953749553</id>
+    <published>2021-02-19T08:51:36-07:00</published>
+    <updated>2021-02-19T08:51:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/everyday-essentials-5-in-one-hitter-1"/>
+    <title>Everyday Essentials – 5 in. One Hitter</title>
+    <s:type>One Hitter</s:type>
+    <s:vendor>Valiant Distribution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/B5479_1.jpg?v=1613689683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant Distribution<br>
+        <strong>Type: </strong>One Hitter<br>
+        <strong>Price: </strong>
+            3.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">The sophistication of a joint without the fuss of rolling. This 5-inch One Hitter features an optimized design with a tapered mouthpiece that concentrates airflow. It features a glass bead for anti-roll protection and made from quality, heat-resistant glass that comes in a variety of styles.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"> </span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">5” length</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Heat-resistant Glass</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Tapered Mouthpiece</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Anti-roll Protection</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_One Hitter</s:tag>
+    <s:tag>Vendor_Valiant Distribution</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4824953749553</id>
+      <title>SMOKE</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>B5471</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4824953749553</id>
+      <title>NAVY</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>B5473</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4824953749553</id>
+      <title>CLEAR</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>B5475</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4824953749553</id>
+      <title>TEAL</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>B5477</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4824953749553</id>
+      <title>AMBER</title>
+      <s:price currency="CAD">3.49</s:price>
+      <s:sku>B5479</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4832942424113</id>
+    <published>2021-02-18T18:31:30-07:00</published>
+    <updated>2021-02-18T18:31:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/everyday-essentials-4-in-one-hitter-1"/>
+    <title>Everyday Essentials – 4 in. One Hitter</title>
+    <s:type>One Hitter</s:type>
+    <s:vendor>Valiant Distribution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/B5469_2.jpg?v=1613698431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant Distribution<br>
+        <strong>Type: </strong>One Hitter<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">The sophistication of a joint without the fuss of rolling. This 4-inch One Hitter features a minimalist design with a flat mouthpiece that offers anti-roll protection. It’s made from quality, heat-resistant glass and come in a variety of styles.</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"> </span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">4” length</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Heat-resistant Glass</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Flat Mouthpiece</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Anti-roll Protection</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_One Hitter</s:tag>
+    <s:tag>Vendor_Valiant Distribution</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4832942424113</id>
+      <title>SMOKE</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>B5461</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4832942424113</id>
+      <title>NAVY</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>B5463</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4832942424113</id>
+      <title>CLEAR</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>B5465</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4832942424113</id>
+      <title>TEAL</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>B5467</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4832942424113</id>
+      <title>AMBER</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>B5469</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1328490446890</id>
+    <published>2018-02-19T14:09:23-07:00</published>
+    <updated>2018-02-19T14:09:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/pipe-chillum-puff-puff-pass-flute"/>
+    <title>Chillum Flute Pipe 3.5&quot;</title>
+    <s:type>One Hitter</s:type>
+    <s:vendor>Puff Puff Pass</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/BO1007W_1.jpg?v=1609869588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Puff Puff Pass<br>
+        <strong>Type: </strong>One Hitter<br>
+        <strong>Price: </strong>
+            8.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="ui-title-bar__title">Color Chillum with Puff Puff Pass branded logo.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blowout</s:tag>
+    <s:tag>chillum</s:tag>
+    <s:tag>Famous Supply Dispensary</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Glass Pipe</s:tag>
+    <s:tag>Glass Pipes</s:tag>
+    <s:tag>Hand Pipes</s:tag>
+    <s:tag>NEW Glass Pipes</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>ppp</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>puff puff pass</s:tag>
+    <s:tag>puff puff passPuff Puff Pass</s:tag>
+    <s:tag>Type_One Hitter</s:tag>
+    <s:tag>Vendor_Puff Puff Pass</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1328490446890</id>
+      <title>Black</title>
+      <s:price currency="CAD">8.90</s:price>
+      <s:sku>BO1007BK</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1328490446890</id>
+      <title>Milky Teal</title>
+      <s:price currency="CAD">8.90</s:price>
+      <s:sku>BO1007MT</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1328490446890</id>
+      <title>Teal</title>
+      <s:price currency="CAD">8.90</s:price>
+      <s:sku>BO1007T</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1328490446890</id>
+      <title>White</title>
+      <s:price currency="CAD">8.90</s:price>
+      <s:sku>BO1007W</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251403792426</id>
+    <published>2018-02-19T14:09:23-07:00</published>
+    <updated>2018-02-19T14:09:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/pipe-chillum-glass-with-honeycomb-amber"/>
+    <title>Glass Chillum Pipe with Honeycomb</title>
+    <s:type>One Hitter</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/B01003G_2.jpg?v=1609868936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>One Hitter<br>
+        <strong>Price: </strong>
+            5.00 - 6.00
+            <a href="https://valiantdist.ca/products/pipe-chillum-glass-with-honeycomb-amber">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sleek and stylish, this chillum is made from thick, borosilicate glass. Flavour is at it's finest by utilizing glass, it provides a clean, smooth draw. Featuring a fluted mouthpiece and a built in glass screen, this pipe is perfect for portability.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Built in screen</s:tag>
+    <s:tag>Chillum</s:tag>
+    <s:tag>Famous Supply Dispensary</s:tag>
+    <s:tag>Glass</s:tag>
+    <s:tag>Glass Chillum</s:tag>
+    <s:tag>Glass Pipe</s:tag>
+    <s:tag>glass screen</s:tag>
+    <s:tag>Hand Pipes</s:tag>
+    <s:tag>honeycomb screen</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>SALE Glass Pipes</s:tag>
+    <s:tag>Type_One Hitter</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251403792426</id>
+      <title>Amber</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>BO1003A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251403792426</id>
+      <title>Blue</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>BO1003B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251403792426</id>
+      <title>Black</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>BO1003BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251403792426</id>
+      <title>Green</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>BO1003G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251403792426</id>
+      <title>Pink</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>BO1003P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251403792426</id>
+      <title>Purple</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>BO1003PP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251403792426</id>
+      <title>Teal</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>BO1003T</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251363749930</id>
+    <published>2018-02-19T14:06:43-07:00</published>
+    <updated>2018-02-19T14:06:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/one-hitter-better-bat-spring-loaded-black"/>
+    <title>One Hitter Better Bat Spring-Loaded</title>
+    <s:type>One Hitter</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/BM108_1.jpg?v=1609880135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>One Hitter<br>
+        <strong>Price: </strong>
+            2.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>One Hitter Better Bat Spring-Loaded</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Pipes</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>SALE Metal Stone &amp; Wood Pipes</s:tag>
+    <s:tag>Type_One Hitter</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251363749930</id>
+      <title>Black</title>
+      <s:price currency="CAD">2.30</s:price>
+      <s:sku>BM110</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251363749930</id>
+      <title>Blue</title>
+      <s:price currency="CAD">2.30</s:price>
+      <s:sku>BM109</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251363749930</id>
+      <title>Green</title>
+      <s:price currency="CAD">2.30</s:price>
+      <s:sku>BM108</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237396226090</id>
+    <published>2018-02-16T17:48:27-07:00</published>
+    <updated>2018-02-16T17:48:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/one-hitter-cig-bat"/>
+    <title>One Hitter Cig Bat</title>
+    <s:type>One Hitter</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/BM117_3.jpg?v=1609880706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>One Hitter<br>
+        <strong>Price: </strong>
+            1.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Pipes</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_One Hitter</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237396226090</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.15</s:price>
+      <s:sku>BM117</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237349728298</id>
+    <published>2018-02-16T17:31:29-07:00</published>
+    <updated>2018-02-16T17:31:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/spring-loaded-weave-tip-one-hitter"/>
+    <title>Spring Loaded Weave Tip One Hitter</title>
+    <s:type>One Hitter</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/BM101L.jpg?v=1518827490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>One Hitter<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Put a spring in your step with these brightly colored, high quality one hitters. They are spring loaded to allow for easy ash removal, quality springs prevent stretching so these can be used many times over.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Pipes</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>SALE Metal Stone &amp; Wood Pipes</s:tag>
+    <s:tag>Type_One Hitter</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349728298</id>
+      <title>Green</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM101LG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349728298</id>
+      <title>Silver</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM101LS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349728298</id>
+      <title>Red</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM101LR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349728298</id>
+      <title>Purple</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM101LPP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349728298</id>
+      <title>Blue</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM101LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349728298</id>
+      <title>Black</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM101LBK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237349597226</id>
+    <published>2018-02-16T17:31:27-07:00</published>
+    <updated>2018-02-16T17:31:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/spring-loaded-1-2-weave-tip-one-hitter"/>
+    <title>Spring Loaded 1/2 Weave Tip One Hitter</title>
+    <s:type>One Hitter</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/BM101SB_3.jpg?v=1609878489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>One Hitter<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Pipes</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>SALE Metal Stone &amp; Wood Pipes</s:tag>
+    <s:tag>Type_One Hitter</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349597226</id>
+      <title>Purple</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM101SPP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349597226</id>
+      <title>Green</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM101SG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349597226</id>
+      <title>Black</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM101SBK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349597226</id>
+      <title>Silver</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM101SS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349597226</id>
+      <title>Red</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM101SR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349597226</id>
+      <title>Blue</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM101SB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237349367850</id>
+    <published>2018-02-16T17:31:21-07:00</published>
+    <updated>2018-02-16T17:31:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/spring-loaded-disc-stack-one-hitter"/>
+    <title>Spring Loaded Disc Stack One Hitter</title>
+    <s:type>One Hitter</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/BM104LPP_2.jpg?v=1609879004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>One Hitter<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Pipes</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>SALE Metal Stone &amp; Wood Pipes</s:tag>
+    <s:tag>Type_One Hitter</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349367850</id>
+      <title>Black</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM104LBK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349367850</id>
+      <title>Silver</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM104LS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349367850</id>
+      <title>Red</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM104LR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349367850</id>
+      <title>Purple</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM104LPP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349367850</id>
+      <title>Green</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM104LG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349367850</id>
+      <title>Blue</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM104LB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237349236778</id>
+    <published>2018-02-16T17:31:19-07:00</published>
+    <updated>2018-02-16T17:31:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/spring-loaded-1-2-disc-stack-one-hitter"/>
+    <title>Spring Loaded 1/2 Disc Stack One Hitter</title>
+    <s:type>One Hitter</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/BM104_1.jpg?v=1609878940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>One Hitter<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Perfect for portability! This discreet one hitter allows you to push out your ash for easy cleaning with the spring loaded function. Made from aluminum and able to be fully cleaned with 99% alcohol this pipe is teeny and discreet.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Pipes</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>SALE Metal Stone &amp; Wood Pipes</s:tag>
+    <s:tag>Type_One Hitter</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349236778</id>
+      <title>Silver</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM104SS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349236778</id>
+      <title>Black</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM104SBK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349236778</id>
+      <title>Red</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM104SR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349236778</id>
+      <title>Purple</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM104SPP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349236778</id>
+      <title>Green</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM104SG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349236778</id>
+      <title>Blue</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>BM104SB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237348581418</id>
+    <published>2018-02-16T17:31:08-07:00</published>
+    <updated>2018-02-16T17:31:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/white-with-colour-stripe-pipe"/>
+    <title>White with Colour Stripe Pipe</title>
+    <s:type>One Hitter</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/BO1002.jpg?v=1609867180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>One Hitter<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="ui-title-bar__title">This 3.25" white glass one hitter features eye-catching stripe details and a compact single dose design. Available in 6 color variants.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Famous Supply Dispensary</s:tag>
+    <s:tag>Hand Pipes</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>SALE Glass Pipes</s:tag>
+    <s:tag>Type_One Hitter</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237348581418</id>
+      <title>Blue</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>BO1002B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237348581418</id>
+      <title>Yellow</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>BO1002Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237348581418</id>
+      <title>Red</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>BO1002R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237348581418</id>
+      <title>Pink</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>BO1002P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237348581418</id>
+      <title>Green</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>BO1002G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237348581418</id>
+      <title>Black</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>BO1002BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237348188202</id>
+    <published>2018-02-16T17:31:05-07:00</published>
+    <updated>2018-02-16T17:31:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/colour-with-white-stripes-pipe"/>
+    <title>Colour With White Stripes Pipe</title>
+    <s:type>One Hitter</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/BO1001A_2.jpg?v=1609871263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>One Hitter<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="ui-title-bar__title">This 3.25" coloured glass one hitter features eye-catching stripe details and a compact single dose design. Available in 6 different colours.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Famous Supply Dispensary</s:tag>
+    <s:tag>Hand Pipes</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>SALE Glass Pipes</s:tag>
+    <s:tag>Type_One Hitter</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237348188202</id>
+      <title>Pink</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>BO1001P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237348188202</id>
+      <title>Purple</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>BO1001PP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237348188202</id>
+      <title>Green</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>BO1001G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237348188202</id>
+      <title>Black</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>BO1001BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237348188202</id>
+      <title>Blue</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>BO1001B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237348188202</id>
+      <title>Amber</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>BO1001A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://valiantdist.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://valiantdist.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://valiantdist.ca/collections/accessories.atom"/>
+  <title>Valiant Distribution Canada</title>
+  <updated>2021-06-09T13:32:34-06:00</updated>
+  <author>
+    <name>Valiant Distribution Canada</name>
+  </author>
+  <entry>
+    <id>https://valiantdist.ca/products/6586192527409</id>
+    <published>2021-06-09T13:32:34-06:00</published>
+    <updated>2021-06-09T13:32:34-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/boveda-2-way-humidity-packs-individually-wrapped-4g-box-of-125"/>
+    <title>Boveda 2-Way Humidity Packs – Individually Wrapped 4g – Box of 125</title>
+    <s:type>Humidity Control</s:type>
+    <s:vendor>Boveda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/N5043_1.jpg?v=1623267157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boveda<br>
+        <strong>Type: </strong>Humidity Control<br>
+        <strong>Price: </strong>
+            129.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Protect those precious aromas and flavors with Boveda 2-Way Humidity Packs, the Original Terpene Shield™!<span data-mce-fragment="1"> </span>Boveda Humidity Packs are designed to provide an optimal 62% relative humidity, which prevents terpene evaporation and keep buds looking and tasting their absolute freshest!</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Patented 2-Way Humidity Control</li>
+<li data-mce-fragment="1">Prevents Terpene Evaporation</li>
+<li data-mce-fragment="1">Individually Wrapped for Convenience</li>
+<li data-mce-fragment="1">Trusted Global Leader</li>
+<li data-mce-fragment="1">Multi-purpose with Many Uses</li>
+<li data-mce-fragment="1">Available in 4g and 8g Sizes</li>
+</ul>
+<p data-mce-fragment="1">Did you know? Even in an airtight container, your buds can continue to lose flavor and aroma due to terpene evaporation.</p>
+<p data-mce-fragment="1">Protect your stash with Boveda 2-Way Humidity Packs! Their patented 2-way humidity control system is available in different sizes according to your needs. It’s as simple as including a humidity pack in your favorite cannabis container.</p>
+<p data-mce-fragment="1">Boveda Humidity Packs create the Original Terpene Shield™ to protect your terpenes! Boveda creates a monolayer of purified water to encase your flower and keep your terps freshly intact until you’re ready to roll.</p>
+<p data-mce-fragment="1">With Boveda, you can take pride in enjoying truly fresh flower every time. Protect your terps and level-up your storage game with world-class humidity control from Boveda.</p>
+<p data-mce-fragment="1"><span data-mce-fragment="1"> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_$100 - $200</s:tag>
+    <s:tag>Type_Humidity Control</s:tag>
+    <s:tag>Vendor_Boveda</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/6586192527409</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">129.90</s:price>
+      <s:sku>N5043</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/6586192461873</id>
+    <published>2021-06-09T13:32:31-06:00</published>
+    <updated>2021-06-09T13:32:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/boveda-2-way-humidity-packs-individually-wrapped-8g-box-of-100"/>
+    <title>Boveda 2-Way Humidity Packs – Individually Wrapped 8g – Box of 100</title>
+    <s:type>Humidity Control</s:type>
+    <s:vendor>Boveda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/N5041_1.jpg?v=1623267153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boveda<br>
+        <strong>Type: </strong>Humidity Control<br>
+        <strong>Price: </strong>
+            114.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Protect those precious aromas and flavors with Boveda 2-Way Humidity Packs, the Original Terpene Shield™! <span data-mce-fragment="1"> </span>Boveda Humidity Packs are designed to provide an optimal 62% relative humidity, which prevents terpene evaporation and keep buds looking and tasting their absolute freshest!</p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Patented 2-Way Humidity Control</li>
+<li data-mce-fragment="1">Prevents Terpene Evaporation</li>
+<li data-mce-fragment="1">Individually Wrapped for Convenience</li>
+<li data-mce-fragment="1">Trusted Global Leader</li>
+<li data-mce-fragment="1">Multi-purpose with Many Uses</li>
+<li data-mce-fragment="1">Available in 4g and 8g Sizes</li>
+</ul>
+<p data-mce-fragment="1">Did you know? Even in an airtight container, your buds can continue to lose flavor and aroma due to terpene evaporation.</p>
+<p data-mce-fragment="1">Protect your stash with Boveda 2-Way Humidity Packs! Their patented 2-way humidity control system is available in different sizes according to your needs. It’s as simple as including a humidity pack in your favorite cannabis container.</p>
+<p data-mce-fragment="1">Boveda Humidity Packs create the Original Terpene Shield™ to protect your terpenes! Boveda creates a monolayer of purified water to encase your flower and keep your terps freshly intact until you’re ready to roll.</p>
+<p data-mce-fragment="1">With Boveda, you can take pride in enjoying truly fresh flower every time. Protect your terps and level-up your storage game with world-class humidity control from Boveda.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_$100 - $200</s:tag>
+    <s:tag>Type_Humidity Control</s:tag>
+    <s:tag>Vendor_Boveda</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/6586192461873</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">114.90</s:price>
+      <s:sku>N5041</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4740731764785</id>
+    <published>2020-07-29T13:33:03-06:00</published>
+    <updated>2020-07-29T13:33:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/famous-x-tray-of-24-16-5-ft-hemp-wick"/>
+    <title>Famous X Tray of 24 16.5 FT Hemp Wick</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Famous X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/HHW108_7_67e7223a-5def-4a8b-a445-da81bc83df41.jpg?v=1600894473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Famous X<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Famous X Hemp Wick is made from hemp string coated in organic beeswax. A healthier, tastier alternative to lighting whatever you happen to be smoking. No more inhaling gross fumes from your lighter, just clean, pure beeswax and hemp. It burns at a lower temperature so you get a much smoother hit. Your lighter will last longer as well, simply light the end of the string and hold the lit end over your bowl. Super convenient (and sticky) hemp wick is designed to wrap around your lighter (or pipe) for handy hits whenever the mood strikes. Famous X hemp wick is 16.5ft, and comes in a tray of 24.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Accessory</s:tag>
+    <s:tag>Vendor_Famous X</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4740731764785</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>F530X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4626516312113</id>
+    <published>2020-05-14T10:42:15-06:00</published>
+    <updated>2020-05-14T10:42:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/devils-lettuce-dewbie-rehydrating-stone"/>
+    <title>Devil&apos;s Lettuce - Dewbie Rehydrating Stone</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Devil&apos;s Lettuce Shop Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/dewbiecloseup1.jpg?v=1589469250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Devil&#39;s Lettuce Shop Inc.<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The dewbie is a hydration stone proudly made in Calgary. It uses Canadian kiln-fired clay and comes packaged in a hemp drawstring bag. The dewbie can be used for 1000 years, even with daily use. It works quickly, is able to be reused by adding water and can be easily cleaned using soap and water.</p>
+<p>The dewbie can be used to maintain current moisture or to fully re-hydrate dried herb. It can be soaked anywhere from 30 seconds to 2 minutes for maximum absorption. After that the stone should be dabbed dry and placed touching your material for about 5-10 minutes per gram at room temperature. Then it can be removed. If it is left for too long it can over-hydrate. In that case remove material from jar and let air dry.</p>
+<p>If you are using the dewbie in a jar containing a large amount of herb that is constantly being opened, the dewbie can usually remain inside to maintain freshness. If you wish to maintain freshness with a smaller amount of material add less water to the dewbie.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Accessory</s:tag>
+    <s:tag>Vendor_Devil&apos;s Lettuce Shop Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4626516312113</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>L051</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2113645674545</id>
+    <published>2020-02-20T13:35:33-07:00</published>
+    <updated>2020-02-20T13:35:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/aurora-hemp-wick"/>
+    <title>Aurora Hemp Wick (24 per tray)</title>
+    <s:type>Accessory</s:type>
+    <s:vendor>Aurora</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/0265_16.5_wick.jpg?v=1596302615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aurora<br>
+        <strong>Type: </strong>Accessory<br>
+        <strong>Price: </strong>
+            59.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Made from natural hemp and beeswax, Hemp Wick burns slowly and at a lower temperature than a lighter. Traditional butane lighters add harsh flavour and tend to run out quickly. Hemp wick allows for smoother and tastier hits while making your lighter last longer. This Hemp Wick is available in 16.5ft.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_$50 - $100</s:tag>
+    <s:tag>Type_Accessory</s:tag>
+    <s:tag>Vendor_Aurora</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2113645674545</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.76</s:price>
+      <s:sku>AURHW</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2089816653873</id>
+    <published>2019-07-29T11:35:36-06:00</published>
+    <updated>2019-07-29T11:35:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/integra-boost-62-bulk"/>
+    <title>Integra Boost 62% Bulk (Single)</title>
+    <s:type>Humidity Control</s:type>
+    <s:vendor>Desiccare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/boost_pocket.jpg?v=1596302181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Desiccare<br>
+        <strong>Type: </strong>Humidity Control<br>
+        <strong>Price: </strong>
+            0.41 - 0.50
+            <a href="https://valiantdist.ca/products/integra-boost-62-bulk">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Create perfect balance with Integra Boost humidity regulators. Whether it’s keeping moisture low to prevent rot, or adding moisture to items that need to stay fresh, these packs do it all. The patented technology within these packets will add or remove moisture to control the humidity at 62%. A replacement indicator is included to alert you when it's time to change your pack, the dot turns from red to blue. Each pack can protect moisture for up to 12 grams of plants.These packs are easy to use and are available in 4 and 8 gram sizes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Accessory</s:tag>
+    <s:tag>Type_Humidity Control</s:tag>
+    <s:tag>Vendor_Desiccare</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2089816653873</id>
+      <title>4 gram</title>
+      <s:price currency="CAD">0.41</s:price>
+      <s:sku>L044</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2089816653873</id>
+      <title>8 gram</title>
+      <s:price currency="CAD">0.50</s:price>
+      <s:sku>L046</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2089818849329</id>
+    <published>2019-07-25T19:00:36-06:00</published>
+    <updated>2019-07-25T19:00:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/integra-boost-4-gram-62-retail-200-pack"/>
+    <title>Integra Boost 62% (Pack)</title>
+    <s:type>Humidity Control</s:type>
+    <s:vendor>Desiccare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/integra_5c3c70dc-6be1-4b41-8b6f-87309692624e.jpg?v=1596302187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Desiccare<br>
+        <strong>Type: </strong>Humidity Control<br>
+        <strong>Price: </strong>
+            79.70 - 93.80
+            <a href="https://valiantdist.ca/products/integra-boost-4-gram-62-retail-200-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Integra Boost humidity regulators help create the perfect balance of moisture. Their patented technology adds or removes moisture to keep humidity levels at 62%. Keeping moisture as bay helps prevent rot and adding moisture helps maintain freshness. A replacement indicator is included to alert you when it's time to change the pack, it will change from red to blue. <span>Each pack can protect moisture for up to 12 grams of plants. </span>The packs are easy to use and are available in a 4 gram, 200 pack as well as an 8 gram, 144 pack.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_$50 - $100</s:tag>
+    <s:tag>Type_Accessory</s:tag>
+    <s:tag>Type_Humidity Control</s:tag>
+    <s:tag>Vendor_Desiccare</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2089818849329</id>
+      <title>4 gram/200 pack</title>
+      <s:price currency="CAD">79.70</s:price>
+      <s:sku>L048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2089818849329</id>
+      <title>8 gram/144 pack</title>
+      <s:price currency="CAD">93.80</s:price>
+      <s:sku>L050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251364536362</id>
+    <published>2018-02-19T14:06:45-07:00</published>
+    <updated>2018-02-19T14:06:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/bag-vector-humidifier-10-x-5"/>
+    <title>Bag Vector Humidifier 10&quot; x 5&quot;</title>
+    <s:type>Cigar Bag</s:type>
+    <s:vendor>Vector</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/vector_bags.jpg?v=1519335634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vector<br>
+        <strong>Type: </strong>Cigar Bag<br>
+        <strong>Price: </strong>
+            2.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bag Vector Humidifier 10" x 5"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Tight</s:tag>
+    <s:tag>Bag</s:tag>
+    <s:tag>Bags</s:tag>
+    <s:tag>Cigar</s:tag>
+    <s:tag>Cigar Bags</s:tag>
+    <s:tag>Cigars</s:tag>
+    <s:tag>New-UpdateHumidifier Bag</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Storage</s:tag>
+    <s:tag>Type_Cigar Bag</s:tag>
+    <s:tag>Vector</s:tag>
+    <s:tag>Vector Bag</s:tag>
+    <s:tag>Vector Humidifier</s:tag>
+    <s:tag>Vendor_Vector</s:tag>
+    <s:tag>Zip Lock</s:tag>
+    <s:tag>Zip-Lock Bag</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251364536362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.30</s:price>
+      <s:sku>HB109</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1325443022890</id>
+    <published>2018-02-16T16:40:56-07:00</published>
+    <updated>2018-02-16T16:40:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/silicone-cigarette-holder"/>
+    <title>Silicone Cigarette Holder</title>
+    <s:type>Cigarette Holder</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/silicone_cigarette_holder.jpg?v=1609876599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Cigarette Holder<br>
+        <strong>Price: </strong>
+            0.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Available with Small &amp; Large</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>710</s:tag>
+    <s:tag>blowout</s:tag>
+    <s:tag>NEW Storage</s:tag>
+    <s:tag>non-stick</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Silicone</s:tag>
+    <s:tag>Silicone Accessories</s:tag>
+    <s:tag>Type_Cigarette Holder</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1325443022890</id>
+      <title>Small Orange</title>
+      <s:price currency="CAD">0.50</s:price>
+      <s:sku>HSRM01O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1325443022890</id>
+      <title>Large Orange</title>
+      <s:price currency="CAD">0.50</s:price>
+      <s:sku>HSRM03O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1325443022890</id>
+      <title>Small Pink &amp; Green</title>
+      <s:price currency="CAD">0.50</s:price>
+      <s:sku>HSRM01PG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

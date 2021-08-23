@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://valiantdist.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://valiantdist.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://valiantdist.ca/collections/display-shelves.atom"/>
+  <title>Valiant Distribution Canada</title>
+  <updated>2018-02-19T18:04:38-07:00</updated>
+  <author>
+    <name>Valiant Distribution Canada</name>
+  </author>
+  <entry>
+    <id>https://valiantdist.ca/products/1252464263210</id>
+    <published>2018-02-19T18:04:38-07:00</published>
+    <updated>2018-02-19T18:04:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/acrylic-display-for-tank-and-e-juice"/>
+    <title>Acrylic Display For Tank and E-Juice</title>
+    <s:type>Display</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/displaystand-web1.jpg?v=1519625857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Display<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Acrylic Display For Tank and E-Juice</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acrylic Display</s:tag>
+    <s:tag>Display Shelves</s:tag>
+    <s:tag>E-Cig Display</s:tag>
+    <s:tag>hiddenE-Juice Display</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>SALE Electronic Cigarettes</s:tag>
+    <s:tag>Type_Display</s:tag>
+    <s:tag>vendor_valiant</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1252464263210</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku>ACRYLIC TRAYS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251422339114</id>
+    <published>2018-02-19T14:10:33-07:00</published>
+    <updated>2018-02-19T14:10:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/acrylic-trays-for-cheech-chong-e-juice"/>
+    <title>Acrylic Trays for Cheech &amp; Chong E-Juice</title>
+    <s:type>Display</s:type>
+    <s:vendor>Cheech &amp; Chong</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/cheechandchong_5.jpg?v=1519625951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheech &amp; Chong<br>
+        <strong>Type: </strong>Display<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Acrylic Trays for Cheech &amp; Chong E-Juice</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Acrylic Display</s:tag>
+    <s:tag>Display Shelves</s:tag>
+    <s:tag>E-Juice Display</s:tag>
+    <s:tag>New-UpdateThe World Piece</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Display</s:tag>
+    <s:tag>Vendor_Cheech &amp; Chong</s:tag>
+    <s:tag>World Piece</s:tag>
+    <s:tag>World Piece Display</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251422339114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku>ACRYLICTRAYSCC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://valiantdist.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://valiantdist.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://valiantdist.ca/collections/silicone-containers-1.atom"/>
+  <title>Valiant Distribution Canada</title>
+  <updated>2018-02-19T14:07:02-07:00</updated>
+  <author>
+    <name>Valiant Distribution Canada</name>
+  </author>
+  <entry>
+    <id>https://valiantdist.ca/products/1251369320490</id>
+    <published>2018-02-19T14:07:02-07:00</published>
+    <updated>2018-02-19T14:07:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/silicone-conatiner-honeycomb-26ml-orange-yellow"/>
+    <title>Silicone Container Honeycomb  Assorted Colors 26ml</title>
+    <s:type>Container</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/HSP279BW_1.jpg?v=1611109162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Container<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These adorable honeycomb shaped silicone containers will keep your concentrates safe and secure! With a large 26ML volume capacity and a lid that securely closes, this is the perfect storage choice for your favourite wax or shatter.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>famous dispensary supply</s:tag>
+    <s:tag>NEW Storage</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Silicone Containers</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>Type_Container</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251369320490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>HSP279</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251368927274</id>
+    <published>2018-02-19T14:07:01-07:00</published>
+    <updated>2018-02-19T14:07:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/silicone-conatiner-cloud-22ml-quad-compartment-black"/>
+    <title>Silicone Cloud Quad Compartment Container-22ml-Assorted</title>
+    <s:type>Container</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/HSP277_5.jpg?v=1611109051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Container<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>710</s:tag>
+    <s:tag>NEW Storage</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>non-stick</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Silicone</s:tag>
+    <s:tag>Silicone Containers</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>Type_Container</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251368927274</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.75</s:price>
+      <s:sku>HSP277</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251366502442</id>
+    <published>2018-02-19T14:06:52-07:00</published>
+    <updated>2018-02-19T14:06:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/silicone-conatiner-heart-18ml-red"/>
+    <title>Silicone Heart Container-18ml-Assorted</title>
+    <s:type>Container</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/SiliocneProduct_34.jpg?v=1611108851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Container<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NEW Storage</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Silicone Containers</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>Type_Container</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251366502442</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>HSP267</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237207777322</id>
+    <published>2018-02-16T16:41:13-07:00</published>
+    <updated>2018-02-16T16:41:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/silicone-conatiner-skull-3ml"/>
+    <title>Silicone Skull Container-3ml-Assorted</title>
+    <s:type>Container</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/HSP225RYSkullContainer_5.jpg?v=1625068517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Container<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NEW Storage</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Silicone Containers</s:tag>
+    <s:tag>storage</s:tag>
+    <s:tag>Type_Container</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237207777322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>HSP225</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

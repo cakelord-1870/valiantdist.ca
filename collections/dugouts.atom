@@ -1,0 +1,666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://valiantdist.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://valiantdist.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://valiantdist.ca/collections/dugouts.atom"/>
+  <title>Valiant Distribution Canada</title>
+  <updated>2021-01-11T13:18:38-07:00</updated>
+  <author>
+    <name>Valiant Distribution Canada</name>
+  </author>
+  <entry>
+    <id>https://valiantdist.ca/products/4815381954609</id>
+    <published>2021-01-11T13:18:38-07:00</published>
+    <updated>2021-01-11T13:18:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/aluminum-dugout-w-grinder-assorted"/>
+    <title>Aluminum Dugout w/Grinder - Assorted</title>
+    <s:type>Dugout</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/HDU7000-BLUEDUGOUT_4.jpg?v=1611105286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Dugout<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Dugout</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4815381954609</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>HDU7000</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4802092269617</id>
+    <published>2020-12-02T14:20:00-07:00</published>
+    <updated>2020-12-02T14:20:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/aluminum-metal-dugout-w-grinder-and-one-hitter"/>
+    <title>Aluminum Metal Dugout with Grinder and One Hitter</title>
+    <s:type>Dugout</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/B5329R_4.jpg?v=1609886609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Dugout<br>
+        <strong>Price: </strong>
+            12.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Aluminum Dugout</s:tag>
+    <s:tag>CNC Aluminum</s:tag>
+    <s:tag>Dug Out</s:tag>
+    <s:tag>dugouts</s:tag>
+    <s:tag>One Hitter</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Dugout</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802092269617</id>
+      <title>Black</title>
+      <s:price currency="CAD">12.49</s:price>
+      <s:sku>B5329</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802092269617</id>
+      <title>Silver</title>
+      <s:price currency="CAD">12.49</s:price>
+      <s:sku>B5329S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802092269617</id>
+      <title>Red</title>
+      <s:price currency="CAD">12.49</s:price>
+      <s:sku>B5329R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802092269617</id>
+      <title>Blue</title>
+      <s:price currency="CAD">12.49</s:price>
+      <s:sku>B5329B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802092269617</id>
+      <title>Purple</title>
+      <s:price currency="CAD">12.49</s:price>
+      <s:sku>B5329PP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4802082439217</id>
+    <published>2020-12-02T14:06:15-07:00</published>
+    <updated>2020-12-02T14:06:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/wooden-dugout-w-one-hitter-assorted-101mm"/>
+    <title>Wooden Dugout with One Hitter-Assorted-101mm</title>
+    <s:type>Dugout</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/B5333_4.jpg?v=1607866124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Dugout<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dug Out</s:tag>
+    <s:tag>dugouts</s:tag>
+    <s:tag>One Hitter</s:tag>
+    <s:tag>popular</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Dugout</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802082439217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>B5333</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4795064746033</id>
+    <published>2020-11-13T11:20:52-07:00</published>
+    <updated>2020-11-13T11:20:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/plastic-dugout-w-one-hitter-assorted"/>
+    <title>Plastic Dugout with One Hitter-Assorted</title>
+    <s:type>Dugout</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/B5335_4.jpg?v=1607866190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Dugout<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Aluminum Dugout</s:tag>
+    <s:tag>CNC Aluminum</s:tag>
+    <s:tag>Dug Out</s:tag>
+    <s:tag>Dugouts</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>One Hitter</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Dugout</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4795064746033</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>B5335</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1600874414122</id>
+    <published>2018-08-12T21:54:44-06:00</published>
+    <updated>2018-08-12T21:54:44-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/dugout"/>
+    <title>Famous X Dugouts</title>
+    <s:type>Dugout</s:type>
+    <s:vendor>Famous X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/HDU6000B.jpg?v=1622569846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Famous X<br>
+        <strong>Type: </strong>Dugout<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Our dugouts feature an ultra-modern design, and bold best selling colours.</p>
+<p class="p1">Pocket sized and discrete, they are constructed with a durable<span class="Apple-converted-space">  </span>aluminum frame.</p>
+<p class="p1">Pack your herb with ease as<span class="Apple-converted-space"> </span>each dugout includes a<span class="Apple-converted-space"> </span>patented metal Digger one<span class="Apple-converted-space">  </span>hitter bat, swivel lid and stash<span class="Apple-converted-space"> </span>compartment.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Dugout</s:tag>
+    <s:tag>Vendor_Famous X</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1600874414122</id>
+      <title>green</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>HDU6000G</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1600874414122</id>
+      <title>blue</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>HDU6000B</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1600874414122</id>
+      <title>red</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>HDU6000R</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1452421578794</id>
+    <published>2018-05-02T20:59:07-06:00</published>
+    <updated>2018-05-02T20:59:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/dugout-c-c-famous-x"/>
+    <title>Cheech &amp; Chong Dugout</title>
+    <s:type>Dugout</s:type>
+    <s:vendor>Cheech and Chong Up in Smoke</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/HDU500PP-Dugout-C_C-Famous_X-Purple-1.jpg?v=1583082345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheech and Chong Up in Smoke<br>
+        <strong>Type: </strong>Dugout<br>
+        <strong>Price: </strong>
+            11.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><li>Durable aluminum frame</li>
+<li>Metal one hitter bat, swivel lid &amp; stash compartment</li>
+<li>Pocket sized &amp; discrete</li>
+<li>Available in Black, Green and Purple</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum Dugout</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Cheech &amp; Chong</s:tag>
+    <s:tag>Cheech and Chong</s:tag>
+    <s:tag>Dug Out</s:tag>
+    <s:tag>Dugout</s:tag>
+    <s:tag>Dugouts</s:tag>
+    <s:tag>Famous Brandz</s:tag>
+    <s:tag>Famous X</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>NEW Dugouts</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Type_Dugout</s:tag>
+    <s:tag>Vendor_Cheech and Chong Up in Smoke</s:tag>
+    <s:tag>Vendor_Famous X</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1452421578794</id>
+      <title>Black</title>
+      <s:price currency="CAD">11.75</s:price>
+      <s:sku>HDU5000BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1452421578794</id>
+      <title>Green</title>
+      <s:price currency="CAD">11.75</s:price>
+      <s:sku>HDU5000G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1452421578794</id>
+      <title>Purple</title>
+      <s:price currency="CAD">11.75</s:price>
+      <s:sku>HDU5000PP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1452421513258</id>
+    <published>2018-05-02T20:59:05-06:00</published>
+    <updated>2018-05-02T20:59:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/dugout-tpb-famous-x"/>
+    <title>Trailer Park Boys Dugout</title>
+    <s:type>Dugout</s:type>
+    <s:vendor>Trailer Park Boys</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/HDU400RDugout-TPB-Famous_X-Red-1.jpg?v=1580577199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Trailer Park Boys<br>
+        <strong>Type: </strong>Dugout<br>
+        <strong>Price: </strong>
+            9.40 - 11.75
+            <a href="https://valiantdist.ca/products/dugout-tpb-famous-x">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Introducing the official dugout of the Trailer Park Boys. Approved by the boys themselves for the quality, they are also convenient and discreet to use. Each dugout comes complete with a deep pocket to store herbs to be easily packed into the included one hitter.</p>
+<ul>
+<li>Durable aluminum frame</li>
+<li>Metal one hitter bat included, swivel lid &amp; stash compartment</li>
+<li>Pocket sized &amp; discreet</li>
+<li>Available in black, green and purple</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum Dugout</s:tag>
+    <s:tag>Blue</s:tag>
+    <s:tag>Dug Out</s:tag>
+    <s:tag>Dugout</s:tag>
+    <s:tag>Dugouts</s:tag>
+    <s:tag>Famous Brandz</s:tag>
+    <s:tag>Famous X</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>NEW Dugouts</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>TPB</s:tag>
+    <s:tag>Trailer Park Boys</s:tag>
+    <s:tag>Type_Dugout</s:tag>
+    <s:tag>Vendor_Famous X</s:tag>
+    <s:tag>Vendor_Trailer Park Boys</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1452421513258</id>
+      <title>Blue</title>
+      <s:price currency="CAD">11.75</s:price>
+      <s:sku>HDU4000B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1452421513258</id>
+      <title>Green</title>
+      <s:price currency="CAD">9.40</s:price>
+      <s:sku>HDU4000G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1452421513258</id>
+      <title>Red</title>
+      <s:price currency="CAD">11.75</s:price>
+      <s:sku>HDU4000R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237331410986</id>
+    <published>2018-02-16T17:25:18-07:00</published>
+    <updated>2018-02-16T17:25:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/dugout-puffpuffpass-aluminum"/>
+    <title>Aluminum Dugouts</title>
+    <s:type>Dugout</s:type>
+    <s:vendor>Puff Puff Pass</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/HDU2003G_7_631f6b14-678f-4653-ad6d-937408105c43.jpg?v=1614852433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Puff Puff Pass<br>
+        <strong>Type: </strong>Dugout<br>
+        <strong>Price: </strong>
+            7.90 - 8.90
+            <a href="https://valiantdist.ca/products/dugout-puffpuffpass-aluminum">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span></span>Large Puff Puff Pass Aluminum Dugout with bat, premium logo placement.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Aluminum Dugout</s:tag>
+    <s:tag>CNC Aluminum</s:tag>
+    <s:tag>Dug Out</s:tag>
+    <s:tag>dugouts</s:tag>
+    <s:tag>One Hitter</s:tag>
+    <s:tag>popular</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Puff Puff Pass Accessory</s:tag>
+    <s:tag>Puff Puff Pass Dugout</s:tag>
+    <s:tag>puff puff passPuff Puff Pass</s:tag>
+    <s:tag>Type_Dugout</s:tag>
+    <s:tag>Vendor_Puff Puff Pass</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237331410986</id>
+      <title>Large / Black</title>
+      <s:price currency="CAD">8.90</s:price>
+      <s:sku>HDU2001BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237331410986</id>
+      <title>Large / Green</title>
+      <s:price currency="CAD">8.90</s:price>
+      <s:sku>HDU2001G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237331410986</id>
+      <title>Large / Purple</title>
+      <s:price currency="CAD">8.90</s:price>
+      <s:sku>HDU2001PP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237331410986</id>
+      <title>Large / Red</title>
+      <s:price currency="CAD">8.90</s:price>
+      <s:sku>HDU2001R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237331410986</id>
+      <title>Small / Black</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku>HDU2003BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237331410986</id>
+      <title>Small / Green</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku>HDU2003G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237331410986</id>
+      <title>Small / Purple</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku>HDU2003PP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237331410986</id>
+      <title>Small / Red</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku>HDU2003R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237310930986</id>
+    <published>2018-02-16T17:17:55-07:00</published>
+    <updated>2018-02-16T17:17:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/up-in-smoke-aluminum-dugout"/>
+    <title>Cheech &amp; Chong Aluminum Dugout</title>
+    <s:type>Dugout</s:type>
+    <s:vendor>Cheech and Chong Up in Smoke</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/c2dgt01r-_02.jpg?v=1610406725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheech and Chong Up in Smoke<br>
+        <strong>Type: </strong>Dugout<br>
+        <strong>Price: </strong>
+            11.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Up In Smoke Aluminum Dugout</p>
+<p>Size: Large</p>
+<p>Available in: Blue, Black, Green, Purple, Red</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Aluminum Dugout</s:tag>
+    <s:tag>Celebrity</s:tag>
+    <s:tag>CNC Aluminum</s:tag>
+    <s:tag>Dug Out</s:tag>
+    <s:tag>Dugouts</s:tag>
+    <s:tag>One Hitter</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Dugout</s:tag>
+    <s:tag>Up In Smoke Accessory</s:tag>
+    <s:tag>Up In Smoke Dugout</s:tag>
+    <s:tag>Up In SmokeUp In Smoke</s:tag>
+    <s:tag>Vendor_Cheech and Chong Up in Smoke</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237310930986</id>
+      <title>Blue</title>
+      <s:price currency="CAD">11.75</s:price>
+      <s:sku>C2DGT01B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237310930986</id>
+      <title>Black</title>
+      <s:price currency="CAD">11.75</s:price>
+      <s:sku>C2DGT01BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237310930986</id>
+      <title>Green</title>
+      <s:price currency="CAD">11.75</s:price>
+      <s:sku>C2DGT01G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237310930986</id>
+      <title>Red</title>
+      <s:price currency="CAD">11.75</s:price>
+      <s:sku>C2DGT01R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237310930986</id>
+      <title>Purple</title>
+      <s:price currency="CAD">11.75</s:price>
+      <s:sku>C2DGT01PP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237211512874</id>
+    <published>2018-02-16T16:42:14-07:00</published>
+    <updated>2018-02-16T16:42:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/puff-puff-pass-survival-kit-w-one-hitter-rolling-papers-dab-tool"/>
+    <title>Survival Kit</title>
+    <s:type>Dugout</s:type>
+    <s:vendor>Puff Puff Pass</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/HDU005BK_12_35b7f0bd-98d1-43a8-a852-feed97a5c835.jpg?v=1614614260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Puff Puff Pass<br>
+        <strong>Type: </strong>Dugout<br>
+        <strong>Price: </strong>
+            3.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="ui-title-bar__title">Puff Puff Pass Survival Kit, with rolling papers, one-hitter and packing tool, premium logo, in gift box.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Tight</s:tag>
+    <s:tag>Aluminum</s:tag>
+    <s:tag>Camping</s:tag>
+    <s:tag>Dab Tool</s:tag>
+    <s:tag>Dab Tools</s:tag>
+    <s:tag>Dabber tool</s:tag>
+    <s:tag>Dabbing Tool</s:tag>
+    <s:tag>Dabbing Tools</s:tag>
+    <s:tag>Dug Out</s:tag>
+    <s:tag>Dugouts</s:tag>
+    <s:tag>Famous Supply Dispensary</s:tag>
+    <s:tag>Hiking</s:tag>
+    <s:tag>NEW Dugouts</s:tag>
+    <s:tag>One Hitter</s:tag>
+    <s:tag>Plastic</s:tag>
+    <s:tag>Plastic Dugout</s:tag>
+    <s:tag>popular</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>puff puff pass</s:tag>
+    <s:tag>Puff Puff Pass Accessory</s:tag>
+    <s:tag>Puff Puff Pass Dugout</s:tag>
+    <s:tag>Rolling Paper</s:tag>
+    <s:tag>Rolling Papers</s:tag>
+    <s:tag>Rolling PapersPuff Puff Pass</s:tag>
+    <s:tag>Smell Proof</s:tag>
+    <s:tag>Splash Proof</s:tag>
+    <s:tag>Type_Dugout</s:tag>
+    <s:tag>Vendor_Puff Puff Pass</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237211512874</id>
+      <title>Black</title>
+      <s:price currency="CAD">3.90</s:price>
+      <s:sku>HDU005BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237211512874</id>
+      <title>Pink</title>
+      <s:price currency="CAD">3.90</s:price>
+      <s:sku>HDU005P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237211512874</id>
+      <title>Green</title>
+      <s:price currency="CAD">3.90</s:price>
+      <s:sku>HDU005G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

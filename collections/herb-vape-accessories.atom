@@ -1,0 +1,991 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://valiantdist.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://valiantdist.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://valiantdist.ca/collections/herb-vape-accessories.atom"/>
+  <title>Valiant Distribution Canada</title>
+  <updated>2020-12-02T12:36:13-07:00</updated>
+  <author>
+    <name>Valiant Distribution Canada</name>
+  </author>
+  <entry>
+    <id>https://valiantdist.ca/products/4801997963313</id>
+    <published>2020-12-02T12:36:13-07:00</published>
+    <updated>2020-12-02T12:36:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/davinci-miqro-flat-mouthpiece"/>
+    <title>Davinci-Miqro Flat Mouthpiece</title>
+    <s:type>Vaporizer Accessory</s:type>
+    <s:vendor>DaVinci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/Davinci_-_MIQRO_-_Flat_mouthpiece_1_of_2_576x_2x_41cc7ab6-c311-4bcd-844b-95200a040e65.jpg?v=1606937768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DaVinci<br>
+        <strong>Type: </strong>Vaporizer Accessory<br>
+        <strong>Price: </strong>
+            5.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Herb Vaporizer Accessory</s:tag>
+    <s:tag>Type_Vaporizer Accessory</s:tag>
+    <s:tag>Vendor_DaVinci</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4801997963313</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.54</s:price>
+      <s:sku>C1023</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2131268698161</id>
+    <published>2020-03-24T12:39:53-06:00</published>
+    <updated>2020-03-24T12:39:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/randys-chill-screen-5-pack-replacement"/>
+    <title>Randy&apos;s Chill Screen 5 Pack Replacement</title>
+    <s:type>Vaporizer Accessory</s:type>
+    <s:vendor>Randy&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/Randy_sChill.jpg?v=1585075946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Randy&#39;s<br>
+        <strong>Type: </strong>Vaporizer Accessory<br>
+        <strong>Price: </strong>
+            2.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is the replacement Screen pack for the Randy’s Chill vaporizer. It adds protection against debris clogging up the device and getting in places you don’t want it to. Make sure the screens are cleaned or replaced regularly. The screen is there to provide cleaner, smoother hits. If the screen isn’t cleaned or replaced often it will be hard to pull and you won’t get as large of a hit. These screens are easily cleaned with 99% alcohol or any of Randy’s Cleaners.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>concentrate vape accessory</s:tag>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Vaporizer Accessory</s:tag>
+    <s:tag>Vendor_Randy&apos;s</s:tag>
+    <s:tag>Wax and Oil Vape Accessory</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2131268698161</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.63</s:price>
+      <s:sku>CV5008-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2131267780657</id>
+    <published>2020-03-24T12:39:53-06:00</published>
+    <updated>2020-03-24T12:39:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/randys-chill-grommet-screen-replacement"/>
+    <title>Randy&apos;s Chill Grommet &amp; Screen Replacement</title>
+    <s:type>Vaporizer Accessory</s:type>
+    <s:vendor>Randy&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/grommet-and-screen-400x400.jpg?v=1585075727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Randy&#39;s<br>
+        <strong>Type: </strong>Vaporizer Accessory<br>
+        <strong>Price: </strong>
+            1.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is the replacement Grommet and Screen combination for the Randy’s Chill vaporizer. It adds protection against debris clogging up the device and getting in places you don’t want it to. Make sure this piece (the screen especially) is cleaned on a regular basis to provide cleaner, and smoother hits. If the screen isn’t cleaned it will be harder to pull and you won’t get as large of a hit. Using 99% alcohol or any Randy’s Cleaner on the screen will easily remove grime, and the Orange Label cleaner is safe for the Rubber Grommet.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>concentrate vape accessory</s:tag>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Vaporizer Accessory</s:tag>
+    <s:tag>Vendor_Randy&apos;s</s:tag>
+    <s:tag>Wax and Oil Vape Accessory</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2131267780657</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.88</s:price>
+      <s:sku>CV5008-GS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2131265159217</id>
+    <published>2020-03-24T12:39:53-06:00</published>
+    <updated>2020-03-24T12:39:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/randys-chill-glass-bubbler-replacement"/>
+    <title>Randy&apos;s Chill Glass Bubbler Replacement</title>
+    <s:type>Vaporizer Accessory</s:type>
+    <s:vendor>Randy&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/CV5008-GB_bc7f6d2e-3e51-4386-9437-faf616770864.jpg?v=1598981020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Randy&#39;s<br>
+        <strong>Type: </strong>Vaporizer Accessory<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is the replacement Aqua Bubbler for the Randy’s Chill vaporizer. It provides portable water filtration and comes in handy when your regular tube isn’t chilled. When the bubbler is filled with water it makes the vapor cooler and smoother. Be sure to replace the water regularly. The Aqua Bubbler is made from handblown borosilicate glass and is 3” in length. This glass piece is easily cleaned with 99% alcohol or any of the Randy’s Cleaners.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>concentrate vape accessory</s:tag>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Vaporizer Accessory</s:tag>
+    <s:tag>Vendor_Randy&apos;s</s:tag>
+    <s:tag>Wax and Oil Vape Accessory</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2131265159217</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>CV5008-GB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2131262636081</id>
+    <published>2020-03-24T12:39:53-06:00</published>
+    <updated>2020-03-24T12:39:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/randys-chill-5-5-glass-freezable-replacement"/>
+    <title>Randy&apos;s Chill 5.5&quot; Glass Freezable Replacement</title>
+    <s:type>Vaporizer Accessory</s:type>
+    <s:vendor>Randy&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/CV5008-GB.jpg?v=1598981015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Randy&#39;s<br>
+        <strong>Type: </strong>Vaporizer Accessory<br>
+        <strong>Price: </strong>
+            12.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The icicle is an extendable and freezable tube for Randy’s Chill vaporizer. This piece is ideal because it stays colder for a longer period of time. This glass tube is made from handblown borosilicate glass and is 5.5” in length. Even when the tube isn’t frozen the extra length provides a cooler vapor than the regular tube. This glass piece is easily cleaned with 99% alcohol or any of Randy’s Cleaners.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>concentrate vape accessory</s:tag>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Vaporizer Accessory</s:tag>
+    <s:tag>Vendor_Randy&apos;s</s:tag>
+    <s:tag>Wax and Oil vape accessory</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2131262636081</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.75</s:price>
+      <s:sku>CV5008-GF5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2131259031601</id>
+    <published>2020-03-24T12:05:23-06:00</published>
+    <updated>2020-03-24T12:05:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/randys-chill-glass-freezable-replacement"/>
+    <title>Randy&apos;s Chill Freezable Glass Replacement Tube – 3”</title>
+    <s:type>Vaporizer Accessory</s:type>
+    <s:vendor>Randy&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/products-randy_s_chill_2_in_1_vaporizer_vape_aqua_bubbler_perc_chiller_attachment_dry_herb_concentrate_best_online_smoke_shop_9__76539.1526030531.jpg?v=1585074734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Randy&#39;s<br>
+        <strong>Type: </strong>Vaporizer Accessory<br>
+        <strong>Price: </strong>
+            10.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is the replacement freezable glass tube for Randy’s Chill vaporizer. The device comes equipped with a 3” handblown borosilicate glass tube, but it’s recommended to have an additional tube in case the glass breaks and to always have one tube chilled. This glass piece is easily cleaned with 99% alcohol or any of Randy’s Cleaners.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>concentrate vape accessory</s:tag>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Vaporizer Accessory</s:tag>
+    <s:tag>Vendor_Randy&apos;s</s:tag>
+    <s:tag>Wax and Oil Vape Accessory</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2131259031601</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.50</s:price>
+      <s:sku>CV5008-GF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2131256475697</id>
+    <published>2020-03-24T12:05:23-06:00</published>
+    <updated>2020-03-24T12:05:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/randys-chill-concentrate-coil-replacement"/>
+    <title>Randy&apos;s Chill Concentrate Coil Replacement</title>
+    <s:type>Vaporizer Coil</s:type>
+    <s:vendor>Randy&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/Chill-Concentrate-Coil-400x400.jpg?v=1585074253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Randy&#39;s<br>
+        <strong>Type: </strong>Vaporizer Coil<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is the Concentrate Coil Attachment replacement for Randy’s Chill vaporizer. It has dual quartz heating rods within a quartz cup. The more coils the piece has, the more intense the heat will be and the faster it will heat up. It’s a good idea to have a spare atomizer before yours needs to be replaced. There is no specific length of time that your coil will last, as there are a number of factors to take into account. How often you use and clean the device and the product you put in the chamber will affect the period with which it lasts. Be cautious when depositing material as moving the metal wiring can cause the atomizer to stop functioning.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>concentrate vape accessory</s:tag>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Vaporizer Accessory</s:tag>
+    <s:tag>Type_Vaporizer Coil</s:tag>
+    <s:tag>Vendor_Randy&apos;s</s:tag>
+    <s:tag>Wax and Oil Vape Accessory</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2131256475697</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>CV5008-CC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2131255918641</id>
+    <published>2020-03-24T12:05:23-06:00</published>
+    <updated>2020-03-24T12:05:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/randys-chill-dry-herb-coil-replacement"/>
+    <title>Randy&apos;s Chill Dry Herb Coil Replacement</title>
+    <s:type>Vaporizer Coil</s:type>
+    <s:vendor>Randy&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/Chill-Dry-Herb-Coil.jpg?v=1585074097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Randy&#39;s<br>
+        <strong>Type: </strong>Vaporizer Coil<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="margin: 0cm; margin-bottom: .0001pt; background: white; vertical-align: baseline;"><span style="font-size: 11.0pt; font-family: 'Calibri',sans-serif; color: black;">This is the Dry Herb Coil replacement for Randy’s Chill vaporizer. It is a ceramic plated coil within a quartz cup. Ceramic is the best material to use and it provides optimal flavour. It’s a good idea to have a spare atomizer before yours needs to be replaced. There is no specific length of time that your coil will last, as there are a number of factors to take into account. How often you use and clean the device and the product you put in the chamber will affect the period with which it lasts.<p></p></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>concentrate vape accessory</s:tag>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Vaporizer Accessory</s:tag>
+    <s:tag>Type_Vaporizer Coil</s:tag>
+    <s:tag>Vendor_Randy&apos;s</s:tag>
+    <s:tag>Wax and Oil Vape Accessory</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2131255918641</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>CV5008-DHC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4403799523377</id>
+    <published>2019-11-27T13:41:52-07:00</published>
+    <updated>2019-11-27T13:41:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/black-mamba-mouthpiece"/>
+    <title>Black Mamba Mouthpiece</title>
+    <s:type>Mouthpiece</s:type>
+    <s:vendor>BLACK MAMBA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/mouthpiece.jpg?v=1625165983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>BLACK MAMBA<br>
+        <strong>Type: </strong>Mouthpiece<br>
+        <strong>Price: </strong>
+            3.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-contrast="auto" class="TextRun  BCX7 SCXW68017954" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun  BCX7 SCXW68017954">This is the replacement mouthpiece for the Black Mamba vaporizer. It is ideal for those who have lost or broken their mouthpiece, or even for those too lazy to clean the one they have. It is made from molded plastic with a glass tube interior. This is perfect because plastic is durable for the exterior and the glass interior provides untainted, flavourful draws.</span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Herb Vaporizer Accessory</s:tag>
+    <s:tag>Type_Mouthpiece</s:tag>
+    <s:tag>Type_Vaporizer Accessory</s:tag>
+    <s:tag>vendor_black mamba</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4403799523377</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.99</s:price>
+      <s:sku>CV630MP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4117324857393</id>
+    <published>2019-09-28T13:13:30-06:00</published>
+    <updated>2019-09-28T13:13:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/arizer-air-ii-solo-replacement-glass-tube-90mm"/>
+    <title>Arizer Air II &amp; Solo Replacement Glass Tube 90mm</title>
+    <s:type>Vaporizer Accessory</s:type>
+    <s:vendor>Arizer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/Air_II_Glass_Aroma_Tube_90mm.jpg?v=1569015985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizer<br>
+        <strong>Type: </strong>Vaporizer Accessory<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span data-contrast="auto" class="TextRun SCXW23625618 BCX5" xml:lang="EN-US" lang="EN-US"><span class="NormalTextRun SCXW23625618 BCX5">This is the replacement<span> </span></span></span><span data-contrast="auto" class="TextRun SCXW23625618 BCX5" xml:lang="EN-US" lang="EN-US"><span class="NormalTextRun SCXW23625618 BCX5">all-</span></span><span data-contrast="auto" class="TextRun SCXW23625618 BCX5" xml:lang="EN-US" lang="EN-US"><span class="NormalTextRun SCXW23625618 BCX5">glass tube for the<span> </span></span></span><span data-contrast="auto" class="TextRun SCXW23625618 BCX5" xml:lang="EN-US" lang="EN-US"><span class="NormalTextRun SCXW23625618 BCX5">Air II and Solo. This size tube is not compatible with the Argo. The tube is 90mm in length and has a built-in screen to maximize efficiency and effectiveness. Easily cleaned with 99% alcohol, glass en</span></span><span data-contrast="auto" class="TextRun SCXW23625618 BCX5" xml:lang="EN-US" lang="EN-US"><span class="NormalTextRun SCXW23625618 BCX5">sures a clean, flavourful hit.</span></span><span class="EOP SCXW23625618 BCX5" data-ccp-props='{"201341983":0,"335559739":160,"335559740":259}'> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Herb Vaporizer Accessory</s:tag>
+    <s:tag>Type_Vaporizer Accessory</s:tag>
+    <s:tag>Vendor_Arizer</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4117324857393</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.90</s:price>
+      <s:sku>CEQ004-GT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4117316862001</id>
+    <published>2019-09-28T13:13:30-06:00</published>
+    <updated>2019-09-28T13:13:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/arizer-v-tower-screen-pack"/>
+    <title>Arizer V-Tower Screen pack</title>
+    <s:type>Vaporizer Accessory</s:type>
+    <s:vendor>Arizer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/V-Tower_Screen_Pack.jpg?v=1569015661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizer<br>
+        <strong>Type: </strong>Vaporizer Accessory<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span data-contrast="auto" class="TextRun SCXW232877741 BCX5" xml:lang="EN-US" lang="EN-US"><span class="NormalTextRun SCXW232877741 BCX5">This pack features two different types of stainless steel replacement screens for the V-Tower. The flat screens are best used in the bowl to prevent debris from falling down to the heating element and the bucket/dome screens fit perfectly inside the glass elbow piece to block bits from shooting though the hose. They are easily cleaned with 99% alcohol and can be re-used.</span></span><span class="EOP SCXW232877741 BCX5" data-ccp-props='{"201341983":0,"335559739":160,"335559740":259}'> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Herb Vaporizer Accessory</s:tag>
+    <s:tag>Type_Vaporizer Accessory</s:tag>
+    <s:tag>Vendor_Arizer</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4117316862001</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>CV1100-SCR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4117313454129</id>
+    <published>2019-09-28T13:13:30-06:00</published>
+    <updated>2019-09-28T13:13:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/arizer-v-tower-glass-whip-mouthpiece"/>
+    <title>Arizer V-Tower Glass Whip Mouthpiece</title>
+    <s:type>Vaporizer Accessory</s:type>
+    <s:vendor>Arizer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/V-Tower_Glass_Whip_Mouthpiece.jpg?v=1569015600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizer<br>
+        <strong>Type: </strong>Vaporizer Accessory<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span data-contrast="auto" class="TextRun SCXW58592330 BCX5" xml:lang="EN-US" lang="EN-US"><span class="NormalTextRun SCXW58592330 BCX5">This is the replacement mouthpiece for the V-Tower whip. Made from glass, the mouthpiece is easy to clean and provides superior flavour<span> </span></span></span><span data-contrast="auto" class="TextRun SCXW58592330 BCX5" xml:lang="EN-US" lang="EN-US"><span class="NormalTextRun SCXW58592330 BCX5">over</span></span><span data-contrast="auto" class="TextRun SCXW58592330 BCX5" xml:lang="EN-US" lang="EN-US"><span class="NormalTextRun SCXW58592330 BCX5"><span> </span>typical plastic or metal pieces commonly used on other devices.<span> </span></span></span><span data-contrast="auto" class="TextRun SCXW58592330 BCX5" xml:lang="EN-US" lang="EN-US"><span class="NormalTextRun SCXW58592330 BCX5">If you’re struggling to remove the old or broken piece out of your whip, try submerging it in some hot water for a bit to loosen it up. </span></span><span class="EOP SCXW58592330 BCX5" data-ccp-props='{"201341983":0,"335559739":160,"335559740":259}'> </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Herb Vaporizer Accessory</s:tag>
+    <s:tag>Type_Vaporizer Accessory</s:tag>
+    <s:tag>Vendor_Arizer</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4117313454129</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>CV1100-MP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4117320040497</id>
+    <published>2019-09-27T17:04:49-06:00</published>
+    <updated>2019-09-27T17:04:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/arizer-argo-replacement-glass-tube"/>
+    <title>Arizer Argo Replacement Glass Tube</title>
+    <s:type>Vaporizer Accessory</s:type>
+    <s:vendor>Arizer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/ArGo_Glass_Aroma_Tube.jpg?v=1569015855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arizer<br>
+        <strong>Type: </strong>Vaporizer Accessory<br>
+        <strong>Price: </strong>
+            6.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span data-contrast="auto" class="TextRun SCXW198983747 BCX5" xml:lang="EN-US" lang="EN-US"><span class="NormalTextRun SCXW198983747 BCX5">This is the replacement<span> </span></span></span><span data-contrast="auto" class="TextRun SCXW198983747 BCX5" xml:lang="EN-US" lang="EN-US"><span class="NormalTextRun SCXW198983747 BCX5">all-</span></span><span data-contrast="auto" class="TextRun SCXW198983747 BCX5" xml:lang="EN-US" lang="EN-US"><span class="NormalTextRun SCXW198983747 BCX5">glass tube for the Argo. This size tube is unique from other portable Arizer vaporizers, it will not work for the other units.  The tube has a built-in screen to maximize efficiency and effectiveness. Easily cleaned with 99% alcohol, glass ensures a clean, flavourful hit.</span></span><span class="EOP SCXW198983747 BCX5" data-ccp-props='{"201341983":0,"335559739":160,"335559740":259}'> </span> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Herb Vaporizer Accessory</s:tag>
+    <s:tag>Type_Vaporizer Accessory</s:tag>
+    <s:tag>Vendor_Arizer</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4117320040497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.90</s:price>
+      <s:sku>CV1008-GT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1992706883633</id>
+    <published>2019-05-23T08:54:49-06:00</published>
+    <updated>2019-05-23T08:54:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/vaporizer-mouthpiece-for-mig-dray"/>
+    <title>Vaporizer Mouthpiece for Mig Dray</title>
+    <s:type>Vaporizer Accessory</s:type>
+    <s:vendor>Mig Vapor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/mouthpiece-dray.jpg?v=1563308342"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mig Vapor<br>
+        <strong>Type: </strong>Vaporizer Accessory<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>The DRAY Vaporizer mouthpiece was made to fit Mig Dray Vaporizer. The filter works to keep the processes clean, full flavor, smooth, and enjoyable. We've got you covered!  </span></p>
+<p>1 DRAY mouthpiece</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Vaporizer Accessory</s:tag>
+    <s:tag>Vendor_Mig Vapor</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1992706883633</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.90</s:price>
+      <s:sku>CV1066-MP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1534589370410</id>
+    <published>2018-06-21T01:55:17-06:00</published>
+    <updated>2018-06-21T01:55:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/sutra-mini-mouthpiece"/>
+    <title>Sutra Mini Mouthpiece</title>
+    <s:type>Mouthpiece</s:type>
+    <s:vendor>Sutra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/CE2054MP.jpg?v=1529568669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sutra<br>
+        <strong>Type: </strong>Mouthpiece<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Sutra Mini Mouthpiece by Sutra Vape is a spare/replacement part intended to provide users with uninterrupted device usage. <br>This unit fits flawlessly with the Sutra Mini. <br>The Sutra Mini Mouthpiece is made of materials with idyllic integrity that helps to ensure peak performance. <br>With stainless steel and quartz core unit options, this diverse piece can accommodate both dry herbs and concentrates. <br>This component is simply snapped on and off of the mod for easy refills and user-friendly sessions.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:tag>Accessory</s:tag>
+    <s:tag>concentrate vape accessory</s:tag>
+    <s:tag>concentrate vaporizer</s:tag>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>Mouth Piece</s:tag>
+    <s:tag>Mouthpiece</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Sutra</s:tag>
+    <s:tag>Sutra Vapes</s:tag>
+    <s:tag>Type_Mouthpiece</s:tag>
+    <s:tag>Vaporizer</s:tag>
+    <s:tag>Vendor_Sutra</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1534589370410</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.90</s:price>
+      <s:sku>CE2054-MP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251428171818</id>
+    <published>2018-02-19T14:10:55-07:00</published>
+    <updated>2018-02-19T14:10:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/volcano-kit-solid-valve"/>
+    <title>Volcano Kit Solid Valve</title>
+    <s:type>Valve</s:type>
+    <s:vendor>Volcano</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/SOLID.jpg?v=1519692484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Volcano<br>
+        <strong>Type: </strong>Valve<br>
+        <strong>Price: </strong>
+            104.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Volcano Kit Solid Valve</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_$100 - $200</s:tag>
+    <s:tag>Type_Valve</s:tag>
+    <s:tag>Vaporizers</s:tag>
+    <s:tag>Vendor_Volcano</s:tag>
+    <s:tag>volcano</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251428171818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">104.90</s:price>
+      <s:sku>CVC102A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251428073514</id>
+    <published>2018-02-19T14:10:55-07:00</published>
+    <updated>2018-02-19T14:10:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/volcano-kit-easy-valve"/>
+    <title>Volcano Kit Easy Valve</title>
+    <s:type>Valve</s:type>
+    <s:vendor>Volcano</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/easy.jpg?v=1519692374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Volcano<br>
+        <strong>Type: </strong>Valve<br>
+        <strong>Price: </strong>
+            104.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Volcano Kit Easy Valve</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_$100 - $200</s:tag>
+    <s:tag>Type_Valve</s:tag>
+    <s:tag>Vaporizers</s:tag>
+    <s:tag>Vendor_Volcano</s:tag>
+    <s:tag>volcano</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251428073514</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">104.90</s:price>
+      <s:sku>CVC101A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251396485162</id>
+    <published>2018-02-19T14:08:53-07:00</published>
+    <updated>2018-02-19T14:08:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/vubbler-dry-herb-atomizer-90mm"/>
+    <title>Vubbler Dry Herb Atomizer 90mm</title>
+    <s:type>Atomizer</s:type>
+    <s:vendor>Vubbler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/VUBBLES.jpg?v=1519691553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vubbler<br>
+        <strong>Type: </strong>Atomizer<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vubbler Dry Herb Atomizer 90mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Atomizer</s:tag>
+    <s:tag>Vaporizers</s:tag>
+    <s:tag>Vendor_Vubbler</s:tag>
+    <s:tag>Vubbler</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251396485162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>CEG103</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251371614250</id>
+    <published>2018-02-19T14:07:11-07:00</published>
+    <updated>2018-02-19T14:07:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/volcano-vaporizer-solid-valve-balloon"/>
+    <title>Volcano vaporizer solid valve</title>
+    <s:type>Valve</s:type>
+    <s:vendor>Volcano</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/volcano_baloon.jpg?v=1519692138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Volcano<br>
+        <strong>Type: </strong>Valve<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Volcano vaporizer solid valve balloon</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Valve</s:tag>
+    <s:tag>Vaporizers</s:tag>
+    <s:tag>Vendor_Volcano</s:tag>
+    <s:tag>volcano</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251371614250</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.90</s:price>
+      <s:sku>CVC102B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237354020906</id>
+    <published>2018-02-16T17:32:54-07:00</published>
+    <updated>2018-02-16T17:32:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/vubbler-dry-herb-atomizer"/>
+    <title>Vubbler Dry Herb Atomizer</title>
+    <s:type>Atomizer</s:type>
+    <s:vendor>Vubbler</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/CEG102.jpg?v=1518827574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vubbler<br>
+        <strong>Type: </strong>Atomizer<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>VUBBLER DRY HERB ATOMIZER</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Atomizer</s:tag>
+    <s:tag>Vaporizers</s:tag>
+    <s:tag>Vendor_Vubbler</s:tag>
+    <s:tag>Vubbler</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237354020906</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>CEG102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237286649898</id>
+    <published>2018-02-16T17:09:01-07:00</published>
+    <updated>2018-02-16T17:09:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/wulf-tundra-mouthpiece"/>
+    <title>Wulf Replacement Mouthpiece</title>
+    <s:type>Mouthpiece</s:type>
+    <s:vendor>Wulf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/201581719401733285.gif?v=1533232322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wulf<br>
+        <strong>Type: </strong>Mouthpiece<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Tundra Spare Mouthpiece is an essential component that is used to draw the Vapor out from the Wulf Vape Classic Vaporizer. A screen is built into the housing of the mouthpiece so that it prevents debris from going through the air path. The mouthpiece is designed to replace your existing piece that accompanies the Wulf Vape Classic Vape.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Mouthpiece</s:tag>
+    <s:tag>Vaporizers</s:tag>
+    <s:tag>Vendor_Wulf</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237286649898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>CWV01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237285797930</id>
+    <published>2018-02-16T17:08:34-07:00</published>
+    <updated>2018-02-16T17:08:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/replacement-mouthpiece-for-exxus-mini"/>
+    <title>Replacement Mouthpiece for Exxus Mini</title>
+    <s:type>Vaporizer Accessory</s:type>
+    <s:vendor>Exxus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/CE2056-MP_5.jpg?v=1609883081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Exxus<br>
+        <strong>Type: </strong>Vaporizer Accessory<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Replacement Mouthpiece for Exxus Mini</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>herbal vaporizers</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Vaporizer Accessory</s:tag>
+    <s:tag>Vaporizers</s:tag>
+    <s:tag>Vendor_Exxus</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237285797930</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>CE2056-MP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237285601322</id>
+    <published>2018-02-16T17:08:29-07:00</published>
+    <updated>2018-02-16T17:08:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/hydro-adapter-for-exxus-mini"/>
+    <title>Hydro Adapter for Exxus Mini</title>
+    <s:type>Mouthpiece</s:type>
+    <s:vendor>Exxus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/ExusMiniHydro_3.jpg?v=1549037863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Exxus<br>
+        <strong>Type: </strong>Mouthpiece<br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hydro Adapter for Exxus Mini</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Exxus Mini</s:tag>
+    <s:tag>herb vape accessory</s:tag>
+    <s:tag>popular</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Mouthpiece</s:tag>
+    <s:tag>Vaporizers</s:tag>
+    <s:tag>Vendor_Exxus</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237285601322</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.90</s:price>
+      <s:sku>CE2056-A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

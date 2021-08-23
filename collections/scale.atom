@@ -1,0 +1,834 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://valiantdist.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://valiantdist.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://valiantdist.ca/collections/scale.atom"/>
+  <title>Valiant Distribution Canada</title>
+  <updated>2021-01-08T13:50:02-07:00</updated>
+  <author>
+    <name>Valiant Distribution Canada</name>
+  </author>
+  <entry>
+    <id>https://valiantdist.ca/products/4813878722609</id>
+    <published>2021-01-08T13:50:02-07:00</published>
+    <updated>2021-01-08T13:50:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/infyniti-c-c-panther-scale-silver-50-0-01g"/>
+    <title>Infyniti-C&amp;C Panther Scale-Silver-50/0.01g</title>
+    <s:type>Scale</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/FCPA50S-PANTHERCHEECH_CHONG_5.jpg?v=1611054458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            16.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Scales</s:tag>
+    <s:tag>Type_Scale</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4813878722609</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.90</s:price>
+      <s:sku>FCPA50S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237242839082</id>
+    <published>2021-01-08T13:42:50-07:00</published>
+    <updated>2021-01-08T13:42:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/scale-infyniti-black-panther-100-0-01"/>
+    <title>Scale Infyniti Black Panther 100/0.01</title>
+    <s:type>Scale</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/panther_600g.jpg?v=1518825150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Scales</s:tag>
+    <s:tag>Type_Scale</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237242839082</id>
+      <title>Silver</title>
+      <s:price currency="CAD">14.90</s:price>
+      <s:sku>FPA100S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237242839082</id>
+      <title>Black</title>
+      <s:price currency="CAD">14.90</s:price>
+      <s:sku>FPA100BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251413327914</id>
+    <published>2020-02-14T09:46:59-07:00</published>
+    <updated>2020-02-14T09:46:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/scale-infinity-black-shadow-50-0-01-black"/>
+    <title>Scale Infinity Black Shadow 50/0.01</title>
+    <s:type>Scale</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/shadow.jpg?v=1519677423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            15.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Scale Infinity Black Shadow 50/0.01</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Scales</s:tag>
+    <s:tag>Type_Scale</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251413327914</id>
+      <title>Silver</title>
+      <s:price currency="CAD">15.90</s:price>
+      <s:sku>FSH50S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237241823274</id>
+    <published>2020-01-23T09:06:35-07:00</published>
+    <updated>2020-01-23T09:06:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/scale-infyniti-wutang-panther-50-0-01"/>
+    <title>Scale Infyniti Wutang Panther 50/0.01</title>
+    <s:type>Scale</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/wtscale3_1.jpg?v=1541088443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            16.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NEW Grinders &amp; Scales</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Scales</s:tag>
+    <s:tag>Type_Scale</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237241823274</id>
+      <title>Silver</title>
+      <s:price currency="CAD">16.90</s:price>
+      <s:sku>FWPA50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237241823274</id>
+      <title>Black</title>
+      <s:price currency="CAD">16.90</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4495816491057</id>
+    <published>2020-01-14T12:42:47-07:00</published>
+    <updated>2020-01-14T12:42:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/scales-infyniti-cheech-and-chong-g-force-100-0-01"/>
+    <title>Scales Infyniti Cheech and Chong G-Force 100/0.01</title>
+    <s:type>Scale</s:type>
+    <s:vendor>Infyniti Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/FCVI100.jpg?v=1627841728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Infyniti Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            13.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Scale</s:tag>
+    <s:tag>Type_Scales</s:tag>
+    <s:tag>Vendor_Infyniti Scales</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4495816491057</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.90</s:price>
+      <s:sku>FCVI100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4471354425393</id>
+    <published>2019-12-18T10:33:12-07:00</published>
+    <updated>2019-12-18T10:33:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/scale-infinity-snoop-virus-50-0-01"/>
+    <title>Scale Infyniti Snoop Virus 50/0.01</title>
+    <s:type>Scale</s:type>
+    <s:vendor>Infyniti Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/InfinityScale2.jpg?v=1625166116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Infyniti Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1">The Snoop Virus digital scale by Infyniti is small, sleek and perfect for weighing in style, with Snoop. The Top Dogg’s image is emblazoned on the large, stainless steel weighing platform and the lid is covered in authentic Snoop artwork. The Snoop Virus has a capacity of 50g and will weigh up to 2 decimal points precisely (0.01g). The digital readout is displayed over a blue backlight and the device has a 60 second auto shutoff. Use the lid as a weighing tray to keep Snoop’s face and your weighing platform clean. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Scales</s:tag>
+    <s:tag>Type_Scale</s:tag>
+    <s:tag>Vendor_Infyniti Scales</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4471354425393</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>FSVA50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251408642090</id>
+    <published>2019-12-17T15:14:49-07:00</published>
+    <updated>2019-12-17T15:14:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/scale-infinity-g-force-100-0-01-silver"/>
+    <title>Scale Infyniti G-Force 100/0.01</title>
+    <s:type>Scale</s:type>
+    <s:vendor>Infyniti Scales</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/FGF100S_3.jpg?v=1577897534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Infyniti Scales<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            7.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span data-contrast="auto" class="TextRun SCXW145258714 BCX7" xml:lang="EN-US" lang="EN-US"><span class="NormalTextRun SCXW145258714 BCX7">The G-Force digital scale by<span> </span></span></span><span data-contrast="auto" class="TextRun SCXW145258714 BCX7" xml:lang="EN-US" lang="EN-US"><span class="SpellingError SCXW145258714 BCX7">Infyniti</span></span><span data-contrast="auto" class="TextRun SCXW145258714 BCX7" xml:lang="EN-US" lang="EN-US"><span class="NormalTextRun SCXW145258714 BCX7"><span> </span>is small, sleek and perfect for weighing in style. The G-Force has a capacity of 100g and will weigh up to 2 decimal points precisely (0.01g). The instructions are conveniently placed on the inside of the lid, so trouble-shooting and calibration tips are never far away. The digital readout is displayed over a blue backlight and the device has a 60 second auto shutoff. The auto calibration function is a breeze and the three navigational buttons ensure you don’t “tare” your hair out while using the scale. The large stainless steel platform allows for more space for weighing.</span></span><span class="EOP SCXW145258714 BCX7" data-ccp-props='{"201341983":0,"335559739":160,"335559740":259}'> </span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Scales</s:tag>
+    <s:tag>Type_Scale</s:tag>
+    <s:tag>Vendor_Infyniti Scales</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251408642090</id>
+      <title>Black</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>FGF100BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251408642090</id>
+      <title>Silver</title>
+      <s:price currency="CAD">7.50</s:price>
+      <s:sku>FGF100S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251417456682</id>
+    <published>2018-02-19T14:10:14-07:00</published>
+    <updated>2018-02-19T14:10:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/scale-infinity-black-hippo-2000-0-1"/>
+    <title>Scale Infinity Black Hippo 2000/0.1</title>
+    <s:type>Scale</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/hipp.jpg?v=1519677557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            19.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Scale Infinity Black Hippo 2000/0.1</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Scales</s:tag>
+    <s:tag>Type_Scale</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251417456682</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.90</s:price>
+      <s:sku>FHI2000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251414802474</id>
+    <published>2018-02-19T14:10:04-07:00</published>
+    <updated>2018-02-19T14:10:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/scale-infyniti-cheech-and-chong-panther-50-0-01"/>
+    <title>Scale Infyniti Cheech and Chong Panther - 50/0.01</title>
+    <s:type>Scale</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/FCPA50S-PANTHERCHEECH_CHONG_5_eda75c87-356a-4c1e-88f7-19f78b1d9b2e.jpg?v=1611054513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            16.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Scale Infyniti Cheech and Chong Panther - 50/0.01</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Scales</s:tag>
+    <s:tag>Type_Scale</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251414802474</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.90</s:price>
+      <s:sku>FCPA50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251414769706</id>
+    <published>2018-02-19T14:10:04-07:00</published>
+    <updated>2018-02-19T14:10:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/scale-infyniti-biggie-panther-50-0-01"/>
+    <title>Scale Infyniti Biggie Panther 50/0.01</title>
+    <s:type>Scale</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            16.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Scale Infyniti Biggie Panther 50/0.01</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Scales</s:tag>
+    <s:tag>Type_Scale</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251414769706</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.90</s:price>
+      <s:sku>FBPA50S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251406905386</id>
+    <published>2018-02-19T14:09:36-07:00</published>
+    <updated>2018-02-19T14:09:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/scale-infyniti-cheech-and-chong-virus-50-0-01"/>
+    <title>Scale Infyniti Eazy-E Virus 50/0.01</title>
+    <s:type>Scale</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/celeb_virus_43d62f24-9245-42a1-a670-039dedbc4305.jpg?v=1527474697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Scale Infyniti Eazy-E 50/0.01</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Scales</s:tag>
+    <s:tag>Type_Scale</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251406905386</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>FCVI50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251406839850</id>
+    <published>2018-02-19T14:09:35-07:00</published>
+    <updated>2018-02-19T14:09:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/scale-infyniti-biggie-virus-50-0-01"/>
+    <title>Scale Infyniti Biggie Virus 50/0.01</title>
+    <s:type>Scale</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/celeb_virus.jpg?v=1527474695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Scale Infyniti Eazy-E Virus 50/0.01</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Scales</s:tag>
+    <s:tag>Type_Scale</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251406839850</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>FBVI50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251405824042</id>
+    <published>2018-02-19T14:09:31-07:00</published>
+    <updated>2018-02-19T14:09:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/scale-infinity-hexx-hs-50-0-01-black"/>
+    <title>Scale Infinity Hexx HS 50/0.01 Black</title>
+    <s:type>Scale</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/infinity_hexx_50g.jpg?v=1519677644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Scale Infinity Hexx HS 50/0.01 Black</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Scales</s:tag>
+    <s:tag>Type_Scale</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251405824042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.90</s:price>
+      <s:sku>FHE50BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251405070378</id>
+    <published>2018-02-19T14:09:29-07:00</published>
+    <updated>2018-02-19T14:09:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/scale-infinity-hexx-hs-500g-0-1g-black"/>
+    <title>Scale Infinity Hexx HS 500g/0.1g Black</title>
+    <s:type>Scale</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/infinity_hexx_50g_1_1280x1280_1fde53cf-d09d-43c4-b3da-08b661b33de0.jpg?v=1527474692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            11.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Scale Infinity Hexx HS 500g/0.1g Black</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Scales</s:tag>
+    <s:tag>Type_Scale</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251405070378</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.90</s:price>
+      <s:sku>FHE500BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237402943530</id>
+    <published>2018-02-16T17:53:04-07:00</published>
+    <updated>2018-02-16T17:53:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/biggie-smalls-cd-scale-100-0-1"/>
+    <title>Biggie Smalls &quot;CD&quot; Scale 100/0.1</title>
+    <s:type>Scale</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/scale-biggie-CD_c8437674-a89d-4f92-bb7c-0d73e63f2609.jpg?v=1567356046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            19.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Looks just like a CD, works like a top of the line scale!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CD</s:tag>
+    <s:tag>CD Scale</s:tag>
+    <s:tag>Celebrity</s:tag>
+    <s:tag>Infynity</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Scales</s:tag>
+    <s:tag>Type_Scale</s:tag>
+    <s:tag>vendor_valiant</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402943530</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.50</s:price>
+      <s:sku>FBCD100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237393113130</id>
+    <published>2018-02-16T17:46:07-07:00</published>
+    <updated>2018-02-16T17:46:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/calibration-weights"/>
+    <title>Calibration Weights</title>
+    <s:type>Scale</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/HCW002_1.jpg?v=1609883433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            2.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>50g &amp; 100g</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>100g</s:tag>
+    <s:tag>50g</s:tag>
+    <s:tag>calibration</s:tag>
+    <s:tag>Calibration Weights</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Scale Calibration</s:tag>
+    <s:tag>Scale Weight</s:tag>
+    <s:tag>Scales</s:tag>
+    <s:tag>Type_Scale</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:tag>weight</s:tag>
+    <s:tag>weights50g Weight</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237393113130</id>
+      <title>50g</title>
+      <s:price currency="CAD">2.60</s:price>
+      <s:sku>HCW002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237393113130</id>
+      <title>100g</title>
+      <s:price currency="CAD">2.60</s:price>
+      <s:sku>HCW001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237242740778</id>
+    <published>2018-02-16T16:52:28-07:00</published>
+    <updated>2018-02-16T16:52:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/scale-infinity-virus-50-0-01"/>
+    <title>Scale Infinity Virus 50/0.01</title>
+    <s:type>Scale</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/fvi50.jpg?v=1518825149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Scales</s:tag>
+    <s:tag>Type_Scale</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237242740778</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>FVI50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237241626666</id>
+    <published>2018-02-16T16:52:03-07:00</published>
+    <updated>2018-02-16T16:52:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/scale-infyniti-snoop-panther-50-0-01"/>
+    <title>Scale Infyniti Snoop Panther 50/0.01</title>
+    <s:type>Scale</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/FSPA50-PANTHERSNOOPDOGG_5.jpg?v=1611054576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            16.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NEW Grinders &amp; Scales</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Scales</s:tag>
+    <s:tag>Type_Scale</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237241626666</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.90</s:price>
+      <s:sku>FSPA50s</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237230420010</id>
+    <published>2018-02-16T16:48:21-07:00</published>
+    <updated>2018-02-16T16:48:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/infyniti-smart-scale-100-0-01"/>
+    <title>Infyniti Smart Scale 100/0.01</title>
+    <s:type>Scale</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/fsm100_4.jpg?v=1518824902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Scale<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Scales</s:tag>
+    <s:tag>Type_Scale</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237230420010</id>
+      <title>Silver</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>FSM100S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237230420010</id>
+      <title>Black</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>FSM100BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

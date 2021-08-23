@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://valiantdist.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://valiantdist.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://valiantdist.ca/collections/herb-enhancers.atom"/>
+  <title>Valiant Distribution Canada</title>
+  <updated>2020-01-14T11:13:01-07:00</updated>
+  <author>
+    <name>Valiant Distribution Canada</name>
+  </author>
+  <entry>
+    <id>https://valiantdist.ca/products/4495712256049</id>
+    <published>2020-01-14T11:13:01-07:00</published>
+    <updated>2020-01-14T11:13:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/shisha-herbal-hydro-50g-citrus-twist"/>
+    <title>Shisha Herbal Hydro 50g Citrus Twist</title>
+    <s:type>Herb Enhancer</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/JHY5003jpg.jpg?v=1627841699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Herb Enhancer<br>
+        <strong>Price: </strong>
+            2.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Herb Enhancer</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4495712256049</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.90</s:price>
+      <s:sku>JHY5003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237402648618</id>
+    <published>2018-02-16T17:52:53-07:00</published>
+    <updated>2018-02-16T17:52:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/tasty-puffs"/>
+    <title>Tasty Puffs</title>
+    <s:type>Herb Enhancer</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/TPDisplay2_1024x1024_2x_76780369-9ff7-469e-8ffc-c909a32b6cac.jpg?v=1599146471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Herb Enhancer<br>
+        <strong>Price: </strong>
+            1.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Used for Pipe tobacco, cigars, legal herbs, blunt wraps, water pipe water, hookahs, vaporizers, E-Cigarettes and Shisha! Must have for that added touch!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Herb &amp; Bong Flavour</s:tag>
+    <s:tag>NEW Herb Enhancers</s:tag>
+    <s:tag>Price_$200 +</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Herb Enhancer</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Cinnamon</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1029</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Cola</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1032</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Root Beer</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1026</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Pomegranate</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Apple</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Blueberry</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Orange</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Cherry</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Chronic Hypnotic</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Chocolate</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Clove</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Melon</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Cool Menthol</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Cotton Candy</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Coconut</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Banana</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1014</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Flower Power</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Grape</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1016</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Joocy Froot</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1017</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Jungle Juice</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Lemon Lime</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Mango</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Bubble Gum</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Vanilla</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1022</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Peach</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1023</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Pineapple</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1024</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Purple Haze</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1025</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Raspberry</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1027</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Strawberry</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1028</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Sweet Leaf</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1031</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402648618</id>
+      <title>Birthday Cake</title>
+      <s:price currency="CAD">1.25</s:price>
+      <s:sku>LTP1033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237402026026</id>
+    <published>2018-02-16T17:52:27-07:00</published>
+    <updated>2018-02-16T17:52:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/bong-water"/>
+    <title>Bong Water</title>
+    <s:type>Herb Enhancer</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/HBW101AK.jpg?v=1533334397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Herb Enhancer<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Add this delicious flavouring to your bong water for a truly tasty and uplifting experience.</p>
+<p>Available in 9 flavours, you will never have to settle for traditional, stinky bong water.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bong</s:tag>
+    <s:tag>bong water</s:tag>
+    <s:tag>delicious</s:tag>
+    <s:tag>flavor</s:tag>
+    <s:tag>Flavour</s:tag>
+    <s:tag>Herb &amp; Bong Flavour</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>taste</s:tag>
+    <s:tag>Type_Herb Enhancer</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:tag>water</s:tag>
+    <s:tag>waterpipe</s:tag>
+    <s:tag>Yummy</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402026026</id>
+      <title>Apple/Kiwi</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HBW101A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402026026</id>
+      <title>Blueberry</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HBW101B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402026026</id>
+      <title>Bubble Gum</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HBW101C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402026026</id>
+      <title>Peach</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HBW101D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402026026</id>
+      <title>Pineapple</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HBW101E</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402026026</id>
+      <title>Raspberry</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HBW101F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402026026</id>
+      <title>Strawberry Mango</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HBW101G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402026026</id>
+      <title>Grape</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HBW101I</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402026026</id>
+      <title>Watermelon</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku>HBW101H</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

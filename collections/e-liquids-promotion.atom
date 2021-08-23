@@ -1,0 +1,1277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://valiantdist.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://valiantdist.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://valiantdist.ca/collections/e-liquids-promotion.atom"/>
+  <title>Valiant Distribution Canada</title>
+  <updated>2021-01-04T07:32:56-07:00</updated>
+  <author>
+    <name>Valiant Distribution Canada</name>
+  </author>
+  <entry>
+    <id>https://valiantdist.ca/products/4812966821937</id>
+    <published>2021-01-04T07:32:56-07:00</published>
+    <updated>2021-01-04T07:32:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/cove-510-batteries"/>
+    <title>Cove-510 Batteries</title>
+    <s:type>Battery</s:type>
+    <s:vendor>Cove</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/COVE_BatteryBox.png?v=1609769616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cove<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">From the vape experts at Chronos Device Labs comes the COVE™ 510 Vape Battery. This portable vape pen is compact, discrete, and provides state-of-the-art vaporizer technology in the palm of your hand.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Connector<br data-mce-fragment="1"> </strong>&gt; An industry standard 510 thread provides a secure and reliable connection to any COVE™ Cartridge.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Battery Management Unit<br data-mce-fragment="1"> </strong>&gt; Integrated electronics protect the cell by regulating currents to prevent overcharging.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">Puff Sensor<br data-mce-fragment="1"> </strong>&gt; Immediate inhale detection and response for optimal vaporization.</p>
+<p data-mce-fragment="1"><strong data-mce-fragment="1">LED Indicator<br data-mce-fragment="1"> </strong>&gt; Provides information about the device’s charge status and operation.</p>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1">Make Each Experience a Discovery™ with COVE™’s honest, uncompromising approach to crafted quality.</p>
+<table data-mce-fragment="1">
+<tbody data-mce-fragment="1">
+<tr data-mce-fragment="1">
+<td width="207" data-mce-fragment="1">
+<p data-mce-fragment="1">BRAND</p>
+</td>
+<td width="421" data-mce-fragment="1">
+<p data-mce-fragment="1">COVE</p>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td width="207" data-mce-fragment="1">
+<p data-mce-fragment="1">HEATING ELEMENT TYPE</p>
+</td>
+<td width="421" data-mce-fragment="1">
+<p data-mce-fragment="1">Ceramic</p>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td width="207" data-mce-fragment="1">
+<p data-mce-fragment="1">BATTERY TYPE</p>
+</td>
+<td width="421" data-mce-fragment="1">
+<p data-mce-fragment="1">510 Thread</p>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td width="207" data-mce-fragment="1">
+<p data-mce-fragment="1">RECHARGABLE BATTERY</p>
+</td>
+<td width="421" data-mce-fragment="1">
+<p data-mce-fragment="1">Yes</p>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td width="207" data-mce-fragment="1">
+<p data-mce-fragment="1">REMOVABLE BATTERY</p>
+</td>
+<td width="421" data-mce-fragment="1">
+<p data-mce-fragment="1">Yes</p>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td width="207" data-mce-fragment="1">
+<p data-mce-fragment="1">REPLACEMENT PARTS</p>
+</td>
+<td width="421" data-mce-fragment="1">
+<p data-mce-fragment="1">No</p>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td width="207" data-mce-fragment="1">
+<p data-mce-fragment="1">TEMPERATURE CONTROL</p>
+</td>
+<td width="421" data-mce-fragment="1">
+<p data-mce-fragment="1">Fixed</p>
+</td>
+</tr>
+<tr data-mce-fragment="1">
+<td width="207" data-mce-fragment="1">
+<p data-mce-fragment="1">TEMPERATURE DISPLAY</p>
+</td>
+<td width="421" data-mce-fragment="1">
+<p data-mce-fragment="1">Not Applicable</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p data-mce-fragment="1"> </p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BatteriesE-CIG Battery</s:tag>
+    <s:tag>E-Cig Batteries</s:tag>
+    <s:tag>e-cig battery</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Battery</s:tag>
+    <s:tag>Vendor_Cove</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4812966821937</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.99</s:price>
+      <s:sku>N5033</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4803895656497</id>
+    <published>2020-12-07T10:12:53-07:00</published>
+    <updated>2020-12-07T10:12:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/pulsar-rok-replacement-quartz-coils-5-pack"/>
+    <title>Pulsar-Rok Replacement Quartz Coils-5 Pack</title>
+    <s:type>E-Cig Coil</s:type>
+    <s:vendor>Pulsar</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/Pulsar-RoK-Replacement-Quartz-Coils-5-Pack_media-2_1000x1000_4e63b0ec-1ba6-45b8-b9cd-6802b0de9382.jpg?v=1607361110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pulsar<br>
+        <strong>Type: </strong>E-Cig Coil<br>
+        <strong>Price: </strong>
+            6.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>E-Cig Coil</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_E-Cig Coil</s:tag>
+    <s:tag>Vendor_Pulsar</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4803895656497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.25</s:price>
+      <s:sku>C1003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4802059862065</id>
+    <published>2020-12-02T13:41:35-07:00</published>
+    <updated>2020-12-02T13:41:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/yocan-quartz-dual-coil"/>
+    <title>Yocan-Quartz Dual Coil</title>
+    <s:type>E-Cig Coil</s:type>
+    <s:vendor>Yocan</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/EP-Quartz-coil-single-1.jpg?v=1606941693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Yocan<br>
+        <strong>Type: </strong>E-Cig Coil<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>E-Cig Coil</s:tag>
+    <s:tag>iSub</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_E-Cig Coil</s:tag>
+    <s:tag>Vendor_iSub</s:tag>
+    <s:tag>Vendor_Yocan</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802059862065</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>C1021</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4802019131441</id>
+    <published>2020-12-02T13:09:11-07:00</published>
+    <updated>2020-12-02T13:09:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/xvape-starry-mouthpiece"/>
+    <title>XVape-Starry Mouthpiece</title>
+    <s:type>E-Cig Mouthpiece</s:type>
+    <s:vendor>XVape</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/CV1068_8.jpg?v=1610747486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>XVape<br>
+        <strong>Type: </strong>E-Cig Mouthpiece<br>
+        <strong>Price: </strong>
+            12.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Aluminum Mouthpiece</s:tag>
+    <s:tag>E-Cigs Mouthpieces</s:tag>
+    <s:tag>Mouthpiece</s:tag>
+    <s:tag>New-UpdateE-Cig Mouthpiece</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_E-Cig Mouthpiece</s:tag>
+    <s:tag>Vendor_XVape</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802019131441</id>
+      <title>Black</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>CV1068-MP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802019131441</id>
+      <title>Grey</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>CV1068-MPG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4801999011889</id>
+    <published>2020-12-02T12:38:12-07:00</published>
+    <updated>2020-12-02T12:38:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/davinci-18350-miqro-battery"/>
+    <title>Davinci-18350 Miqro Battery</title>
+    <s:type>Battery</s:type>
+    <s:vendor>DaVinci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/Davinci_-_MIQRO_-_18350_battery_2_of_2_840x840_crop_center_7343d1d1-ca36-4830-b367-47bb776dcc14.jpg?v=1606937890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>DaVinci<br>
+        <strong>Type: </strong>Battery<br>
+        <strong>Price: </strong>
+            8.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>1000mAh</s:tag>
+    <s:tag>18650</s:tag>
+    <s:tag>BatteriesE-CIG Battery</s:tag>
+    <s:tag>E-Cig Batteries</s:tag>
+    <s:tag>e-cig battery</s:tag>
+    <s:tag>Efest</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Battery</s:tag>
+    <s:tag>Vendor_DaVinci</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4801999011889</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.58</s:price>
+      <s:sku>C1025</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237236351018</id>
+    <published>2020-07-10T06:50:12-06:00</published>
+    <updated>2020-07-10T06:50:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/joyetech-replacement-coil-for-aio-kit-0-6ohm-ss316"/>
+    <title>Joyetech Replacement Coil for AIO Kit 0.6ohm SS316</title>
+    <s:type>E-Cig Coil</s:type>
+    <s:vendor>JoyeTech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/coil-aio-06ss.jpg?v=1518825009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JoyeTech<br>
+        <strong>Type: </strong>E-Cig Coil<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The SS316 (Stainless Steel) BF coils - not only are they compatible with temperature control mode, but JoyeTech has innovated to allow these coils to be used with other power settings such as VW as well as TCR mode.<br> For the best performance with the eGo AIO, JoyeTech recommends using these 0.6Ã«Â© BF coil heads.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AIO Coil</s:tag>
+    <s:tag>E-Cig Coils</s:tag>
+    <s:tag>eGo AIO Coil</s:tag>
+    <s:tag>Joyetech AIO</s:tag>
+    <s:tag>Joyetech Coil</s:tag>
+    <s:tag>JoyetechJoyetech</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_E-Cig Coil</s:tag>
+    <s:tag>Vendor_JoyeTech</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237236351018</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>COILAIO06SS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1534458101802</id>
+    <published>2020-07-10T06:41:59-06:00</published>
+    <updated>2020-07-10T06:41:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/e-juice-salt-nic-sour-skittles-30ml"/>
+    <title>E-Juice Salt Nic Sour Skittles 30ml</title>
+    <s:type>E-Juice</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/CEJ3088.jpg?v=1583082665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>E-Juice<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>70 VG 30 PG</p>
+<p><span>If you like sour candy, then this flavor was made with you in mind. A juicy, sensational vape that satisfies sweet &amp; sour cravings and delivers a dense, fulfilling vapor.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>15mg</s:tag>
+    <s:tag>25 mg</s:tag>
+    <s:tag>25g</s:tag>
+    <s:tag>30 ml</s:tag>
+    <s:tag>30ml</s:tag>
+    <s:tag>35mg</s:tag>
+    <s:tag>Candy</s:tag>
+    <s:tag>Dessert</s:tag>
+    <s:tag>E Juice</s:tag>
+    <s:tag>Ejuice</s:tag>
+    <s:tag>iBliss</s:tag>
+    <s:tag>NEW E-Juice</s:tag>
+    <s:tag>Nic Salt</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>promo30</s:tag>
+    <s:tag>Salt Based Nicotine</s:tag>
+    <s:tag>Salt Nic</s:tag>
+    <s:tag>Skittles</s:tag>
+    <s:tag>Sour</s:tag>
+    <s:tag>Type_E-Juice</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1534458101802</id>
+      <title>25mg</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>CEJ3089</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1577458139178</id>
+    <published>2020-07-10T06:38:08-06:00</published>
+    <updated>2020-07-10T06:38:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/vaporesso-polar-220w-tc-kit-with-cascade-baby-se"/>
+    <title>Vaporesso Polar 220W TC Kit with Cascade Baby SE</title>
+    <s:type>Electronic Cigarette</s:type>
+    <s:vendor>Vaporesso</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/ce3107.jpg?v=1583082769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vaporesso<br>
+        <strong>Type: </strong>Electronic Cigarette<br>
+        <strong>Price: </strong>
+            10.00 - 45.00
+            <a href="https://valiantdist.ca/products/vaporesso-polar-220w-tc-kit-with-cascade-baby-se">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Polar is the perfect match of brains and looks, packing in a beautiful 2 inch color display, an elegant prismatic appearance along with the featured Cascade Baby SE Sub-Ohm Tank.</p>
+<p><br>0.001s Firing Speed brings you the most rapid and safe heating and the purest rich flavor from the first puff to the last!<br><br>The upgraded OMNI Board 4.0 integrates Insta-Fire, Super Player Mode and multiple protections. 2.5A quick charge can halve your charging time.<br><br>Vaporesso Polar Kit is optimized for users looking for some serious power output with minimal fire delay. Experience instant vaping with Polar!</p>
+<p><strong>Specs:</strong><br>Size: 45*28*144mm<br>Tank Capacity: 6.5ml/2ml<br>Display: 2inch TFT Color Screen<br>Batteries: 2 x 18650(Not Included)<br>Power Range: 5-220W<br>Resistance Range: 0.03-5ohm<br><br><strong>In the Box:</strong><br>1 x Polar Mod<br>1 x Cascade Baby SE Tank<br>1 x GT 8 Coil 0.15ohm-Pre-installed<br>1 x GT Mesh Coil<br>1 x Replacement Glass Tube<br>1 x USB Charging Cable<br>1 x User Guide<br>1 x Warranty Card</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>220W</s:tag>
+    <s:tag>Blue &amp; Black</s:tag>
+    <s:tag>Cascade Baby</s:tag>
+    <s:tag>E-Cig</s:tag>
+    <s:tag>E-Cigs</s:tag>
+    <s:tag>Ecig</s:tag>
+    <s:tag>Ecigs</s:tag>
+    <s:tag>Electronic Cigarette</s:tag>
+    <s:tag>Electronic Cigarettes</s:tag>
+    <s:tag>Gold</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>Green &amp; Black</s:tag>
+    <s:tag>NEW Electronic Cigarettes</s:tag>
+    <s:tag>Polar</s:tag>
+    <s:tag>Price_$50 - $100</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Red &amp; Black</s:tag>
+    <s:tag>TC Kit</s:tag>
+    <s:tag>Type_Electronic Cigarette</s:tag>
+    <s:tag>Vaporesso</s:tag>
+    <s:tag>Vendor_Vaporesso</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1577458139178</id>
+      <title>Red &amp; Black</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>CE3107R&amp;BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1577458139178</id>
+      <title>Green &amp; Black</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>CE3107G&amp;BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1577458139178</id>
+      <title>Blue &amp; Black</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>CE3107B&amp;BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1577458139178</id>
+      <title>Gold</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>CE3107GD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251414343722</id>
+    <published>2020-07-10T06:37:14-06:00</published>
+    <updated>2020-07-10T06:37:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/uwell-crown-tank-coil-0-25ohm-4-pack"/>
+    <title>Uwell Crown Tank Coil 0.25ohm 4/Pack</title>
+    <s:type>E-Cig Coil</s:type>
+    <s:vendor>Uwell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/coil-1.jpg?v=1519414709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Uwell<br>
+        <strong>Type: </strong>E-Cig Coil<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Uwell Crown Tank Coil 0.25ohm 4/Pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Crown</s:tag>
+    <s:tag>Crown Coil</s:tag>
+    <s:tag>Crown Tank</s:tag>
+    <s:tag>E-Cig Coils</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_E-Cig Coil</s:tag>
+    <s:tag>Uwell Coil</s:tag>
+    <s:tag>UwellUwell</s:tag>
+    <s:tag>Vendor_Uwell</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251414343722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>COILCROWN025</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237171765290</id>
+    <published>2020-07-10T05:52:42-06:00</published>
+    <updated>2020-07-10T05:52:42-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/icy-fresh-orange-cream-30ml"/>
+    <title>Icy Fresh - Orange Cream 30ML</title>
+    <s:type>E-Juice</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/icyFresh_OrangeCream.jpg?v=1533139008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>E-Juice<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Orange Cream: A refreshing orange and vanilla ice cream bar</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>promo30</s:tag>
+    <s:tag>Type_E-Juice</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237171765290</id>
+      <title>0mg</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>CEJ2684</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4495718187057</id>
+    <published>2020-07-10T05:51:50-06:00</published>
+    <updated>2020-07-10T05:51:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/e-juice-smoothie-up-blue-pom-pom"/>
+    <title>E-Juice Smoothie Up Blue Pom Pom</title>
+    <s:type>E-Juice</s:type>
+    <s:vendor>Smoothie Up</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/CEJ1730.jpg?v=1579027572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smoothie Up<br>
+        <strong>Type: </strong>E-Juice<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_E-Juice</s:tag>
+    <s:tag>Vendor_Smoothie Up</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4495718187057</id>
+      <title>Blue Pom Pom 30ml 0</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>CEJ1730</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4495718187057</id>
+      <title>Blue Pom Pom 60ml 3</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>CEJ3035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237300838442</id>
+    <published>2020-07-10T05:42:53-06:00</published>
+    <updated>2020-07-10T05:42:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/icy-fresh-e-juice"/>
+    <title>Icy Fresh - Mango Papaya 30ML</title>
+    <s:type>E-Juice</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/icyFresh_MangoPapaya.jpg?v=1551457188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>E-Juice<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mango Papaya: A cool refreshing blend of mango and papaya.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>promo30</s:tag>
+    <s:tag>Type_E-Juice</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237300838442</id>
+      <title>0mg</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>CEJ2687</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1420316934186</id>
+    <published>2020-06-26T11:01:54-06:00</published>
+    <updated>2020-06-26T11:01:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/e-juice-wat-a-waffle-120ml"/>
+    <title>E-Juice Wat A Waffle 120ml</title>
+    <s:type>E-Juice</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/blurrberry_2bff77c1-21da-4224-a2ae-b6cc4f81de2a.jpg?v=1580576850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>E-Juice<br>
+        <strong>Price: </strong>
+            1.00 - 12.90
+            <a href="https://valiantdist.ca/products/e-juice-wat-a-waffle-120ml">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>BlurrBerry 120ML Fresh baked belgian waffles, topped with vanilla ice cream, fresh ripe blueberries and chocolate syrup drizzle.</p>
+<p>StrawBurry 120ML Fresh baked belgian waffles, topped with vanilla ice cream, fresh slices of strawberries and chocolate syrup drizzle.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blurrberry</s:tag>
+    <s:tag>E-Liquid</s:tag>
+    <s:tag>NEW E-Juice</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Strawburry</s:tag>
+    <s:tag>Type_E-Juice</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:tag>WAT A WALLFE</s:tag>
+    <s:tag>Wat-A-Waffle</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1420316934186</id>
+      <title>Blurrberry 0mg</title>
+      <s:price currency="CAD">12.90</s:price>
+      <s:sku>CEJ3044</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1420316934186</id>
+      <title>Strawburry 0mg</title>
+      <s:price currency="CAD">12.90</s:price>
+      <s:sku>CEJ3047</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1420316934186</id>
+      <title>Strawburry 6mg</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>CEJ3049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4687633383473</id>
+    <published>2020-06-26T10:01:25-06:00</published>
+    <updated>2020-06-26T10:01:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/soda-drips-e-juice-dr-jerk-3mg-30ml"/>
+    <title>Soda Drips-E-Juice Dr. Jerk-3mg-30ml</title>
+    <s:type>E-Juice</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/b4471979cc56ea1e54083d4422c86493.jpg?v=1593187280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>E-Juice<br>
+        <strong>Price: </strong>
+            1.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NEW E-Juice</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_E-Juice</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4687633383473</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.80</s:price>
+      <s:sku>CEJ1787</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4687604678705</id>
+    <published>2020-06-26T10:00:09-06:00</published>
+    <updated>2020-06-26T10:00:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/soda-drips-e-juice-kraken-energy-30ml"/>
+    <title>Soda Drips-E-Juice Kraken Energy-30ml</title>
+    <s:type>E-Juice</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/Raging_Blue_B22222ull_by_Soda_Drips_E-Liquid_600x_baba70ce-ca3a-44ea-be5a-2e64e09f58de.jpg?v=1593187128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>E-Juice<br>
+        <strong>Price: </strong>
+            1.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NEW E-Juice</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_E-Juice</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4687604678705</id>
+      <title>0mg</title>
+      <s:price currency="CAD">1.80</s:price>
+      <s:sku>CEJ1805</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4687602810929</id>
+    <published>2020-06-26T09:47:37-06:00</published>
+    <updated>2020-06-26T09:47:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/soda-drips-e-juice-raging-blue-bull-1-5mg-30ml"/>
+    <title>Soda Drips-E-Juice Raging Blue Bull-1.5mg-30ml</title>
+    <s:type>E-Juice</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/Raging_Blue_Bull_by_Soda_Drips_E-Liquid_600x_b1d235c7-915c-418a-b557-978b7f7d8cfa.jpg?v=1593186503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>E-Juice<br>
+        <strong>Price: </strong>
+            1.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NEW E-Juice</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_E-Juice</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4687602810929</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.80</s:price>
+      <s:sku>CEJ1791</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2044612837425</id>
+    <published>2020-05-04T09:16:10-06:00</published>
+    <updated>2020-05-04T09:16:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/e-juice-salt-nic-fresh-farms-strawberry-farm-cake-30ml"/>
+    <title>E-Juice Salt Nic Fresh Farms Strawberry Farm Cake 30ml</title>
+    <s:type>E-Juice</s:type>
+    <s:vendor>Fresh Farms</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/IMG_6746_copy.jpg?v=1591031774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fresh Farms<br>
+        <strong>Type: </strong>E-Juice<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Fresh Farms more than lives up to their name. A California-based brand who bring you the freshest fruit flavour you want and the quality you deserve. Now leaders in the industry, this e-liquid is sure to satisfy. Vape me a cake as fast as you can. You’ll be drooling over this moist, rich cake flavour with notes of fresh strawberries and cream smelling better than the bakery. Now you really can have your cake and eat it too! Strawberry Farm Cake offers a 50% VG and 50% PG split for your vaping pleasure. This 30ml bottle is available in 35mg and 50mg nicotine strength.</p>
+<p>30ml bottle<br>50% VG<br>50% PG<br>Available in 35mg and 50mg nicotine strength</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>e-liquid</s:tag>
+    <s:tag>ejuice</s:tag>
+    <s:tag>eliquid</s:tag>
+    <s:tag>NEW E-Juice</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_E-Juice</s:tag>
+    <s:tag>Vendor_Fresh Farms</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2044612837425</id>
+      <title>35mg</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>CEJ3262</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2044612837425</id>
+      <title>50mg</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>CEJ3263</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2078659280945</id>
+    <published>2020-04-07T13:30:19-06:00</published>
+    <updated>2020-04-07T13:30:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/v12-prince-q4-0-4ohm-quadruple-coil-3-pack-1"/>
+    <title>V12 Prince-Q4 0.4ohm</title>
+    <s:type>E-Cig Coil</s:type>
+    <s:vendor>V12 Plus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/Smok-TFV12-Prince-Q4-Coil-Canada.jpg?v=1586289045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>V12 Plus<br>
+        <strong>Type: </strong>E-Cig Coil<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>V12 Prince-Q4 Quadruple Coil Head(3pcs/Pack)</span></p>
+<ul>
+<li>Brings you deep and rich vapor</li>
+<li>0.4ohm Quadruple Coil</li>
+<li>40 - 100W/ Best 60 - 80W</li>
+</ul>
+<p>Note: NOT COMPATIBLE with TFV12 Cloud Beast King. TFV12 Cloud Beast King and TFV12 Prince use different coils. The TFV12 Prince coils will only be compatible with TFV12 Prince tank.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Prince</s:tag>
+    <s:tag>TFV12</s:tag>
+    <s:tag>Type_E-Cig Coil</s:tag>
+    <s:tag>Vendor_V12 Plus</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2078659280945</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>COILPRINCEV12Q4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4506369065009</id>
+    <published>2020-02-07T13:01:32-07:00</published>
+    <updated>2020-02-07T13:01:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/smok-nord-replacement-coils-5-pack-ceramic-1-4ohm-1"/>
+    <title>Smok Nord Replacement Coils 5/Pack Ceramic 1.4ohm</title>
+    <s:type>E-Cig Coil</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/COILNORDCERAMIC14.jpg?v=1581105977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>E-Cig Coil<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_E-Cig Coil</s:tag>
+    <s:tag>Vendor_SMOK</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4506369065009</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>COILNORDCERAMIC14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4502802300977</id>
+    <published>2020-02-03T10:09:05-07:00</published>
+    <updated>2020-02-03T10:09:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/eleaf-hw-n2-0-2ohm-coil-head-for-ello-series-5pcs"/>
+    <title>Eleaf HW-N2 0.2ohm Coil Head for Ello Series 5pcs</title>
+    <s:type>E-Cig Coil</s:type>
+    <s:vendor>Eleaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/64.jpg?v=1580507082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eleaf<br>
+        <strong>Type: </strong>E-Cig Coil<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is the Eleaf HW-N2 replacement coil head for the Ello series of vapes. It features a new, innovative leak-proof design and self-cleaning (LPSC) technology. It offers better airflow and uses a more porous cotton. It absorbs e-liquid faster and more efficiently, and delivers top-notch vapor. They perform best between 60-70 watts. The coil head is designed for 0.2ohm and the pack contains 5pcs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>E Cig Coils</s:tag>
+    <s:tag>Eleaf</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_E-Cig Coil</s:tag>
+    <s:tag>Vendor_Eleaf</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4502802300977</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>COILELEAFN2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4502802038833</id>
+    <published>2020-02-03T10:09:05-07:00</published>
+    <updated>2020-02-03T10:09:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/eleaf-hw-n-0-2ohm-coil-head-for-ello-series-5pcs"/>
+    <title>Eleaf HW-N 0.2ohm Coil Head for Ello Series 5pcs</title>
+    <s:type>E-Cig Coil</s:type>
+    <s:vendor>Eleaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eleaf<br>
+        <strong>Type: </strong>E-Cig Coil<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is the Eleaf HW-N replacement coil head for the Ello series of vapes. It features new, innovative net coil technology. This provides excellent flavour from your device and delivers massive clouds. These coil heads have a longer lifespan and are made from kanthal. They perform best between 40-90 watts.</p>
+<p>The coil head is designed for 0.2ohm and the pack contains 5pcs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>E Cig Coils</s:tag>
+    <s:tag>Eleaf</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_E-Cig Coil</s:tag>
+    <s:tag>Vendor_Eleaf</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4502802038833</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>COILELEAFN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4502800793649</id>
+    <published>2020-02-03T10:09:05-07:00</published>
+    <updated>2020-02-03T10:09:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/eleaf-ello-pop-atomizer"/>
+    <title>Eleaf ELLO POP Atomizer</title>
+    <s:type>E-Cig Tank</s:type>
+    <s:vendor>Eleaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/49.jpg?v=1580506517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eleaf<br>
+        <strong>Type: </strong>E-Cig Tank<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is the replacement Eleaf ELLO POP atomizer for the Eleaf iStick Mix Box MOD. It’s an impressive Sub Ohm tank with an attractive appearance and porous wicking cotton to allow for bigger clouds and better flavour. Silicone rings are wrapped around the glass exterior to prevent breakage. The airflow is adjustable and the design offers easy slide top filling and a smart child-lock. The atomizer utilizes a new kanthal coil that is paired with LPSC technology. They are compatible with HW series coils. Available in 2ml or 6.5ml capacities and black or silver colour.</p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>E-Cig Tanks</s:tag>
+    <s:tag>Eleaf</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_E-Cig Tank</s:tag>
+    <s:tag>Vendor_Eleaf</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4502800793649</id>
+      <title>2ml / Black</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>CET154BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4502800793649</id>
+      <title>2ml / Silver</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>CET154S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4502800793649</id>
+      <title>6.5ml / Black</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>CET152BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4502800793649</id>
+      <title>6.5ml / Silver</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>CET152S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4502800105521</id>
+    <published>2020-02-03T10:09:05-07:00</published>
+    <updated>2020-02-03T10:09:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/eleaf-ello-pop-replacement-glass-tube-2ml-4ml-6-5ml"/>
+    <title>Eleaf ELLO Pop Replacement Glass Tube 2ml / 4ml / 6.5ml</title>
+    <s:type>E-Cig Tank</s:type>
+    <s:vendor>Eleaf</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/62.jpg?v=1580418374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eleaf<br>
+        <strong>Type: </strong>E-Cig Tank<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is the replacement tube for the Eleaf ELLO Pop atomizer. It’s compatible with the Eleaf iStick Mix Box MOD.  It is a bubble-style glass tube made from borosilicate glass with a silicone wrap around the exterior. Easily clean it with 99% alcohol. Capacity is 2ml.</p>
+<p>This is the replacement tube for the Eleaf ELLO Pop atomizer. It’s compatible with the Eleaf iStick Mix Box MOD.  It is a bubble-style glass tube made from borosilicate glass with a silicone wrap around the exterior. Easily clean it with 99% alcohol. Capacity is 4ml.</p>
+<p>This is the replacement tube for the Eleaf ELLO Pop atomizer. It’s compatible with the Eleaf iStick Mix Box MOD. It is a bubble-style glass tube made from borosilicate glass with a silicone wrap around the exterior. Easily clean it with 99% alcohol. Capacity is 6.5ml.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>E-Cig Tanks</s:tag>
+    <s:tag>Eleaf</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_E-Cig Tank</s:tag>
+    <s:tag>Vendor_Eleaf</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4502800105521</id>
+      <title>2ml</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>ERT2ELLO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4502800105521</id>
+      <title>4ml</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>ERT4ELLO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4502800105521</id>
+      <title>6.5ml</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>ERT65ELLO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4502799974449</id>
+    <published>2020-02-03T10:09:05-07:00</published>
+    <updated>2020-02-03T10:09:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/voopoo-replacement-glass-tube-5-5ml-and-8ml-for-uforce-series-3pcs"/>
+    <title>VOOPOO Replacement Glass Tube 5.5ml and 8ml for UFORCE Series 3pcs</title>
+    <s:type>E-Cig Tank</s:type>
+    <s:vendor>Voopoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/1a_30508a47-c4a0-4538-acdf-5d890f067fc0.jpg?v=1580506084"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voopoo<br>
+        <strong>Type: </strong>E-Cig Tank<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These are the replacement glass tubes for the VooPoo UFORCE e-cigarette. <span>Whether it’s due to breaking or lack of cleaning, this is ideal to have as a backup. Clean with 99% alcohol to keep it sparkling. The tube is for holding up to 5.5ml and comes in a 3 pack. </span></p>
+<p>These are the replacement glass tubes for the VooPoo UFORCE e-cigarette. <span>Whether it’s due to breaking or lack of cleaning, this is ideal to have as a backup. Clean with 99% alcohol to keep it sparkling. The tube is for holding up to 8ml and comes in a 3 pack. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>E-Cig Tanks</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_E-Cig Tank</s:tag>
+    <s:tag>Vendor_Voopoo</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4502799974449</id>
+      <title>5.5ml</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>ERT55UFORCE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4502799974449</id>
+      <title>8ml</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>ERT8UFORCE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4502799122481</id>
+    <published>2020-02-03T10:09:05-07:00</published>
+    <updated>2020-02-03T10:09:05-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/voopoo-replacement-glass-tube-3-5ml-and-5ml-for-uforce-series-3pcs"/>
+    <title>VOOPOO Replacement Glass Tube 3.5ml and 5ml for UFORCE Series 3pcs</title>
+    <s:type>E-Cig Tank</s:type>
+    <s:vendor>Voopoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/1a.jpg?v=1580505982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Voopoo<br>
+        <strong>Type: </strong>E-Cig Tank<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These are the replacement glass tubes for the VooPoo UFORCE e-cigarette. <span>Whether it’s due to breaking or lack of cleaning, this is ideal to have as a backup. Clean with 99% alcohol to keep it sparkling. The tube is for holding up to 3.5ml and comes in a 3 pack. </span></p>
+<p>These are the replacement glass tubes for the VooPoo UFORCE e-cigarette. <span>Whether it’s due to breaking or lack of cleaning, this is ideal to have as a backup. Clean with 99% alcohol to keep it sparkling. The tube is for holding up to 5ml and comes in a 3 pack. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>E-Cig Tanks</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_E-Cig Tank</s:tag>
+    <s:tag>Vendor_Voopoo</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4502799122481</id>
+      <title>3.5ml</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>ERT35UFORCE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

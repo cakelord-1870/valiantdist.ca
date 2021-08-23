@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://valiantdist.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://valiantdist.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://valiantdist.ca/collections/rig-accessories.atom"/>
+  <title>Valiant Distribution Canada</title>
+  <updated>2021-02-09T13:47:23-07:00</updated>
+  <author>
+    <name>Valiant Distribution Canada</name>
+  </author>
+  <entry>
+    <id>https://valiantdist.ca/products/4828114780209</id>
+    <published>2021-02-09T13:47:23-07:00</published>
+    <updated>2021-02-09T13:47:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/nail-quartz-domeless-color-changing-sand-90degree-male-18"/>
+    <title>Nail Quartz Domeless Color Changing Sand 90degree Male 18</title>
+    <s:type>Nail</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/SJ-036_1.jpg?v=1625235743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Nail<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14mm</s:tag>
+    <s:tag>19mm</s:tag>
+    <s:tag>710</s:tag>
+    <s:tag>Banger</s:tag>
+    <s:tag>Butter</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Dab</s:tag>
+    <s:tag>Dabbing</s:tag>
+    <s:tag>Dabs</s:tag>
+    <s:tag>Female</s:tag>
+    <s:tag>Male</s:tag>
+    <s:tag>Nail</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Quarts</s:tag>
+    <s:tag>Quartz</s:tag>
+    <s:tag>Quartz Bangers</s:tag>
+    <s:tag>Quartz Nail</s:tag>
+    <s:tag>Rig accessory</s:tag>
+    <s:tag>Type_Nail</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:tag>Wax</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4828114780209</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>SJ-036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4828113633329</id>
+    <published>2021-02-09T13:45:34-07:00</published>
+    <updated>2021-02-09T13:45:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/nail-quartz-domeless-bucket-with-20mm-bowl-90degree-male-18"/>
+    <title>Nail Quartz Domeless Bucket with 20mm bowl 90degree Male 18</title>
+    <s:type>Quartz Banger</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/SJ-018_1.jpg?v=1612903513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Quartz Banger<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14mm</s:tag>
+    <s:tag>19mm</s:tag>
+    <s:tag>710</s:tag>
+    <s:tag>Banger</s:tag>
+    <s:tag>Butter</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Dab</s:tag>
+    <s:tag>Dabbing</s:tag>
+    <s:tag>Dabs</s:tag>
+    <s:tag>Female</s:tag>
+    <s:tag>Male</s:tag>
+    <s:tag>Nail</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Quarts</s:tag>
+    <s:tag>Quartz</s:tag>
+    <s:tag>Quartz Bangers</s:tag>
+    <s:tag>Quartz Nail</s:tag>
+    <s:tag>Rig accessory</s:tag>
+    <s:tag>Type_Quartz Banger</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:tag>Wax</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4828113633329</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>SJ-018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4826019823665</id>
+    <published>2021-02-05T07:15:00-07:00</published>
+    <updated>2021-02-05T07:15:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/replacement-45-degree-flat-bowl-quartz-banger-male-14mm"/>
+    <title>Replacement 45 Degree Flat Bowl Quartz Banger-Male 14mm</title>
+    <s:type>Quartz Banger</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/QN53M14.jpg?v=1612534488"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Quartz Banger<br>
+        <strong>Price: </strong>
+            7.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>710</s:tag>
+    <s:tag>Banger</s:tag>
+    <s:tag>Bangers</s:tag>
+    <s:tag>Butter</s:tag>
+    <s:tag>Concentrates</s:tag>
+    <s:tag>Dab</s:tag>
+    <s:tag>Dabbing</s:tag>
+    <s:tag>Dabs</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Quarts</s:tag>
+    <s:tag>Quartz</s:tag>
+    <s:tag>Quartz Bangers</s:tag>
+    <s:tag>Quartz Nail</s:tag>
+    <s:tag>Rig accessory</s:tag>
+    <s:tag>Type_Quartz Banger</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:tag>Wax</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4826019823665</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.45</s:price>
+      <s:sku>QN53M14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4826018775089</id>
+    <published>2021-02-05T07:10:25-07:00</published>
+    <updated>2021-02-05T07:10:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/replacement-90-degree-flat-bowl-quartz-banger-male-14mm"/>
+    <title>Replacement 90 Degree Flat Bowl Quartz Banger-Male 14mm</title>
+    <s:type>Quartz Banger</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/QN55M14.jpg?v=1612534205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Quartz Banger<br>
+        <strong>Price: </strong>
+            7.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>710</s:tag>
+    <s:tag>Banger</s:tag>
+    <s:tag>Bangers</s:tag>
+    <s:tag>Butter</s:tag>
+    <s:tag>Concentrates</s:tag>
+    <s:tag>Dab</s:tag>
+    <s:tag>Dabbing</s:tag>
+    <s:tag>Dabs</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Quarts</s:tag>
+    <s:tag>Quartz</s:tag>
+    <s:tag>Quartz Bangers</s:tag>
+    <s:tag>Quartz Nail</s:tag>
+    <s:tag>Rig accessory</s:tag>
+    <s:tag>Type_Quartz Banger</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:tag>Wax</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4826018775089</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.45</s:price>
+      <s:sku>QN55M14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4802081030193</id>
+    <published>2021-01-08T13:21:42-07:00</published>
+    <updated>2021-01-08T13:21:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/c-c-unique-replacement-90-degree-angled-bowl-quartz-banger-female-14mm"/>
+    <title>C&amp;C Unique-Replacement 90 Degree Angled Bowl Quartz Banger-Female 14mm</title>
+    <s:type>Quartz Banger</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/QN57F14.jpg?v=1611167457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Quartz Banger<br>
+        <strong>Price: </strong>
+            7.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>710</s:tag>
+    <s:tag>Banger</s:tag>
+    <s:tag>Bangers</s:tag>
+    <s:tag>Butter</s:tag>
+    <s:tag>Concentrates</s:tag>
+    <s:tag>Dab</s:tag>
+    <s:tag>Dabbing</s:tag>
+    <s:tag>Dabs</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Quarts</s:tag>
+    <s:tag>Quartz</s:tag>
+    <s:tag>Quartz Bangers</s:tag>
+    <s:tag>Quartz Nail</s:tag>
+    <s:tag>Rig accessory</s:tag>
+    <s:tag>Type_Quartz Banger</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:tag>Wax</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802081030193</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.45</s:price>
+      <s:sku>QN57F14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237327020074</id>
+    <published>2020-12-10T12:54:24-07:00</published>
+    <updated>2020-12-10T12:54:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/nail-grade-2-titanium-female-joint-14-19mm"/>
+    <title>Nail Grade 2 Titanium Female Joint 14 &amp; 19mm</title>
+    <s:type>Nail</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/HTI213_e405a69c-f973-4e41-ac2c-4880097f426e.jpg?v=1556727452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Nail<br>
+        <strong>Price: </strong>
+            24.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nail Grade 2 Titanium Female Joint 14 &amp; 19mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Famous Dispensary Supply</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Titanium Nails</s:tag>
+    <s:tag>Type_Nail</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237327020074</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.90</s:price>
+      <s:sku>HTI213</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4802080833585</id>
+    <published>2020-12-02T14:01:33-07:00</published>
+    <updated>2020-12-02T14:01:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/replacement-90-degree-angled-bowl-quartz-banger-male-14mm"/>
+    <title>Replacement 90 Degree Angled Bowl Quartz Banger-Male 14mm</title>
+    <s:type>Quartz Banger</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/QN57M14.jpg?v=1611167400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Quartz Banger<br>
+        <strong>Price: </strong>
+            7.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>710</s:tag>
+    <s:tag>Banger</s:tag>
+    <s:tag>Bangers</s:tag>
+    <s:tag>Butter</s:tag>
+    <s:tag>Concentrates</s:tag>
+    <s:tag>Dab</s:tag>
+    <s:tag>Dabbing</s:tag>
+    <s:tag>Dabs</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Quarts</s:tag>
+    <s:tag>Quartz</s:tag>
+    <s:tag>Quartz Bangers</s:tag>
+    <s:tag>Quartz Nail</s:tag>
+    <s:tag>Rig accessory</s:tag>
+    <s:tag>Type_Quartz Banger</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:tag>Wax</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802080833585</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.45</s:price>
+      <s:sku>QN57M14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4802079785009</id>
+    <published>2020-12-02T14:00:06-07:00</published>
+    <updated>2020-12-02T14:00:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/replacement-90-degree-flat-bowl-quartz-banger-female-14mm"/>
+    <title>Replacement 90 Degree Flat Bowl Quartz Banger-Female 14mm</title>
+    <s:type>Quartz Banger</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/QN55F14.jpg?v=1606942790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Quartz Banger<br>
+        <strong>Price: </strong>
+            7.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>710</s:tag>
+    <s:tag>Banger</s:tag>
+    <s:tag>Bangers</s:tag>
+    <s:tag>Butter</s:tag>
+    <s:tag>Concentrates</s:tag>
+    <s:tag>Dab</s:tag>
+    <s:tag>Dabbing</s:tag>
+    <s:tag>Dabs</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Quarts</s:tag>
+    <s:tag>Quartz</s:tag>
+    <s:tag>Quartz Bangers</s:tag>
+    <s:tag>Quartz Nail</s:tag>
+    <s:tag>Rig accessory</s:tag>
+    <s:tag>Type_Quartz Banger</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:tag>Wax</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802079785009</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.45</s:price>
+      <s:sku>QN55F14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237096955946</id>
+    <published>2020-10-23T08:00:16-06:00</published>
+    <updated>2020-10-23T08:00:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/glass-carb-cap-with-directional-air-flow-1"/>
+    <title>Glass Carb Cap with Directional Air Flow</title>
+    <s:type>Carb Cap</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/HCP13Y_1.jpg?v=1604073697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Carb Cap<br>
+        <strong>Price: </strong>
+            8.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>4 Colors to choose from.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Carb CapsCarb Cap</s:tag>
+    <s:tag>Directional Air flow</s:tag>
+    <s:tag>Directional Flow</s:tag>
+    <s:tag>Famous Dispensary Supply</s:tag>
+    <s:tag>Glass Carb Cap</s:tag>
+    <s:tag>NEW Dab Rigs</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Carb Cap</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237096955946</id>
+      <title>Yellow</title>
+      <s:price currency="CAD">8.50</s:price>
+      <s:sku>HCP13Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251398254634</id>
+    <published>2020-10-23T07:55:30-06:00</published>
+    <updated>2020-10-23T07:55:30-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/quartz-banger-14mm-male-with-4mm-thickness-90-degree-angle"/>
+    <title>Quartz Banger 14mm w/4mm Thickness 90 Degree Angle</title>
+    <s:type>Quartz Banger</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/qn33f14.jpg?v=1519810768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Quartz Banger<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Quartz Banger 14mm w/4mm Thickness 90 Degree Angle</p>
+<p>Â </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Famous Supply Dispensary</s:tag>
+    <s:tag>NEW Dab Rigs</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Quartz Bangers</s:tag>
+    <s:tag>Rig accessory</s:tag>
+    <s:tag>Type_Quartz Banger</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251398254634</id>
+      <title>14mm Female</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>QN33F14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251398254634</id>
+      <title>14mm Male</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>QN33M14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251380363306</id>
+    <published>2020-07-10T06:26:48-06:00</published>
+    <updated>2020-07-10T06:26:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/quartz-dish-for-titanium-nails"/>
+    <title>Quartz Dish for Titanium Nails</title>
+    <s:type>Nail</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/quartz_dish.jpg?v=1519899571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Nail<br>
+        <strong>Price: </strong>
+            5.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Quartz Dish for Titanium Nails</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Titanium Nails</s:tag>
+    <s:tag>Type_Nail</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251380363306</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.90</s:price>
+      <s:sku>HTI220</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237326921770</id>
+    <published>2020-07-10T05:58:17-06:00</published>
+    <updated>2020-07-10T05:58:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/nail-grade-2-titanium-6-in-1-male-female-joint-10-14-19mm"/>
+    <title>Nail Grade 2 Titanium 6 in 1 Male &amp; Female Joint 10,14 &amp; 19mm</title>
+    <s:type>Nail</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/hti217_aadb50a0-89ea-440a-b2c6-244284b00b0a.jpg?v=1525687118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Nail<br>
+        <strong>Price: </strong>
+            25.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nail Grade 2 Titanium 6 in 1 Male &amp; Female Joint 10,14 &amp; 19mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Famous Dispensary Supply</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Titanium Nails</s:tag>
+    <s:tag>Type_Nail</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237326921770</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.50</s:price>
+      <s:sku>HTI217</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237288878122</id>
+    <published>2020-07-10T04:49:58-06:00</published>
+    <updated>2020-07-10T04:49:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/quartz-carb-cap-for-banger-with-handle"/>
+    <title>Quartz Carb Cap for Banger with handle</title>
+    <s:type>Carb Cap</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/QCBCAP2_2.jpg?v=1551456798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Carb Cap<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Quartz Carb Cap for Banger with handle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Carb Cap with Handle</s:tag>
+    <s:tag>Carb CapsCarb Cap</s:tag>
+    <s:tag>Famous Dispensary Supply</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Quartz</s:tag>
+    <s:tag>Quartz Carb Cap</s:tag>
+    <s:tag>Type_Carb Cap</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237288878122</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>QCBCAP2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251397926954</id>
+    <published>2020-05-06T08:24:43-06:00</published>
+    <updated>2020-05-06T08:24:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/quartz-banger-frosted-19mm-male-with-4mm-thickness-90-degree-angle"/>
+    <title>Quartz Banger Frosted w/4mm Thickness 90 Degree Angle</title>
+    <s:type>Quartz Banger</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/qn47f14.jpg?v=1519805485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Quartz Banger<br>
+        <strong>Price: </strong>
+            4.00 - 9.90
+            <a href="https://valiantdist.ca/products/quartz-banger-frosted-19mm-male-with-4mm-thickness-90-degree-angle">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14mm/19mm Male 14mm/19mm Female</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Famous Supply Dispensary</s:tag>
+    <s:tag>NEW Dab Rigs</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Quartz Bangers</s:tag>
+    <s:tag>Rig accessory</s:tag>
+    <s:tag>Type_Quartz Banger</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251397926954</id>
+      <title>14mm Female</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>QN47F14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251397926954</id>
+      <title>19mm Female</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>QN47F19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251397926954</id>
+      <title>14mm Male</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>QN47M14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237327118378</id>
+    <published>2019-12-30T16:39:00-07:00</published>
+    <updated>2019-12-30T16:39:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/nail-grade-2-titanium-male-joint-14-19mm"/>
+    <title>Nail Grade 2 Titanium Male Joint 14 &amp; 19mm</title>
+    <s:type>Nail</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/hti211_1.jpg?v=1525687053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Nail<br>
+        <strong>Price: </strong>
+            24.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nail Grade 2 Titanium Male Joint 14 &amp; 19mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Famous Dispensary Supply</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Titanium Nails</s:tag>
+    <s:tag>Type_Nail</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237327118378</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.90</s:price>
+      <s:sku>HTI211</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1316597858346</id>
+    <published>2019-11-25T08:46:43-07:00</published>
+    <updated>2019-11-25T08:46:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/single-perc-replacement-glass-bubbler-for-sutra-dbr"/>
+    <title>Single Perc Glass Bubbler for Sutra DBR</title>
+    <s:type>E-Nail</s:type>
+    <s:vendor>Sutra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/Sutra-DBR_SPB_3.jpg?v=1575219243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sutra<br>
+        <strong>Type: </strong>E-Nail<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Single Perc Replacement Glass Bubbler for Sutra DBR</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>concentrate vape accessory</s:tag>
+    <s:tag>E-Nail Replacement Bubblers</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_E-Nail</s:tag>
+    <s:tag>Vendor_Sutra</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1316597858346</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>HTI118-SPBBLR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1316569415722</id>
+    <published>2019-11-25T08:46:43-07:00</published>
+    <updated>2019-11-25T08:46:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/drop-down-replacement-glass-bubbler-for-sutra-dbr"/>
+    <title>Drop Down Glass Bubbler for Sutra DBR</title>
+    <s:type>E-Nail</s:type>
+    <s:vendor>Sutra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/Sutra-DBR_3.jpg?v=1575219233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sutra<br>
+        <strong>Type: </strong>E-Nail<br>
+        <strong>Price: </strong>
+            24.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Drop Down Replacement Glass Bubbler for Sutra DBR</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>concentrate vape accessory</s:tag>
+    <s:tag>E-Nail Replacement Bubblers</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_E-Nail</s:tag>
+    <s:tag>Vendor_Sutra</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1316569415722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.90</s:price>
+      <s:sku>HTI118-DDBBLR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2214006718513</id>
+    <published>2019-09-16T09:52:28-06:00</published>
+    <updated>2019-09-16T09:52:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/copy-of-focus-v-carta-replacement-titanium-buckets"/>
+    <title>Focus V Carta Replacement Concentrate Atomizer</title>
+    <s:type>Atomizer</s:type>
+    <s:vendor>Focus V</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/CartaAtomizer3.jpg?v=1606843880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Focus V<br>
+        <strong>Type: </strong>Atomizer<br>
+        <strong>Price: </strong>
+            29.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is the replacement Concentrate atomizer for the Focus V Carta. Ideal for those looking for durability above all else. Utilizing the quality and reliability synonymous with the Focus V Carta, this atomizer is built to last and offers balanced heat distribution. To change atomizer, twist off metal attachment from front of unit, then replace with new atomizer.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>E-Rig</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Atomizer</s:tag>
+    <s:tag>Type_Vaporizer Accessory</s:tag>
+    <s:tag>Vendor_Focus V</s:tag>
+    <s:tag>Wax and Oil vape accessory</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2214006718513</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.90</s:price>
+      <s:sku>HTI120-CA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2214003900465</id>
+    <published>2019-09-16T09:51:10-06:00</published>
+    <updated>2019-09-16T09:51:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/focus-v-carta-replacement-titanium-buckets"/>
+    <title>Focus V Carta Replacement Titanium Buckets</title>
+    <s:type>Quartz Bucket</s:type>
+    <s:vendor>Focus V</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/CartaMetalBuckets2.jpg?v=1606843872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Focus V<br>
+        <strong>Type: </strong>Quartz Bucket<br>
+        <strong>Price: </strong>
+            24.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These are replacement titanium buckets for the Focus V Carta. Ultra-portable and nearly unbreakable, they retain heat effectively and efficiently. This pack comes with 2 replacement buckets. To change buckets, twist off metal attachment on front of unit, then carefully twist the top black piece in the same direction as the arrows, insert chosen bucket and reassemble.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Quartz Bucket</s:tag>
+    <s:tag>Type_Vaporizer Accessory</s:tag>
+    <s:tag>Vendor_Focus V</s:tag>
+    <s:tag>Wax and Oil vape accessory</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2214003900465</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.90</s:price>
+      <s:sku>HTI120-TB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2214002851889</id>
+    <published>2019-09-16T09:35:35-06:00</published>
+    <updated>2019-09-16T09:35:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/focus-v-carta-replacement-quartz-buckets"/>
+    <title>Focus V Carta Replacement Quartz Buckets</title>
+    <s:type>Quartz Bucket</s:type>
+    <s:vendor>Focus V</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/CartaBuckets.jpg?v=1606843863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Focus V<br>
+        <strong>Type: </strong>Quartz Bucket<br>
+        <strong>Price: </strong>
+            14.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These are replacement quartz buckets for the Focus V Carta. They heat up quickly and offer a rich, full flavour. They are compatible with concentrates of all viscosities as well as dry herb. This pack comes with 2 replacement buckets. To change buckets, twist off metal attachment on front of unit, then carefully twist the top black piece in the same direction as the arrows, insert chosen bucket and reassemble.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Quartz Bucket</s:tag>
+    <s:tag>Type_Vaporizer Accessory</s:tag>
+    <s:tag>Vendor_Focus V</s:tag>
+    <s:tag>Wax and Oil vape accessory</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2214002851889</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.90</s:price>
+      <s:sku>HTI120-QB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2213990989873</id>
+    <published>2019-09-16T09:35:35-06:00</published>
+    <updated>2019-09-16T09:35:35-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/focus-v-carta-replacement-dry-herb-atomizer"/>
+    <title>Focus V Carta Replacement Dry Herb Atomizer</title>
+    <s:type>Atomizer</s:type>
+    <s:vendor>Focus V</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/CartaAtomizerV2.02.jpg?v=1604251529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Focus V<br>
+        <strong>Type: </strong>Atomizer<br>
+        <strong>Price: </strong>
+            29.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This is the replacement Dry Herb atomizer for the Focus V Carta. Ideal for those looking to utilize the Carta for maximum potency from your dry herbs. Equipped with a ceramic chamber to augment flavour and heat quickly. To change atomizer, twist off metal attachment from front of unit, then replace with new atomizer.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>E-Rig</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Atomizer</s:tag>
+    <s:tag>Type_Vaporizer Accessory</s:tag>
+    <s:tag>Vendor_Focus V</s:tag>
+    <s:tag>Wax and Oil vape accessory</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2213990989873</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.90</s:price>
+      <s:sku>HTI120-DHA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2165354954801</id>
+    <published>2019-08-28T10:15:19-06:00</published>
+    <updated>2019-08-28T10:15:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/up-in-smoke-quartz-banger"/>
+    <title>UP IN SMOKE QUARTZ BANGER</title>
+    <s:type>Quartz Banger</s:type>
+    <s:vendor>Cheech and Chong Up in Smoke</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/CC_45_Male_Box.jpg?v=1601572899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cheech and Chong Up in Smoke<br>
+        <strong>Type: </strong>Quartz Banger<br>
+        <strong>Price: </strong>
+            12.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<span>Need a replacement? Want to convert your bong to a rig? Or just love dabbing? These bangers are calling your name. Celebrate the 40th anniversary of the classic stoner film you know and love in style! Thermal bangers allow more control over the temperature you’re smoking at, and retain heat better. They are ideal for smoking low temp dabs and they keep your extracts inside the inner layer to prevent leaks. Grab them today before they’re Up in Smoke. Cheech and Chong bangers are available in a variety of sizes and fittings.</span>
+</div>
+<ul>
+<li>Made from high-quality, thick Quartz</li>
+<li>Double wall design</li>
+<li>Retains Heat Longer</li>
+<li>No more Spills and Leaks</li>
+<li>Easy to Clean</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Quartz Banger</s:tag>
+    <s:tag>Vendor_Cheech and Chong Up in Smoke</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165354954801</id>
+      <title>14mm / 45º Male</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5175</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165354954801</id>
+      <title>14mm / 45º Female</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5177</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165354954801</id>
+      <title>14mm / 90º Male</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5171</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165354954801</id>
+      <title>14mm / 90º Female</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5173</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165354954801</id>
+      <title>18mm / 45º Male</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165354954801</id>
+      <title>18mm / 45º Female</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5185</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165354954801</id>
+      <title>18mm / 90º Male</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5179</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165354954801</id>
+      <title>18mm / 90º Female</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5181</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2165346435121</id>
+    <published>2019-08-28T10:14:43-06:00</published>
+    <updated>2019-08-28T10:14:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/trailer-park-boys-quartz-banger"/>
+    <title>TRAILER PARK BOYS QUARTZ BANGER</title>
+    <s:type>Quartz Banger</s:type>
+    <s:vendor>Trailer Park Boys</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/TPB_90_Female_Box.jpg?v=1601572881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Trailer Park Boys<br>
+        <strong>Type: </strong>Quartz Banger<br>
+        <strong>Price: </strong>
+            12.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<span>Need a replacement? Want to convert your bong to a rig? Or just love dabbing? These bangers are for you. Head on over to Sunnyvale and make your dreams come true. Thermal bangers allow more control over the temperature you’re smoking at, and retain heat better. They are ideal for smoking low temp dabs and they keep your extracts inside the inner layer to prevent leaks. Worst case Ontario you might end up at a Cheeseburger picnic. Trailer Park Boy bangers are available in a variety of sizes and fittings (45 degree 18mm male not available).</span>
+</div>
+<ul>
+<li>Made from high-quality, thick Quartz</li>
+<li>Double-wall design</li>
+<li>Retains Heat Longer</li>
+<li>No more Spills and Leaks</li>
+<li>Easy to Clean</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Quartz Banger</s:tag>
+    <s:tag>Vendor_Trailer Park Boys</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165346435121</id>
+      <title>14mm / 45º Male</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5129</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165346435121</id>
+      <title>14mm / 45º Female</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165346435121</id>
+      <title>14mm / 90º Male</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5125</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165346435121</id>
+      <title>14mm / 90º Female</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5127</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165346435121</id>
+      <title>18mm / 45º Female</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5137</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165346435121</id>
+      <title>18mm / 90º Male</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5133</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165346435121</id>
+      <title>18mm / 90º Female</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5135</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165346435121</id>
+      <title>18 mm / 45º Male</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5138</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2165333164081</id>
+    <published>2019-08-28T10:12:14-06:00</published>
+    <updated>2019-08-28T10:12:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/jay-and-silent-bob-quartz-banger"/>
+    <title>JAY AND SILENT BOB QUARTZ BANGER</title>
+    <s:type>Quartz Banger</s:type>
+    <s:vendor>Jay and Silent Bob</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/JSB_90_Female_Box.jpg?v=1601572858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jay and Silent Bob<br>
+        <strong>Type: </strong>Quartz Banger<br>
+        <strong>Price: </strong>
+            12.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<span>Need a replacement? Want to convert your bong to a rig? Or just love dabbing? These bangers have you covered. Now Silent Bob, buy them now! Thermal bangers allow more control over the temperature you’re smoking at, and retain heat better. They are ideal for smoking low temp dabs and they keep your extracts inside the inner layer to prevent leaks. Slip into the View Askewniverse with these Jay and Silent Bob bangers. Available in a variety of sizes and fittings.</span>
+</div>
+<ul>
+<li>Made from high-quality, thick Quartz</li>
+<li>Double wall design</li>
+<li>Retains Heat Longer</li>
+<li>No more Spills and Leaks</li>
+<li>Easy to Clean</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Quartz Banger</s:tag>
+    <s:tag>Vendor_Jay and Silent Bob</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165333164081</id>
+      <title>14mm / 45º Male</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5159</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165333164081</id>
+      <title>14mm / 45º Female</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5161</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165333164081</id>
+      <title>14mm / 90º Male</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165333164081</id>
+      <title>14mm / 90º Female</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165333164081</id>
+      <title>18mm / 45º Male</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5167</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165333164081</id>
+      <title>18mm / 45º Female</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5169</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165333164081</id>
+      <title>18mm / 90º Male</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5163</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2165333164081</id>
+      <title>18mm / 90º Female</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>H5165</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1348682711082</id>
+    <published>2018-03-15T21:59:02-06:00</published>
+    <updated>2018-03-15T21:59:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/wotofo-nudge-squonk-24mm-rda"/>
+    <title>WOTOFO Nudge Squonk RDA</title>
+    <s:type>Atomizer</s:type>
+    <s:vendor>Nudge</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/CET151-1.jpg?v=1575219528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nudge<br>
+        <strong>Type: </strong>Atomizer<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Wotofo Nudge RDA is a masterwork by Suck My Mod and Wotofo.Â </span><span>It is 24mm diameter RDA and looks great on BF mods, especially the Nudge BF Mod.Â </span><span>The RDA has 4 posts in a staggered Z design which makes it very easy to build dual coils.</span></p>
+<p><span><strong>Wotofo Nudge RDA 24mm Selling Points:</strong><br>1. Compatible with both 810 drip tip and 510 drip tip(adapter included)<br>2. Unique Z shaped structure with large room inside, dual coils design, easy to build<br>3. Excellent flavor and vape production with a concentrated airflow system and ridge design<br>4. More durable peek insulator made in Germany<br>5. Standard pin pre-installed with bottom feed pin included for BF box mod using<br><br><strong>Wotofo Nudge RDA 24mm Atomizer Packing list:</strong><br>1 x Nudge RDA 24mm<br>1 x User Manual<br>1 x 510 squonk pin<br>1 x 510 drip tip adapter<br>1 x Bag of Come Wire Coils<br>1 x Bag of Japanese Cotton<br>1 x Bag of Extra Screws&amp;Orings</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>E-CIG</s:tag>
+    <s:tag>e-cig accessory</s:tag>
+    <s:tag>E-Cig Tanks</s:tag>
+    <s:tag>NEW Electronic Cigarettes</s:tag>
+    <s:tag>Nudge Squonk</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>RDA TANK</s:tag>
+    <s:tag>Squonk</s:tag>
+    <s:tag>Type_Atomizer</s:tag>
+    <s:tag>Vendor_Nudge</s:tag>
+    <s:tag>WOTOFO</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1348682711082</id>
+      <title>Black</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>CET151BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1348682711082</id>
+      <title>GunMetal</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>CET151GM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

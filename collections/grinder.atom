@@ -1,0 +1,1118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://valiantdist.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://valiantdist.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://valiantdist.ca/collections/grinder.atom"/>
+  <title>Valiant Distribution Canada</title>
+  <updated>2021-02-23T08:47:24-07:00</updated>
+  <author>
+    <name>Valiant Distribution Canada</name>
+  </author>
+  <entry>
+    <id>https://valiantdist.ca/products/4835945742385</id>
+    <published>2021-02-23T08:47:24-07:00</published>
+    <updated>2021-02-23T08:47:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/4-comp-smooth-crank-grinder"/>
+    <title>4-Comp Smooth Crank Grinder</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>Valiant Distribution</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/MS1050BK_1.jpg?v=1614095247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant Distribution<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Crank out some freshly busted bud with the 62mm Smooth Crank Grinder in Black. This matte black 4-comp grinder features a unique hand crank that is easy on the wrists. Grinding up even the stickiest nugs an easy operation thanks to its sharp, strong, diamond-shaped teeth. This novel 62mm contraption contains a built-in kief catcher and mesh screen, so you can put a little away for a rainy day with each grind.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Hand Crank</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Clear Window</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Diamond-Shaped Teeth</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Pollen Screen</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Kief Catcher</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Four-piece design</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Matte Black</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">62mm Diameter</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_Valiant Distribution</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4835945742385</id>
+      <title>Black</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>MS1050BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4828547514417</id>
+    <published>2021-02-10T09:28:51-07:00</published>
+    <updated>2021-02-10T09:28:51-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/famous-x-59mm-acrylic-grinder-black-red-white-clear"/>
+    <title>Famous X 59mm Acrylic Grinder – Tray of 12 – Black/Red/White</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>Famous X</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/M569X_10.jpg?v=1612974530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Famous X<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Affordable quality X smart design. This is Famous X, a collection which brings you functional everyday cannabis products at affordable prices.</p>
+<p>The Famous X 59mm Acrylic Grinder is a lightweight, easy-to-use grinder with a classic 2-piece design. It’s sharp, pointed teeth will make short work of even the most dese buds. It’s low cost and consistent functionality make it a perfect addition to any stoner’s kit, for beginners and veterans like.</p>
+<p> </p>
+<ul>
+<li>Lightweight acrylic body</li>
+<li>Sharp, pointed teeth</li>
+<li>Classic 2-piece design</li>
+<li>Available in 3 varieties</li>
+<li>POP display tray included</li>
+<li>60mm diameter</li>
+<li>Assorted tray of 12</li>
+</ul>
+<ul data-mce-fragment="1"></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grinder</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_Famous X</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4828547514417</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>M569X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4821633794097</id>
+    <published>2021-01-26T14:03:26-07:00</published>
+    <updated>2021-01-26T14:03:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/grinder-angry-bird-jamaican-flag-bob-marley-3-comp"/>
+    <title>Grinder Angry Bird Jamaican Flag Bob Marley 3 Comp</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/MS1019_1.jpg?v=1611694990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            2.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grinders</s:tag>
+    <s:tag>NEW Grinders</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4821633794097</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.90</s:price>
+      <s:sku>MS1019</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4802087518257</id>
+    <published>2020-12-02T14:13:30-07:00</published>
+    <updated>2020-12-02T14:13:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/4-comp-grinder-w-pattern-assorted"/>
+    <title>4 Comp Grinder w/Pattern -Assorted</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/M5251_1.jpg?v=1611113266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grinders</s:tag>
+    <s:tag>NEW Grinders</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802087518257</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>M5251</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4802086830129</id>
+    <published>2020-12-02T14:12:44-07:00</published>
+    <updated>2020-12-02T14:12:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/aluminum-grinder-assorted"/>
+    <title>Aluminum Grinder-Assorted</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/M5247_1.jpg?v=1606943557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            5.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">D40 x H35 mm</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grinders</s:tag>
+    <s:tag>NEW Grinders</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802086830129</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.99</s:price>
+      <s:sku>M5247</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4802085945393</id>
+    <published>2020-12-02T14:11:38-07:00</published>
+    <updated>2020-12-02T14:11:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/plastic-grinder-assorted-100mm"/>
+    <title>Plastic Grinder-Assorted-100mm</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/M5245_5.jpg?v=1611113182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            2.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grinders</s:tag>
+    <s:tag>NEW Grinders</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802085945393</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.49</s:price>
+      <s:sku>M5245</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4802085060657</id>
+    <published>2020-12-02T14:10:23-07:00</published>
+    <updated>2020-12-02T14:10:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/plastic-grinder-assorted-65mm"/>
+    <title>Plastic Grinder-Assorted-65mm</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/M5243_1.jpg?v=1611113140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            1.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grinders</s:tag>
+    <s:tag>NEW Grinders</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802085060657</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.75</s:price>
+      <s:sku>M5243</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4802084274225</id>
+    <published>2020-12-02T14:09:15-07:00</published>
+    <updated>2020-12-02T14:09:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/1-comp-wood-and-zink-grinder"/>
+    <title>1 Comp Wood and Zinc Grinder</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/M5241_3.jpg?v=1611113078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grinders</s:tag>
+    <s:tag>NEW Grinders</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802084274225</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>M5241</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4802083389489</id>
+    <published>2020-12-02T14:08:16-07:00</published>
+    <updated>2020-12-02T14:08:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/2-comp-bullet-grinder-assorted"/>
+    <title>2 Comp Bullet Grinder-Assorted</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/M5239_1.jpg?v=1611112990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1"><b data-mce-fragment="1"><span data-mce-fragment="1">D30 x H32 mm</span></b></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grinders</s:tag>
+    <s:tag>NEW Grinders</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802083389489</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>M5239</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4802023096369</id>
+    <published>2020-12-02T13:14:52-07:00</published>
+    <updated>2020-12-02T13:14:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/grinder-single-storage-multi-pack"/>
+    <title>Grinder Single Storage Multi-pack</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/MS10461.jpg?v=1611166491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            22.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Storage</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4802023096369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.90</s:price>
+      <s:sku>MS1046</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4801989673009</id>
+    <published>2020-12-02T12:22:19-07:00</published>
+    <updated>2020-12-02T12:22:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/sackville-and-co-signature-grinder-gold"/>
+    <title>Sackville and Co-Signature-Grinder-Gold</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>Sackville and Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/AURMS1048_4.jpg?v=1607860290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sackville and Co<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_Sackville and Co</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4801989673009</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>AURMS1048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4795060650033</id>
+    <published>2020-12-02T12:15:15-07:00</published>
+    <updated>2020-12-02T12:15:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/2-4-grinder-with-glossy-finish-blue"/>
+    <title>2-4 Grinder with Glossy Finish</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/M1010GB_1.jpg?v=1605290585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            12.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1">
+<strong data-mce-fragment="1">Top: </strong><b data-mce-fragment="1">63 mm </b>
+</div>
+<div data-mce-fragment="1"><b data-mce-fragment="1">Base: 65mm </b></div>
+<div data-mce-fragment="1"><b data-mce-fragment="1">Height: 30 mm</b></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grinders</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>SALE Grinders &amp; Scales</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4795060650033</id>
+      <title>Blue</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>M1010GB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4795060650033</id>
+      <title>Black</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>M1010GBK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4795060650033</id>
+      <title>Red</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>M1010GR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237309587498</id>
+    <published>2020-10-23T07:56:03-06:00</published>
+    <updated>2020-10-23T07:56:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/up-in-smoke-aluminum-grinder-50mm"/>
+    <title>Up In Smoke Aluminum Grinder 50mm</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/c2grd01aq-_00.jpg?v=1610407034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            12.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>3 stage 50mm grinder. Made entirely out of CNC aluminum. Available in four colours - Green, Aqua, Black and Purple.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grinders</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Up In Smoke</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237309587498</id>
+      <title>Aqua</title>
+      <s:price currency="CAD">12.45</s:price>
+      <s:sku>C2GRD01AQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237309587498</id>
+      <title>Black</title>
+      <s:price currency="CAD">12.45</s:price>
+      <s:sku>C2GRD01BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237309587498</id>
+      <title>Green</title>
+      <s:price currency="CAD">12.45</s:price>
+      <s:sku>C2GRD01G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237309587498</id>
+      <title>Purple</title>
+      <s:price currency="CAD">12.45</s:price>
+      <s:sku>C2GRD01PP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4782276575281</id>
+    <published>2020-10-15T10:17:31-06:00</published>
+    <updated>2020-10-15T10:17:31-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/3-comp-grinder-with-top-pattern"/>
+    <title>3 Comp Grinder with Top Pattern</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/M5249-_01.jpg?v=1602771223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1"><span data-mce-fragment="1">Bust up your buds in style with this attractive metal grinder. Solid metal constructions means that it’s built to last, and its diamond-shaped teeth will break up the super-dense and the sticky-icky with ease. It includes a built-in kief catcher and features an eye-catching pattern on the top. This item is an essential buy for smokers everywhere.</span></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Quality metal construction</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Diamon-shaped teeth</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Three-piece design with kief catcher</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">Eye-catching pattern on top</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">[add technical specs: diameter]</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4782276575281</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>M5249</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4770393948209</id>
+    <published>2020-09-30T08:57:11-06:00</published>
+    <updated>2020-09-30T08:57:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/puff-puff-pass-strain-pineapple-express-3-stage-grinder-green-and-yellow-55mm"/>
+    <title>Puff Puff Pass Strain Pineapple Express 3 Stage Grinder Green and Yellow 55mm</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>PUFF PUFF PASS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/M5237_7.jpg?v=1601477831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PUFF PUFF PASS<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p data-mce-fragment="1">Puff, Puff, Pass has come out with the perfect way to show love to your favorite strains. By putting them on their new collection of pipes and grinders! These awesome pieces come in a multitude of colors and are emblazoned with their signature strain. Collect your favorite, or all of them.</p>
+<p data-mce-fragment="1">Rise and grind with this 55mm 3-stage aluminum strain grinder. It’s the ideal size for grinding at home or on the go. The top piece is held in place magnetically, ensuring you get the perfect grind, every time. The comfort fit grooves don’t hurt either! Equipped with chisel-tip teeth to expertly tear and fluff your herbs as they get small enough to fall through the holes onto the fine, mesh screen. The screen chamber is a great place for storing your herb. The exterior is threaded, so everything inside remains safe and secure. The mesh screen filters your most potent bits down to the bottom section. This is the large, kief reservoir. Also kept in place with threading, it protects your super stash that you’ve saved for a rainy day (or just, a regular day). Collect your crystals easily with the little scraper that comes included with every grinder.</p>
+<p data-mce-fragment="1">Pineapple Express is a green and yellow grinder. The top is green with the strain name in yellow emblazoned on the lid. Below the text it also features a yellow pineapple with a light leaf on the top. The bottom piece features a green Puff, Puff, Pass logo. Pineapple Express fills you with productive and creative energy.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_Puff Puff Pass</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4770393948209</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>M5237</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4751974826033</id>
+    <published>2020-08-20T10:26:50-06:00</published>
+    <updated>2020-08-20T10:26:50-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/san-rafael-grinder-medium-blue-50mm"/>
+    <title>San Rafael-Grinder Medium-Blue-50mm</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>Aurora</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/AURM5209BL-SanRafaelGrinder_1.jpg?v=1607822651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aurora<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Feeling blue? San Rafael is here to help. This comprehensive collection includes everything from water pipes, to trays and grinders. With their classic blue shade at the forefront of the design, these minimalistic accessories will be at the top of everyone’s list.</p>
+<p>This aluminum 3-stage grinder’s top is sealed with a magnetic closure to help keep everything secure. Use the chisel-tip teeth to tear and fluff your herbs to perfection. The bottom two layers are threaded together to ensure the safety of your ground material. Once optimally ground in the top section the material moves down through the holes to the mid-section. This compartment is ideal for storing your ground herbs. The most potent pieces will filter down through the mesh screen and land in the kief compartment, the secret space where the best bits are kept. </p>
+<p>This 50mm/ 2” grinder has comfort grooves on the sides for a more ergonomic grind. The stunning blue colour is complimented by the classic white San Rafael logo on the top of the grinder. Fun and functional, this grinder is sure to impress.</p>
+<gdiv></gdiv><gdiv></gdiv><gdiv></gdiv><gdiv></gdiv></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_Aurora</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4751974826033</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>AURM5209BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4740670652465</id>
+    <published>2020-07-29T12:03:23-06:00</published>
+    <updated>2020-07-29T12:03:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/rock-legends-jimi-love-black-55mm-3-stage-grinder"/>
+    <title>Rock Legends Jimi Love Black 55mm 3 Stage Grinder</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>Rock Legends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/M5217_1.jpg?v=1596045806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rock Legends<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            12.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>After receiving his first guitar at 15, he taught himself to play by watching and learning from experienced entertainers. He was fired from his first gig for showing off, but later became one of the most influential guitarists and celebrated musicians in history. He headlined massive music festivals like Woodstock and Isle of Wright. In 1970 he tragically succumbed to the infamous 27 Club. Leaving behind an eternal legacy and securing his place as a rock legend. </span></p>
+<p><span>Love is a 3-stage grinder made from aluminum. It features comfort grooves on the top and bottom to make grinding easier than ever. The top piece is held in place magnetically to ensure ideal movement and no spilling during transport. Love has chisel-tip teeth to tear and fluff your herb to perfection. Once ground sufficiently your herb falls down to the middle storage chamber. Your stash is safely tucked away behind the threaded sections. Below your storage is a fine, mesh screen. This screen filters your most potent bits to the bottom reservoir. These are best saved for a rainy day, or to make your session even sweeter. The bottom chamber is threaded as well and is equipped with a small scraping tool to effortlessly collect your kief. </span></p>
+<p><span>This 55mm black grinder (5.5x5cm/2.2x2”) is adorned with an iconic black and white image of the rock legend. Behind him is an intricate pattern filled with peace and love and the word Love. </span></p>
+<gdiv></gdiv></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_Rock Legends</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4740670652465</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.45</s:price>
+      <s:sku>M5217</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4740670554161</id>
+    <published>2020-07-29T12:03:19-06:00</published>
+    <updated>2020-07-29T12:03:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/rock-legends-jimi-rainbow-haze-3-stage-grinder-silver-55mm"/>
+    <title>Rock Legends Jimi Rainbow Haze 3 Stage Grinder Silver 55mm</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>Rock Legends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/M5215_1.jpg?v=1596045802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rock Legends<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            12.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>After receiving his first guitar at 15, he taught himself to play by watching and learning from experienced entertainers. He was fired from his first gig for showing off, but later became one of the most influential guitarists and celebrated musicians in history. He headlined massive music festivals like Woodstock and Isle of Wright. In 1970 he tragically succumbed to the infamous 27 Club. Leaving behind an eternal legacy and securing his place as a rock legend. </span></p>
+<p><span>Rainbow Haze is a 3-stage grinder made from aluminum. It features comfort grooves on the top and bottom to make grinding easier than ever. The top piece is held in place magnetically to ensure ideal movement and no spilling during transport. Rainbow Haze has chisel-tip teeth to tear and fluff your herb to perfection. Once ground sufficiently your herb falls down to the middle storage chamber. Your stash is safely tucked away behind the threaded sections. Below your storage is a fine, mesh screen. This screen filters your most potent bits to the bottom reservoir. Best saved for a rainy day, or to make your session even sweeter. The bottom chamber is threaded as well and is equipped with a small scraping tool to effortlessly collect your kief. </span></p>
+<p><span>This 55mm grinder (5.5x5cm/2.2x2”) is a sleek, silver colour featuring an iconic image of the rock legend. He is surrounded by a rainbow explosion filled with every dazzling colour you can imagine.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_Rock Legends</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4740670554161</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.45</s:price>
+      <s:sku>M5215</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4740670488625</id>
+    <published>2020-07-29T12:03:15-06:00</published>
+    <updated>2020-07-29T12:03:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/rock-legends-jimi-fire-3-stage-grinder-red-55mm"/>
+    <title>Rock Legends Jimi Fire 3 Stage Grinder Red 55mm</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>Rock Legends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/M5213_1.jpg?v=1596045799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rock Legends<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            12.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>After receiving his first guitar at 15, he taught himself to play by watching and learning from experienced entertainers. He was fired from his first gig for showing off, but later became one of the most influential guitarists and celebrated musicians in history. He headlined massive music festivals like Woodstock and Isle of Wright. In 1970 he tragically succumbed to the infamous 27 Club. Leaving behind an eternal legacy and securing his place as a rock legend. </span></p>
+<p><span>Fire is a 3-stage grinder made from aluminum. It features comfort grooves on the top and bottom to make grinding easier than ever. The top piece is held in place magnetically to ensure ideal movement and no spilling during transport. Fire has chisel-tip teeth to tear and fluff your herb to perfection. Once ground sufficiently your herb falls down to the middle storage chamber. Your stash is safely tucked away behind the threaded sections. Below your storage is a fine, mesh screen. This screen filters your most potent bits to the bottom reservoir. Best saved for a rainy day, or to make your session even sweeter. The bottom chamber is threaded as well and is equipped with a small scraping tool to effortlessly collect your kief. </span></p>
+<p><span>This 55mm grinder (5.5x5cm/2.2x2”) is a fiery red colour to make the epic flames on the top blaze even brighter. Rocking out in the middle of the epic scene is your favorite rock legend rocking out on his iconic guitar. </span></p>
+<gdiv></gdiv></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_Rock Legends</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4740670488625</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.45</s:price>
+      <s:sku>M5213</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4734269161521</id>
+    <published>2020-07-24T14:25:58-06:00</published>
+    <updated>2020-07-24T14:25:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/rock-legends-fab4-fab4-3-stage-grinder-black-55mm"/>
+    <title>Rock Legends Fab4 Abbey Road 3 Stage Grinder Black 55mm</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>Rock Legends</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/M5225B_1.jpg?v=1596048047"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rock Legends<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            12.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The Abbey Road formed at the end of the 1950’s in Liverpool. Credited with starting the British Invasion in the USA they are hailed as the most influential band of all time. In 1988 they were inducted into the Rock &amp; Roll hall of fame and are regarded as the best-selling band of all time. Although only 2 members remain, the impact they had will be forever remembered as they’ve secured their places as rock legends.</span></p>
+<p><span>Abbey Road is a 3-stage grinder made from aluminum. It features comfort grooves on the top and bottom to make grinding easier than ever. The top piece is held in place magnetically to ensure ideal movement and no spilling during transport. Abbey Road has chisel-tip teeth to tear and fluff your herb to perfection. Once ground sufficiently your herb falls down to the middle storage chamber. Your stash is safely tucked away behind the threaded sections. Below your storage is a fine, mesh screen. This screen filters your most potent bits to the bottom reservoir. These are best saved for a rainy day, or to make your session even sweeter. The bottom chamber is threaded as well and is equipped with a small scraping tool to effortlessly collect your kief. </span></p>
+<p><span>This 55mm black grinder (5.5x5cm/2.2x2”) is adorned with the iconic image of the rock legends crossing Abbey Road from their famous album cover.</span></p>
+<gdiv></gdiv><gdiv></gdiv></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_Rock Legends</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4734269161521</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.45</s:price>
+      <s:sku>M5225</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2113648623665</id>
+    <published>2020-07-10T06:51:06-06:00</published>
+    <updated>2020-07-10T06:51:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/grinder-metal-aurora-medium-black"/>
+    <title>Grinder Metal Aurora Black</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>Aurora</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/0266_small_grinder.jpg?v=1596302621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aurora<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            7.49 - 12.49
+            <a href="https://valiantdist.ca/products/grinder-metal-aurora-medium-black">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This aluminum 3-stage grinder has a magnetic closure and uses diamond-cut teeth to perfectly tear and fluff your herbs. It then falls through the holes onto the fine, mesh screen. The threaded mid-section securely holds what you want to save for later. Your finest, most potent material filters down through the screen and is captured in the large kief reservoir at the bottom.</p>
+<p>Available in small 40mm, medium 50mm, and large 62mm.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_Aurora</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2113648623665</id>
+      <title>Small</title>
+      <s:price currency="CAD">7.49</s:price>
+      <s:sku>AURGR40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2113648623665</id>
+      <title>Medium</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>AURGR50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2113648623665</id>
+      <title>Large</title>
+      <s:price currency="CAD">12.49</s:price>
+      <s:sku>AURGR62</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2190200406065</id>
+    <published>2020-04-28T12:44:51-06:00</published>
+    <updated>2020-04-28T12:44:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/puff-puff-pass-grinder-3-stage"/>
+    <title>PUFF PUFF PASS Grinder 3 stage</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>Puff Puff Pass</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/PUFF_PUFF_PASS_new_logo_Grinder_3_stage.jpg?v=1604251230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Puff Puff Pass<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span>Puff, Puff, Pass this aluminum herb grinder over. With three stages and a stunning rainbow finish you won’t want to let this grinder out of your sight. The lid has the fun Puff, Puff, Pass logo adorned on it and is outfitted with comfort fit grooves to make grinding more pleasant. The top pieces are held together magnetically, allowing for an easy grind and preventing the lid from coming off while traveling. All of the other sections are threaded together, making the seal very tight. Strong, diamond-cut teeth tear and fluff your herb to perfection in the top portion. Holes allow for the herb to travel into the storage reservoir, which features a window so you can see how much you’ve got in there. After that, the fine mesh screen filters all your most potent bits down into the bottom kief compartment, and the included scraper lets you collect everything to use at your leisure.</span>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_Puff Puff Pass</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2190200406065</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>M113</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4517194334257</id>
+    <published>2020-03-04T15:08:47-07:00</published>
+    <updated>2020-03-04T15:08:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/skulls-pistols-guns-n-roses-3-stage-grinder-50mm"/>
+    <title>SKULLS &amp; PISTOLS GUNS N’ ROSES 3-STAGE GRINDER – 50MM</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>Guns N Roses</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/GUNS-n-ROSES-GRINDER-01-01.jpg?v=1583185694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Guns N Roses<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            12.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>The wait is over! One of the greatest hard rock bands of our time, Guns N’ Roses, has finally released their own officially licensed line of smoking accessories. In this cool, new collection are six designs, including a water pipe, a dab rig, 2 grinders and 2 styles of hand pipes all featuring iconic artwork familiar to superfans and anyone who loves rock music. Sit back and use Skulls and Pistols, a 50mm 3-stage grinder, with iconic GNR imagery. </span></p>
+<p><span>This three-stage magnetic aluminum grinder is part of the GNR collection and is a must have tool for your smoking kit. This metal four piece herb grinder stays together securely by threading together the bottom three pieces, while the top piece is held in place by magnets. </span></p>
+<p><span>The sharp diamond-cut teeth will tear and fluff your herbs to perfection. Breaking your herb into chunks will help this process and ensure longevity to the grinder. Once ground your herb will fall through the holes into the middle chamber. Use this as storage or as a little dish for packing bowls or joints. Underneath this section you’ll find a fine, mesh screen. This filters all your most potent bits to the bottom level. The lowest compartment is where you’ll find your kief, use the included scraper to collect these bits and use them for a rainy day or just to add a little sass to your everyday smoke.</span></p>
+<p><span>This all black grinder comes adorned with a cool top graphic. A top hat wearing skull is in front of crossed pistols and surrounded by a plethora of roses with fun, GNR font across the hat.</span></p>
+<p><span>So whether you’re a die-hard fan, collector, or simply looking for a solid grinder that will last, this Guns N’ Roses 4-part magnetic aluminum grinder is the perfect choice. Shop this and the rest of the GNR collection right here, while supplies last.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_Guns N Roses</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4517194334257</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.45</s:price>
+      <s:sku>M5187S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4311290445873</id>
+    <published>2020-02-20T13:35:42-07:00</published>
+    <updated>2020-02-20T13:35:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/grinder-card"/>
+    <title>Grinder Card</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>Aurora</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/0286_grinder_card.jpg?v=1622572450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aurora<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            4.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grind on the go! This sneaky metal grinder fits easily in your wallet, pocket or stash kit. Use it like a cheese grater by rubbing your herb along the shredder, just make sure the surface you’re grinding onto is clean. This underrated and efficient little grinder is incredibly easy to clean. Using 99% alcohol and a little brush will get it back to travel-ready.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_Aurora</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4311290445873</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.50</s:price>
+      <s:sku>AURGC</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4506373619761</id>
+    <published>2020-02-10T10:10:53-07:00</published>
+    <updated>2020-02-10T10:10:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/grinder-king-skull-2-comp"/>
+    <title>Grinder King Skull-2 Comp</title>
+    <s:type>Grinder</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/IMG_4789_0003_MS1012.jpg?v=1581107754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Grinder<br>
+        <strong>Price: </strong>
+            4.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-contrast="auto" class="TextRun  BCX7 SCXW77291884" lang="EN-US" xml:lang="EN-US"><span class="NormalTextRun  BCX7 SCXW77291884">This grinder is tough as nails. Equipped with strong, sharp teeth to shred your herbs and a mesh screen underneath, this grinder gets the job done. A storage compartment in the bottom handles the kief collection and in a pinch can be used for storage. </span></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Grinder</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4506373619761</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.90</s:price>
+      <s:sku>MS1012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

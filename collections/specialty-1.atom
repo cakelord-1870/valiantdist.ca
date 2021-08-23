@@ -1,0 +1,1384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://valiantdist.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://valiantdist.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://valiantdist.ca/collections/specialty-1.atom"/>
+  <title>Valiant Distribution Canada</title>
+  <updated>2020-07-10T06:40:06-06:00</updated>
+  <author>
+    <name>Valiant Distribution Canada</name>
+  </author>
+  <entry>
+    <id>https://valiantdist.ca/products/1428430323754</id>
+    <published>2020-07-10T06:40:06-06:00</published>
+    <updated>2020-07-10T06:40:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/silicone-tray-black-skull-2-piece"/>
+    <title>Silicone Tray Black Skull 2 Piece</title>
+    <s:type>Bakeware</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/SKA119_1.jpg?v=1611168722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Bakeware<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Impress your friends withÂ cool and fun skull shaped treats with these high quality molds. Forming creatively shaped goods has never been so easy. Made from premium food grade FDA approved silicone that is BPA free and Heat resistant (up toÂ <span>464Â°F) these are fun and safe to use.</span></p>
+<p>Silicone Mold Size: 5.43" x 5.43 x 2.68"<br><br><span></span></p>
+<p>Â </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Piece</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Candy Mold</s:tag>
+    <s:tag>Ice Cube Tray</s:tag>
+    <s:tag>Ice Mold</s:tag>
+    <s:tag>Mold</s:tag>
+    <s:tag>Molds</s:tag>
+    <s:tag>NEW Extractors &amp; Butter Makers</s:tag>
+    <s:tag>Pieces</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Silicone</s:tag>
+    <s:tag>Skull</s:tag>
+    <s:tag>Skulls</s:tag>
+    <s:tag>Two</s:tag>
+    <s:tag>Two Piece</s:tag>
+    <s:tag>Type_Bakeware</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1428430323754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SKA119</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1655898636330</id>
+    <published>2018-09-12T20:48:25-06:00</published>
+    <updated>2018-09-12T20:48:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/kush-kards"/>
+    <title>Kush Kards</title>
+    <s:type>Gift</s:type>
+    <s:vendor>KushKards</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/L006.jpg?v=1536807860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KushKards<br>
+        <strong>Type: </strong>Gift<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><strong>How To: </strong>Assembling a card is easy!</p>
+<p>Simply Pull the strings back, take a match and light what you attach. Just Add Weed.</p>
+<p><strong>*pre-roll not included </strong></p>
+<p><strong>*DISCLAIMER: IT IS ILLEGAL TO MAIL ANY PRODUCTS CONTAINING MARIJUANA**</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Gift</s:tag>
+    <s:tag>Vendor_KushKards</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1655898636330</id>
+      <title>High Wishes Happy Birthday</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>L006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1655898636330</id>
+      <title>Bud Bouquet</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>L007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1655898636330</id>
+      <title>Let&apos;s Burn</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>L008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1655898636330</id>
+      <title>All I Weed Is You</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>L009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1655898636330</id>
+      <title>Im So Stoned Over You</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>L010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1655885824042</id>
+    <published>2018-09-12T20:31:56-06:00</published>
+    <updated>2018-09-12T20:31:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/card-one-hitter"/>
+    <title>KushKards One Hitter</title>
+    <s:type>Drinking Game</s:type>
+    <s:vendor>KushKards</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/L001.jpg?v=1536806679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>KushKards<br>
+        <strong>Type: </strong>Drinking Game<br>
+        <strong>Price: </strong>
+            3.00 - 5.90
+            <a href="https://valiantdist.ca/products/card-one-hitter">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>One Hitter / Envelope / Plastic Packaging Included.</p>
+<p>Enjoy your Hit and get Lit with a Kush Hitter Kard.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>birthday card</s:tag>
+    <s:tag>gift cards</s:tag>
+    <s:tag>greeting card</s:tag>
+    <s:tag>greeting cards</s:tag>
+    <s:tag>Kush cards</s:tag>
+    <s:tag>Kush kards</s:tag>
+    <s:tag>one hitter</s:tag>
+    <s:tag>onehitter</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>stoner cards</s:tag>
+    <s:tag>Type_Drinking Game</s:tag>
+    <s:tag>Vendor_KushKards</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1655885824042</id>
+      <title>Let&apos;s Get High AF</title>
+      <s:price currency="CAD">5.90</s:price>
+      <s:sku>L001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1655885824042</id>
+      <title>When You&apos;re Feeling Under the Weather</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>L002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1655885824042</id>
+      <title>Just Wanted to Say High</title>
+      <s:price currency="CAD">5.90</s:price>
+      <s:sku>L003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1655885824042</id>
+      <title>Ur The Dope I Want To Smoke</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>L004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1655885824042</id>
+      <title>Speed Limit 420</title>
+      <s:price currency="CAD">5.90</s:price>
+      <s:sku>L005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1463424155690</id>
+    <published>2018-05-09T23:40:39-06:00</published>
+    <updated>2018-05-09T23:40:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/cookie-cutter-hard-plastic-skeleton"/>
+    <title>Cookie Cutter Hard Plastic Skeleton</title>
+    <s:type>Bakeware</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/SKA136_1.jpg?v=1610989270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Bakeware<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Food Grade PP</p>
+<p>Size: 14cm x 10.5cm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blowout</s:tag>
+    <s:tag>Cookie</s:tag>
+    <s:tag>Cookie Mold</s:tag>
+    <s:tag>mold</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Silicone</s:tag>
+    <s:tag>Silicone Bakeware</s:tag>
+    <s:tag>Skeleton</s:tag>
+    <s:tag>skull</s:tag>
+    <s:tag>Type_Bakeware</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:tag>White</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1463424155690</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>SKA136</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1428430290986</id>
+    <published>2018-04-18T20:28:11-06:00</published>
+    <updated>2018-04-18T20:28:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/silicone-ice-cube-skull-crossbone"/>
+    <title>Silicone Ice Cube &quot;Skull &amp; Crossbone&quot;</title>
+    <s:type>Bakeware</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/SKA107B.jpg?v=1580576907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Bakeware<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br>These durable, long lasting Skull &amp; Crossbone molds are perfect for creating spooky treats at home. Made from FDA approved, BPA free heat resistant (up to 450<span>Â°F)</span> silicone, these are safe and fun to use!</p>
+<p><span>Silicone Mold Size: 8.07" x 4.13"</span></p>
+<p>Available<span>Â in: Blue, Orange and Red</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Blue</s:tag>
+    <s:tag>Candy Mold</s:tag>
+    <s:tag>Crossbone</s:tag>
+    <s:tag>Famous Dispensary Supply</s:tag>
+    <s:tag>Ice Cube Tray</s:tag>
+    <s:tag>Ice Mold</s:tag>
+    <s:tag>Mold</s:tag>
+    <s:tag>Molds</s:tag>
+    <s:tag>NEW Extractors &amp; Butter Makers</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Silicone</s:tag>
+    <s:tag>Skull</s:tag>
+    <s:tag>Skulls</s:tag>
+    <s:tag>Type_Bakeware</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1428430290986</id>
+      <title>Blue</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SKA107B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1428430290986</id>
+      <title>Orange</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SKA107O</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1428430290986</id>
+      <title>Red</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SKA107R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1398461759530</id>
+    <published>2018-04-04T21:54:17-06:00</published>
+    <updated>2018-04-04T21:54:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/silicone-ice-cube-tray-3-piece-set"/>
+    <title>Silicone Ice Cube Tray 3 Piece Set</title>
+    <s:type>Bakeware</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/SKA135_1.jpg?v=1610989223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Bakeware<br>
+        <strong>Price: </strong>
+            7.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>Now you don't have to decide! With this 3 in 1 set you will receive a star, a heartÂ  and a seashell shaped mold to create tasty multi shape treats. To ensure safety, they have been FDA approved for culinary use.High quality, BPA Free and heat resistant (up to 450Â°F), these are sure to make products that are tasty and safe to eat.</div>
+<div><strong></strong></div>
+<div><strong>Specification:</strong></div>
+<div>3 pieces a set</div>
+<div>Size: 7.95" x 4.17" 0.91"</div>
+<div>Type: Hearts, Stars and Shells mold tray</div>
+<div>Material: Food Grade Silicone</div>
+<div></div>
+<div></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Candy</s:tag>
+    <s:tag>Candy Mold</s:tag>
+    <s:tag>cube cank</s:tag>
+    <s:tag>cube cube</s:tag>
+    <s:tag>Famous Dispensary Supply</s:tag>
+    <s:tag>Heart</s:tag>
+    <s:tag>Ice Cube</s:tag>
+    <s:tag>NEW Extractors &amp; Butter Makers</s:tag>
+    <s:tag>Ocean</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>S-Mol</s:tag>
+    <s:tag>Sea Shell</s:tag>
+    <s:tag>Silicone</s:tag>
+    <s:tag>Silicone Mold</s:tag>
+    <s:tag>Silicone S-Mol</s:tag>
+    <s:tag>SiliconeE cech. Siliconetech</s:tag>
+    <s:tag>Siliconee Ice</s:tag>
+    <s:tag>Star</s:tag>
+    <s:tag>Star Fish</s:tag>
+    <s:tag>Type_Bakeware</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1398461759530</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.90</s:price>
+      <s:sku>SKA135</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1398398025770</id>
+    <published>2018-04-04T21:49:18-06:00</published>
+    <updated>2018-04-04T21:49:18-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/silicone-gummy-worm-ice-cube-tray-w-dropper"/>
+    <title>Silicone Gummy Worm Ice Cube Tray w/dropper</title>
+    <s:type>Bakeware</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/ska133.jpg?v=1580576814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Bakeware<br>
+        <strong>Price: </strong>
+            2.00 - 2.70
+            <a href="https://valiantdist.ca/products/silicone-gummy-worm-ice-cube-tray-w-dropper">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Now you can make your own gummy worms at home! With these molds, you can easily create up to 20 worms at a time. Grips along the edges allow you to release the worms without dropping your creation. Made from premium quality food grade silicone, these have been FDA approved for professional and home kitchens alike.</p>
+<p><b>Available in :</b>Blue, Green, Purple and Red</p>
+<p><b>SPECS</b></p>
+<p><span>-Gum Drop Size: 4.76"</span><br><span>-Gummy Worm Length: 3"</span><br><span>-Silicone Mold Size: 9.65"x7.09"</span><br><span>-</span><span>Non-stick, dishwasher safe</span></p>
+<p><span><strong>SAFETY SPECIFICATIONS</strong><br></span></p>
+<p><span>-BPA free, </span><span>Heat resistant (up to 450°F)</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blowout</s:tag>
+    <s:tag>candy</s:tag>
+    <s:tag>Famous Dispensary Supply</s:tag>
+    <s:tag>Gummy Mold</s:tag>
+    <s:tag>Gummy Soils</s:tag>
+    <s:tag>Gummy Tank</s:tag>
+    <s:tag>gummy worms</s:tag>
+    <s:tag>ice cube</s:tag>
+    <s:tag>icecube</s:tag>
+    <s:tag>Mold</s:tag>
+    <s:tag>NEW Extractors &amp; Butter Makers</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>S Mold</s:tag>
+    <s:tag>Silicone Bakeware</s:tag>
+    <s:tag>Soils</s:tag>
+    <s:tag>TFSilicone Gummy Worm Ice Cube Tray w/dropper Green</s:tag>
+    <s:tag>Type_Bakeware</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1398398025770</id>
+      <title>Blue</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>SKA133B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1398398025770</id>
+      <title>Green</title>
+      <s:price currency="CAD">2.70</s:price>
+      <s:sku>SKA133G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1398398025770</id>
+      <title>Purple</title>
+      <s:price currency="CAD">2.70</s:price>
+      <s:sku>SKA133PP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1363025297450</id>
+    <published>2018-03-20T00:23:59-06:00</published>
+    <updated>2018-03-20T00:23:59-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/silicone-ice-pop-mold-with-lid-8"/>
+    <title>Silicone Ice Pop Mold with Lid 8&quot;</title>
+    <s:type>Bakeware</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/SKA125_4.jpg?v=1611168863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Bakeware<br>
+        <strong>Price: </strong>
+            1.00 - 1.75
+            <a href="https://valiantdist.ca/products/silicone-ice-pop-mold-with-lid-8">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Brrrr....... Did someone say Ice Pops!? Cool down this summer with your very own homemade ice pop! With these premium quality ice molds, you can easily create an 8" ice pop with whatever flavor you want! Made from FDA approved food grade silicone, they are also heat resistant (up to 450°F).</p>
+<p>Size: 8"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>blowout</s:tag>
+    <s:tag>Green</s:tag>
+    <s:tag>mold</s:tag>
+    <s:tag>NEW Extractors &amp; Butter Makers</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Purple</s:tag>
+    <s:tag>Red</s:tag>
+    <s:tag>Silicone</s:tag>
+    <s:tag>Silicone Accessories</s:tag>
+    <s:tag>Silicone Bakeware</s:tag>
+    <s:tag>Silicone Mold</s:tag>
+    <s:tag>Type_Bakeware</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1363025297450</id>
+      <title>Purple</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>SKA125PP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1363025297450</id>
+      <title>Green</title>
+      <s:price currency="CAD">1.75</s:price>
+      <s:sku>SKA125G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1363025297450</id>
+      <title>Red</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>SKA125R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251419193386</id>
+    <published>2018-02-19T14:10:21-07:00</published>
+    <updated>2018-02-19T14:10:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/drinking-games-3in1-roulette-w-16-shot-glass"/>
+    <title>Drinking Games 3in1 Roulette w/ 16 Shot Glass</title>
+    <s:type>Game</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/ROU.jpg?v=1519426954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Game<br>
+        <strong>Price: </strong>
+            20.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Drinking Games 3in1 Roulette w/ 16 Shot Glass</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Game</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251419193386</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.70</s:price>
+      <s:sku>LDG007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251413622826</id>
+    <published>2018-02-19T14:10:00-07:00</published>
+    <updated>2018-02-19T14:10:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/drinking-games-basketball-w-6-shot-glass"/>
+    <title>Drinking Games Basketball w/ 6 Shot Glass</title>
+    <s:type>Game</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/bb.jpg?v=1519427032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Game<br>
+        <strong>Price: </strong>
+            16.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Drinking Games Basketball w/ 6 Shot Glass</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Game</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251413622826</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.10</s:price>
+      <s:sku>LDG006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251413590058</id>
+    <published>2018-02-19T14:10:00-07:00</published>
+    <updated>2018-02-19T14:10:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/drinking-games-chess"/>
+    <title>Drinking Games Chess</title>
+    <s:type>Game</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/chess.jpg?v=1519427105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Game<br>
+        <strong>Price: </strong>
+            16.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Drinking Games Chess</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Game</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251413590058</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.10</s:price>
+      <s:sku>LDG005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251413557290</id>
+    <published>2018-02-19T14:09:59-07:00</published>
+    <updated>2018-02-19T14:09:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/drinking-games-snakes-ladders-w-8-shot-glass"/>
+    <title>Drinking Games Snakes &amp; Ladders w/8 Shot Glass</title>
+    <s:type>Game</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/ldg004.jpg?v=1519804786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Game<br>
+        <strong>Price: </strong>
+            16.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Drinking Games Snakes &amp; Ladders w/8 Shot Glass</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Games</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Game</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251413557290</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.10</s:price>
+      <s:sku>LDG004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251395305514</id>
+    <published>2018-02-19T14:08:48-07:00</published>
+    <updated>2018-02-19T14:08:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/do-the-right-thing-then-do-the-left-one-2"/>
+    <title>T-Shirt Do The Right Thing Then Do The Left One</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/RIGHT-THING.jpg?v=1569948711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>T-Shirt Do The Right Thing Then Do The Left One</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Mens</s:tag>
+    <s:tag>New-UpdateT Shirt</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>T-Shirts</s:tag>
+    <s:tag>Type_T-Shirt</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251395305514</id>
+      <title>Extra Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1139XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251395305514</id>
+      <title>Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1090L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251395305514</id>
+      <title>Medium</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1038MM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251395239978</id>
+    <published>2018-02-19T14:08:47-07:00</published>
+    <updated>2018-02-19T14:08:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/tonight-will-be-better-than-last-night-1"/>
+    <title>T-Shirt Tonight Will Be Better Than Last Night</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/w2_1_5e07bf23-84a9-4652-b1ab-14f6d1768005.jpg?v=1519966595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>T-Shirt Tonight Will Be Better Than Last Night</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Mens</s:tag>
+    <s:tag>New-UpdateT Shirt</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>T-Shirts</s:tag>
+    <s:tag>Type_T-Shirt</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251395239978</id>
+      <title>Extra Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1138XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251395239978</id>
+      <title>Medium</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1027MM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251394748458</id>
+    <published>2018-02-19T14:08:45-07:00</published>
+    <updated>2018-02-19T14:08:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/highrise"/>
+    <title>T-Shirt Highrise</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/f5_bb9dd9b3-4b04-4193-b1dc-fab1ab5e6843.jpg?v=1519970461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Highrise</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Mens</s:tag>
+    <s:tag>New-UpdateT Shirt</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>T-Shirts</s:tag>
+    <s:tag>Type_T-Shirt</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251394748458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1127XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251394256938</id>
+    <published>2018-02-19T14:08:43-07:00</published>
+    <updated>2018-02-19T14:08:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/keep-calm-rasta-on-2"/>
+    <title>T-Shirt Keep Calm &amp; Rasta On</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/RASTA-ON.jpg?v=1569948688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>T-Shirt Keep Calm &amp; Rasta On</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:tag>New-UpdateT Shirt</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>T-Shirts</s:tag>
+    <s:tag>Type_T-Shirt</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251394256938</id>
+      <title>Extra Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1130XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251394256938</id>
+      <title>Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1109L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251394256938</id>
+      <title>Medium</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1044MM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251394256938</id>
+      <title>Fitted Ladies Small</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1019FS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251394125866</id>
+    <published>2018-02-19T14:08:43-07:00</published>
+    <updated>2018-02-19T14:08:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/thats-how-i-roll-2"/>
+    <title>T-Shirt That&apos;s How I Roll</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/THATS-HOW.jpg?v=1569948681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>T-Shirt That's How I Roll</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Mens</s:tag>
+    <s:tag>New-UpdateT Shirt</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>T-Shirts</s:tag>
+    <s:tag>Type_T-Shirt</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251394125866</id>
+      <title>Extra Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1007FS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251394125866</id>
+      <title>Medium</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1095L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251394125866</id>
+      <title>Fitted Ladies Small</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1128XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251394093098</id>
+    <published>2018-02-19T14:08:42-07:00</published>
+    <updated>2018-02-19T14:08:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/anyone-need-to-earn-money-for-rent-1"/>
+    <title>T-Shirt Anyone Need to Earn Money for Rent?</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/RENTMONEY.jpg?v=1569948677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>T-Shirt Anyone Need to Earn Money for Rent?</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Mens</s:tag>
+    <s:tag>New-UpdateT Shirt</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>T-Shirts</s:tag>
+    <s:tag>Type_T-Shirt</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251394093098</id>
+      <title>Extra Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1151XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251394093098</id>
+      <title>Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1094L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251394093098</id>
+      <title>Medium</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1055MM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251393634346</id>
+    <published>2018-02-19T14:08:39-07:00</published>
+    <updated>2018-02-19T14:08:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/six-pack-coming-soon"/>
+    <title>T-Shirt Six Pack Coming Soon</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/SIX-PACK.jpg?v=1569948656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>T-Shirt Six Pack Coming Soon</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Mens</s:tag>
+    <s:tag>New-UpdateT Shirt</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>T-Shirts</s:tag>
+    <s:tag>Type_T-Shirt</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251393634346</id>
+      <title>Extra Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1149XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251393634346</id>
+      <title>Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1091L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251393568810</id>
+    <published>2018-02-19T14:08:39-07:00</published>
+    <updated>2018-02-19T14:08:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/sorry-ladies-the-shirt-is-staying-on"/>
+    <title>T-Shirt Sorry Ladies The Shirt Is Staying On</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/SORRY-LADIES.jpg?v=1569948650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>T-Shirt Sorry Ladies The Shirt Is Staying On</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Mens</s:tag>
+    <s:tag>New-UpdateT Shirt</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>T-Shirts</s:tag>
+    <s:tag>Type_T-Shirt</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251393568810</id>
+      <title>Extra Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1159XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251393568810</id>
+      <title>Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1085L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251393568810</id>
+      <title>Medium</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1068MM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251393536042</id>
+    <published>2018-02-19T14:08:39-07:00</published>
+    <updated>2018-02-19T14:08:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/will-buy-drinks-for-sex"/>
+    <title>T-Shirt Will Buy Drinks for Sex</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/FOR-SEX.jpg?v=1569948644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>T-Shirt Will Buy Drinks for Sex</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Mens</s:tag>
+    <s:tag>New-UpdateT Shirt</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>T-Shirts</s:tag>
+    <s:tag>Type_T-Shirt</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251393536042</id>
+      <title>Extra Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1146XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251393536042</id>
+      <title>Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1084L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251393536042</id>
+      <title>Medium</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1067MM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251393437738</id>
+    <published>2018-02-19T14:08:38-07:00</published>
+    <updated>2018-02-19T14:08:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/not-tonight-ladies-im-just-here-to-get-drunk"/>
+    <title>T-Shirt Not Tonight Ladies I&apos;m Just Here to Get Drunk</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/NOT-TONIGHT.jpg?v=1569948634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>T-Shirt Not Tonight Ladies I'm Just Here to Get Drunk</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Mens</s:tag>
+    <s:tag>New-UpdateT Shirt</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>T-Shirts</s:tag>
+    <s:tag>Type_T-Shirt</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251393437738</id>
+      <title>Extra Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1144XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251393437738</id>
+      <title>Medium</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1057MM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251392356394</id>
+    <published>2018-02-19T14:08:32-07:00</published>
+    <updated>2018-02-19T14:08:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/have-a-nice-jay"/>
+    <title>T-Shirt Have a Nice Jay</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/NICE-JAY.jpg?v=1569948619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>T-ShirtÂ Have a Nice Jay</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Mens</s:tag>
+    <s:tag>New-UpdateT Shirt</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>T-Shirts</s:tag>
+    <s:tag>Type_T-Shirt</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251392356394</id>
+      <title>Extra Large</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1134XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251392356394</id>
+      <title>Medium</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1054MM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251392356394</id>
+      <title>Fitted Ladies Small</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1013FS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251392290858</id>
+    <published>2018-02-19T14:08:32-07:00</published>
+    <updated>2018-02-19T14:08:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/i-have-never-been-to-ny"/>
+    <title>T-Shirt I Have Never Been to NY</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/f7_58819819-ac43-4412-86ea-09578240963b.jpg?v=1519970409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>I Have Never Been to NY</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Mens</s:tag>
+    <s:tag>New-UpdateT Shirt</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>T-Shirts</s:tag>
+    <s:tag>Type_T-Shirt</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251392290858</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1009FS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251392225322</id>
+    <published>2018-02-19T14:08:32-07:00</published>
+    <updated>2018-02-19T14:08:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/thats-quacktastic"/>
+    <title>T-Shirt That&apos;s Quacktastic!</title>
+    <s:type>T-Shirt</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/QUACKTASTIC.jpg?v=1569948613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>T-Shirt<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>T-Shirt That's Quacktastic!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Clothing</s:tag>
+    <s:tag>Mens</s:tag>
+    <s:tag>New-UpdateT Shirt</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>T-Shirts</s:tag>
+    <s:tag>Type_T-Shirt</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251392225322</id>
+      <title>Fitted Ladies Small</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>LTS1008FS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

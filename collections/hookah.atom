@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://valiantdist.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://valiantdist.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://valiantdist.ca/collections/hookah.atom"/>
+  <title>Valiant Distribution Canada</title>
+  <updated>2020-07-10T06:42:08-06:00</updated>
+  <author>
+    <name>Valiant Distribution Canada</name>
+  </author>
+  <entry>
+    <id>https://valiantdist.ca/products/1237397078058</id>
+    <published>2020-07-10T06:42:08-06:00</published>
+    <updated>2020-07-10T06:42:08-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/hookah-screen"/>
+    <title>Hookah Screen</title>
+    <s:type>Hookah Accessory</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/hokahscreen_1024x1024_2x_e205ad9f-d933-463d-b09f-93e1956bdf6c.jpg?v=1567355543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Hookah Accessory<br>
+        <strong>Price: </strong>
+            1.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Aluminum hookah screen that replaces the traditional aluminum foil wrap</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hookah Hoses</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Hookah Accessory</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237397078058</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.15</s:price>
+      <s:sku>DSC102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237386133546</id>
+    <published>2020-07-10T06:36:43-06:00</published>
+    <updated>2020-07-10T06:36:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/high-quality-aluminum-foil"/>
+    <title>High Quality Aluminum Foil</title>
+    <s:type>Hookah Accessory</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/hookah-foil_360x_320f2879-4e60-4d28-9c7e-a3bd3b05fe03.jpg?v=1561999076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Hookah Accessory<br>
+        <strong>Price: </strong>
+            1.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #000000;">This package of High Quality Aluminum Foil contains 50 sheets of pre-cut "hookah friendly" aluminum foil squares. These pre-cut hookah foil sheets use a thinner foil than standard household foil allowing a better distribution of the heat. Simply cover the top of your hookah bowl with these (shiny side down!) and poke a bunch of tiny holes with a toothpick or thumbtack and you're ready to go. These hookah foils are convenient, they cut down on set up time, and are perfect for traveling with. Each square measures 4"x4" and will fit any hookah bowl out there.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hookah Screens</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Hookah Accessory</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237386133546</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.45</s:price>
+      <s:sku>DSC101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4496699621425</id>
+    <published>2020-01-15T14:02:17-07:00</published>
+    <updated>2020-01-15T14:02:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/shisha-herbal-hydro-50g-red-lightning"/>
+    <title>Shisha Herbal Hydro 50g Red Lightning</title>
+    <s:type>Charcoal</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/JHY5013.jpg?v=1579122162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Charcoal<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Charcoal</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4496699621425</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>JHY5013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4496699195441</id>
+    <published>2020-01-15T14:00:18-07:00</published>
+    <updated>2020-01-15T14:00:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/shisha-herbal-fantasia-50g-surfer"/>
+    <title>Shisha Herbal Fantasia 50g Surfer</title>
+    <s:type>Charcoal</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/JFA5015.jpg?v=1579122046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Charcoal<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Charcoal</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4496699195441</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>JFA5015</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4496699064369</id>
+    <published>2020-01-15T13:59:18-07:00</published>
+    <updated>2020-01-15T13:59:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/shisha-herbal-fantasia-50g-rainbow-burst"/>
+    <title>Shisha Herbal Fantasia 50g Rainbow Burst</title>
+    <s:type>Charcoal</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/JFA5013.jpg?v=1579121982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Charcoal<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Charcoal</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4496699064369</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>JFA5013</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4496698933297</id>
+    <published>2020-01-15T13:58:28-07:00</published>
+    <updated>2020-01-15T13:58:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/shisha-herbal-fantasia-50g-menage"/>
+    <title>Shisha Herbal Fantasia 50g Menage</title>
+    <s:type>Charcoal</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/JFA5009.jpg?v=1579121930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Charcoal<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Charcoal</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4496698933297</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>JFA5009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4496698834993</id>
+    <published>2020-01-15T13:57:40-07:00</published>
+    <updated>2020-01-15T13:57:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/shisha-herbal-fantasia-50g-dragon-breath"/>
+    <title>Shisha Herbal Fantasia 50g Dragon Breath</title>
+    <s:type>Charcoal</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/JFA5005.jpg?v=1579121880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Charcoal<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Charcoal</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4496698834993</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>JFA5005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4496697065521</id>
+    <published>2020-01-15T13:38:59-07:00</published>
+    <updated>2020-01-15T13:38:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/shisha-herbal-fantasia-50g-4play-1"/>
+    <title>Shisha Herbal Fantasia 50g 4Play</title>
+    <s:type>Charcoal</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/JFA5001_49a34b4f-0eee-46c5-ba8e-88410b9cbe37.jpg?v=1579121271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Charcoal<br>
+        <strong>Price: </strong>
+            2.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Charcoal</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4496697065521</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.00</s:price>
+      <s:sku>JFA5001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251407593514</id>
+    <published>2018-02-19T14:09:39-07:00</published>
+    <updated>2018-02-19T14:09:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/coal-3-kings-10-pack"/>
+    <title>Coal 3 Kings 10 pack</title>
+    <s:type>Charcoal</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/dch01.jpg?v=1519791602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Charcoal<br>
+        <strong>Price: </strong>
+            13.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Coal 3 Kings 10 pack</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hookah Charcoal</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Charcoal</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251407593514</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.80</s:price>
+      <s:sku>DCH01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251399106602</id>
+    <published>2018-02-19T14:09:04-07:00</published>
+    <updated>2018-02-19T14:09:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/hose-hookah-criss-cross-ribbon-red-hos901h"/>
+    <title>Criss Cross Ribbon Hose</title>
+    <s:type>Hookah Accessory</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/Criss-Cross_Hose.jpg?v=1519897030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Hookah Accessory<br>
+        <strong>Price: </strong>
+            10.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Criss Cross Ribbon Hose</p>
+<p>DH0S2R-Hose Hookah Criss-Cross Ribbon Red HOS901H</p>
+<p>DH0S2W-Hose Hookah Criss-Cross Ribbon White HOS901H</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hookah Hoses</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>SALE Hookahs &amp; Shisha</s:tag>
+    <s:tag>Type_Hookah Accessory</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251399106602</id>
+      <title>White</title>
+      <s:price currency="CAD">10.35</s:price>
+      <s:sku>DH0S2W</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251377676330</id>
+    <published>2018-02-19T14:07:36-07:00</published>
+    <updated>2018-02-19T14:07:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/hose-tips-disposable-yellow-green-100-bag"/>
+    <title>Hose Tips Disposable Hose Tips</title>
+    <s:type>Hookah Accessory</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/tips.jpg?v=1519897545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Hookah Accessory<br>
+        <strong>Price: </strong>
+            5.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hose Tips Disposable Hose Tips 100/Bag</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hookah Tips</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>SALE Hookahs &amp; Shisha</s:tag>
+    <s:tag>Type_Hookah Accessory</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251377676330</id>
+      <title>White</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>DGR001A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251377676330</id>
+      <title>Mixed Colors Large</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>DGR001BL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251377676330</id>
+      <title>Mixed Colors Small</title>
+      <s:price currency="CAD">5.75</s:price>
+      <s:sku>DGR001BS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251361685546</id>
+    <published>2018-02-19T14:06:35-07:00</published>
+    <updated>2018-02-19T14:06:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/hose-disposable-hookah-black-disp901h"/>
+    <title>Disposable Hookah Hose</title>
+    <s:type>Hookah Accessory</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/DHOS1.jpg?v=1519802845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Hookah Accessory<br>
+        <strong>Price: </strong>
+            1.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span>Colors Available: Blue, Black, Green, Purple, Yellow</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hookah Hoses</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>SALE Hookahs &amp; Shisha</s:tag>
+    <s:tag>Type_Hookah Accessory</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251361685546</id>
+      <title>Black</title>
+      <s:price currency="CAD">1.15</s:price>
+      <s:sku>DH0S1BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251361685546</id>
+      <title>Green</title>
+      <s:price currency="CAD">1.15</s:price>
+      <s:sku>DH0S1G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251361685546</id>
+      <title>Purple</title>
+      <s:price currency="CAD">1.15</s:price>
+      <s:sku>DH0S1PP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251361685546</id>
+      <title>Yellow</title>
+      <s:price currency="CAD">1.15</s:price>
+      <s:sku>DH0S1Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251361620010</id>
+    <published>2018-02-19T14:06:34-07:00</published>
+    <updated>2018-02-19T14:06:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/grommets-hookah-top-large-white"/>
+    <title>Grommets Hookah Top Large White</title>
+    <s:type>Hookah Accessory</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/top.jpg?v=1519496499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Hookah Accessory<br>
+        <strong>Price: </strong>
+            0.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grommets Hookah Top Large White</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hookah Grommets</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>SALE Hookahs &amp; Shisha</s:tag>
+    <s:tag>Type_Hookah Accessory</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251361620010</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.35</s:price>
+      <s:sku>DGR006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251361587242</id>
+    <published>2018-02-19T14:06:34-07:00</published>
+    <updated>2018-02-19T14:06:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/grommets-hookah-small-black"/>
+    <title>Grommets Hookah Small Black</title>
+    <s:type>Hookah Accessory</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/grom_bfbe0154-d83c-449f-9c8f-fbc8f24c039d.jpg?v=1519496325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Hookah Accessory<br>
+        <strong>Price: </strong>
+            0.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grommets Hookah Small Black</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hookah Grommets</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>SALE Hookahs &amp; Shisha</s:tag>
+    <s:tag>Type_Hookah Accessory</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251361587242</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.35</s:price>
+      <s:sku>DGR003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251361488938</id>
+    <published>2018-02-19T14:06:34-07:00</published>
+    <updated>2018-02-19T14:06:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/grommets-hookah-hose-large-white"/>
+    <title>Grommets Hookah Hose</title>
+    <s:type>Hookah Accessory</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/dgr004.jpg?v=1519803083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Hookah Accessory<br>
+        <strong>Price: </strong>
+            0.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grommets Hookah Hose</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hookah Grommets</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>SALE Hookahs &amp; Shisha</s:tag>
+    <s:tag>Type_Hookah Accessory</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251361488938</id>
+      <title>Small</title>
+      <s:price currency="CAD">0.25</s:price>
+      <s:sku>DGR005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251361488938</id>
+      <title>Large</title>
+      <s:price currency="CAD">0.25</s:price>
+      <s:sku>DGR004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251361292330</id>
+    <published>2018-02-19T14:06:34-07:00</published>
+    <updated>2018-02-19T14:06:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/grommet-soft-glass"/>
+    <title>Grommet Soft Glass</title>
+    <s:type>Hookah Accessory</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/AGR001_1.jpg?v=1609877946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Hookah Accessory<br>
+        <strong>Price: </strong>
+            0.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grommet Soft Glass</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hookah Grommets</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Hookah Accessory</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251361292330</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.20</s:price>
+      <s:sku>AGR001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251361226794</id>
+    <published>2018-02-19T14:06:33-07:00</published>
+    <updated>2018-02-19T14:06:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/grommet-hookah-large-white"/>
+    <title>Grommet Hookah Large White</title>
+    <s:type>Hookah Accessory</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/WHITE_dbdab085-1233-4b89-b53e-7742a8b9d928.jpg?v=1519496167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Hookah Accessory<br>
+        <strong>Price: </strong>
+            0.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Grommet Hookah Large White</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hookah Grommets</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>SALE Hookahs &amp; Shisha</s:tag>
+    <s:tag>Type_Hookah Accessory</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251361226794</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.35</s:price>
+      <s:sku>DGR008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237396750378</id>
+    <published>2018-02-16T17:48:39-07:00</published>
+    <updated>2018-02-16T17:48:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/arabian-knights-double-twist-hookah"/>
+    <title>Arabian Knights Double Twist Hookah</title>
+    <s:type>Hookah</s:type>
+    <s:vendor>Arabian Knights</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/DL1002P.jpg?v=1604073245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Arabian Knights<br>
+        <strong>Type: </strong>Hookah<br>
+        <strong>Price: </strong>
+            86.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Arabian Knights Double Twist Hookah Size: 31"</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>31&quot;</s:tag>
+    <s:tag>Arabian</s:tag>
+    <s:tag>Arabian Knights</s:tag>
+    <s:tag>Arabian nights</s:tag>
+    <s:tag>Blue Hookah</s:tag>
+    <s:tag>bong</s:tag>
+    <s:tag>Double</s:tag>
+    <s:tag>Double Twist</s:tag>
+    <s:tag>Fancy</s:tag>
+    <s:tag>Green hookah</s:tag>
+    <s:tag>Hooka</s:tag>
+    <s:tag>Hookah</s:tag>
+    <s:tag>hookah hose</s:tag>
+    <s:tag>Hookahs</s:tag>
+    <s:tag>hose</s:tag>
+    <s:tag>Pink Hookah</s:tag>
+    <s:tag>Price_$50 - $100</s:tag>
+    <s:tag>SALE Hookahs &amp; Shisha</s:tag>
+    <s:tag>sheesha</s:tag>
+    <s:tag>shisha</s:tag>
+    <s:tag>Twist hookah</s:tag>
+    <s:tag>twisted</s:tag>
+    <s:tag>Type_Hookah</s:tag>
+    <s:tag>Vendor_Arabian Knights</s:tag>
+    <s:tag>White Hookah</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237396750378</id>
+      <title>Pink</title>
+      <s:price currency="CAD">86.25</s:price>
+      <s:sku>DL1002PP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237396750378</id>
+      <title>Green</title>
+      <s:price currency="CAD">86.25</s:price>
+      <s:sku>DL1002G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237258207274</id>
+    <published>2018-02-16T16:57:41-07:00</published>
+    <updated>2018-02-16T16:57:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/sahara-smoke-hokkah-hose-adapter"/>
+    <title>Sahara Smoke Hookah Hose Adapter</title>
+    <s:type>Hookah Accessory</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/DHAD01_8.jpg?v=1543680639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Hookah Accessory<br>
+        <strong>Price: </strong>
+            3.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hookahs</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>SALE Hookahs &amp; Shisha</s:tag>
+    <s:tag>Type_Hookah Accessory</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237258207274</id>
+      <title>Silver</title>
+      <s:price currency="CAD">3.40</s:price>
+      <s:sku>DHAD01S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237258207274</id>
+      <title>Black</title>
+      <s:price currency="CAD">3.40</s:price>
+      <s:sku>DHAD01BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://valiantdist.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://valiantdist.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://valiantdist.ca/collections/countdown-to-black-friday-pre-sale.atom"/>
+  <title>Valiant Distribution Canada</title>
+  <updated>2021-02-09T13:47:23-07:00</updated>
+  <author>
+    <name>Valiant Distribution Canada</name>
+  </author>
+  <entry>
+    <id>https://valiantdist.ca/products/4828114780209</id>
+    <published>2021-02-09T13:47:23-07:00</published>
+    <updated>2021-02-09T13:47:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/nail-quartz-domeless-color-changing-sand-90degree-male-18"/>
+    <title>Nail Quartz Domeless Color Changing Sand 90degree Male 18</title>
+    <s:type>Nail</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/SJ-036_1.jpg?v=1625235743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Nail<br>
+        <strong>Price: </strong>
+            1.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14mm</s:tag>
+    <s:tag>19mm</s:tag>
+    <s:tag>710</s:tag>
+    <s:tag>Banger</s:tag>
+    <s:tag>Butter</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Dab</s:tag>
+    <s:tag>Dabbing</s:tag>
+    <s:tag>Dabs</s:tag>
+    <s:tag>Female</s:tag>
+    <s:tag>Male</s:tag>
+    <s:tag>Nail</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Quarts</s:tag>
+    <s:tag>Quartz</s:tag>
+    <s:tag>Quartz Bangers</s:tag>
+    <s:tag>Quartz Nail</s:tag>
+    <s:tag>Rig accessory</s:tag>
+    <s:tag>Type_Nail</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:tag>Wax</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4828114780209</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.99</s:price>
+      <s:sku>SJ-036</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/4828113633329</id>
+    <published>2021-02-09T13:45:34-07:00</published>
+    <updated>2021-02-09T13:45:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/nail-quartz-domeless-bucket-with-20mm-bowl-90degree-male-18"/>
+    <title>Nail Quartz Domeless Bucket with 20mm bowl 90degree Male 18</title>
+    <s:type>Quartz Banger</s:type>
+    <s:vendor>Valiant</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/SJ-018_1.jpg?v=1612903513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Valiant<br>
+        <strong>Type: </strong>Quartz Banger<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14mm</s:tag>
+    <s:tag>19mm</s:tag>
+    <s:tag>710</s:tag>
+    <s:tag>Banger</s:tag>
+    <s:tag>Butter</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Dab</s:tag>
+    <s:tag>Dabbing</s:tag>
+    <s:tag>Dabs</s:tag>
+    <s:tag>Female</s:tag>
+    <s:tag>Male</s:tag>
+    <s:tag>Nail</s:tag>
+    <s:tag>Oil</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Quarts</s:tag>
+    <s:tag>Quartz</s:tag>
+    <s:tag>Quartz Bangers</s:tag>
+    <s:tag>Quartz Nail</s:tag>
+    <s:tag>Rig accessory</s:tag>
+    <s:tag>Type_Quartz Banger</s:tag>
+    <s:tag>Vendor_Valiant</s:tag>
+    <s:tag>Wax</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/4828113633329</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>SJ-018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237333934122</id>
+    <published>2021-02-09T10:58:37-07:00</published>
+    <updated>2021-02-09T10:58:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/vodka-13-5-hasty-halo-waterpipe"/>
+    <title>Hasty Halo - Vodka - 13.5&quot;</title>
+    <s:type>Water Pipe</s:type>
+    <s:vendor>Vodka Glass</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/A2009R-_02.jpg?v=1606596792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vodka Glass<br>
+        <strong>Type: </strong>Water Pipe<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="background: white; margin: 0in 0in 18.75pt 0in;">This is the Hasty Halo by Vodka, a clear straight tube 13.5" ice bong with a thick, wide base for extra security. It features a coloured accent on the bowl and mouthpiece. The stylized Vodka logo also matches with the accent colour. This piece is extremely easy to clean and maintain. It features a removable slitted inside-cut 18.8 &gt; 14.5mm downstem for added diffusion and easy removable cleaning and ice notches, for optimal filtration with a frosty touch.<br>The Hasty Halo straight tube comes with a male 14.5mm herb bowl with handle. The handle not only makes it easy to lift the bowl, without the risk of burning your fingers, but it doubles as a roll stopper as well.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bong</s:tag>
+    <s:tag>Famous dispensary supply</s:tag>
+    <s:tag>popular</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Water Pipe</s:tag>
+    <s:tag>Vendor_Vodka Glass</s:tag>
+    <s:tag>Vodka Glass</s:tag>
+    <s:tag>Water Pipes</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237333934122</id>
+      <title>Yellow</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>A2009Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237333934122</id>
+      <title>Apple Green</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>A2009AG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237333934122</id>
+      <title>Black</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>A2009BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237333934122</id>
+      <title>Purple</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>A2009PP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237333934122</id>
+      <title>Red</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku>A2009R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237276295210</id>
+    <published>2020-12-09T13:21:08-07:00</published>
+    <updated>2020-12-09T13:21:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/skeleton-pipe"/>
+    <title>Skeleton Pipe</title>
+    <s:type>Spoon Pipe</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/BSP187_2.jpg?v=1549037501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Spoon Pipe<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Pipe Skeleton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Pipes</s:tag>
+    <s:tag>NEW Glass Pipes</s:tag>
+    <s:tag>popular</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Spoon Pipe</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237276295210</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku>BSP187</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237272297514</id>
+    <published>2020-11-13T11:07:53-07:00</published>
+    <updated>2020-11-13T11:07:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/dopezilla-slimzilla-waterpipe"/>
+    <title>Dopezilla-Slimzilla Water Pipe</title>
+    <s:type>Water Pipe</s:type>
+    <s:vendor>Dopezilla</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/A2037G-Dopezilla-Waterpipe-Slimzilla-Green-2.jpg?v=1605290833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dopezilla<br>
+        <strong>Type: </strong>Water Pipe<br>
+        <strong>Price: </strong>
+            27.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">No frills! The 10" Slimzilla is your favourite straight tube with an ice catcher, removable diffused downstem and bowl, and features colorful detailing. Available in 4 colors. Includes a 14mm male glass-on-glass bowl.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dopezilla Glass</s:tag>
+    <s:tag>Famous dispensary supply</s:tag>
+    <s:tag>popular</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Water Pipe</s:tag>
+    <s:tag>Vendor_Dopezilla</s:tag>
+    <s:tag>Water Pipes</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237272297514</id>
+      <title>Pink</title>
+      <s:price currency="CAD">27.90</s:price>
+      <s:sku>A2037P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237272297514</id>
+      <title>Black</title>
+      <s:price currency="CAD">27.90</s:price>
+      <s:sku>A2037BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237272297514</id>
+      <title>Blue</title>
+      <s:price currency="CAD">27.90</s:price>
+      <s:sku>A2037B</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237272297514</id>
+      <title>Green</title>
+      <s:price currency="CAD">27.90</s:price>
+      <s:sku>A2037G</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1775595487274</id>
+    <published>2020-09-18T07:20:28-06:00</published>
+    <updated>2020-09-18T07:20:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/exxus-plus-vv-vaporizer"/>
+    <title>Exxus Plus VV Vaporizer</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>Exxus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/exxus-plus-vv-black_1.jpg?v=1604073145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Exxus<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            8.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>The Exxus Plus VV Cartridge Vaporizer by Exxus Vape has a simple design quality and thoughtfully crafted user-friendly features. Because this is a variable voltage, pen-style battery, the Exxus Plus' voltage can be adapted to a range of anywhere between 2.6V and 4.0V. The 510 threading of the attachment port is a near universal count among the vaping industry. This makes the Exxus Plus an easy addition to an expansive variety of devices. Each feature works to provide users with unmatched vaping.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>concentrate vaporizer</s:tag>
+    <s:tag>Oil Vaporizer</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vendor_Exxus</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1775595487274</id>
+      <title>Black</title>
+      <s:price currency="CAD">8.90</s:price>
+      <s:sku>CV1026BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1428430323754</id>
+    <published>2020-07-10T06:40:06-06:00</published>
+    <updated>2020-07-10T06:40:06-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/silicone-tray-black-skull-2-piece"/>
+    <title>Silicone Tray Black Skull 2 Piece</title>
+    <s:type>Bakeware</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/SKA119_1.jpg?v=1611168722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Bakeware<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Impress your friends withÂ cool and fun skull shaped treats with these high quality molds. Forming creatively shaped goods has never been so easy. Made from premium food grade FDA approved silicone that is BPA free and Heat resistant (up toÂ <span>464Â°F) these are fun and safe to use.</span></p>
+<p>Silicone Mold Size: 5.43" x 5.43 x 2.68"<br><br><span></span></p>
+<p>Â </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 Piece</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>Candy Mold</s:tag>
+    <s:tag>Ice Cube Tray</s:tag>
+    <s:tag>Ice Mold</s:tag>
+    <s:tag>Mold</s:tag>
+    <s:tag>Molds</s:tag>
+    <s:tag>NEW Extractors &amp; Butter Makers</s:tag>
+    <s:tag>Pieces</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Silicone</s:tag>
+    <s:tag>Skull</s:tag>
+    <s:tag>Skulls</s:tag>
+    <s:tag>Two</s:tag>
+    <s:tag>Two Piece</s:tag>
+    <s:tag>Type_Bakeware</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1428430323754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SKA119</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237349990442</id>
+    <published>2020-07-10T06:39:16-06:00</published>
+    <updated>2020-07-10T06:39:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/spoon-with-white-stripe"/>
+    <title>Spoon with White Stripe</title>
+    <s:type>Spoon Pipe</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/B1010.jpg?v=1556728057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Spoon Pipe<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>4" white striped glass spoon pipe, in gift box</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Pipes</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Spoon Pipe</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349990442</id>
+      <title>Amber</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>B1010A</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237349990442</id>
+      <title>Pink</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>B1010P</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1775589720106</id>
+    <published>2020-07-10T06:39:03-06:00</published>
+    <updated>2020-07-10T06:39:03-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/exxus-tap-vv-auto-draw"/>
+    <title>Exxus Tap VV Auto Draw</title>
+    <s:type>Vaporizer</s:type>
+    <s:vendor>Exxus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/exxus-tap-VV_AutoDrawbk_1.jpg?v=1604073162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Exxus<br>
+        <strong>Type: </strong>Vaporizer<br>
+        <strong>Price: </strong>
+            9.00 - 10.90
+            <a href="https://valiantdist.ca/products/exxus-tap-vv-auto-draw">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Exxus Tap VV Auto Draw Cartridge Vaporizer, uncomplicated and high performance are the foundation on which this device was created. As a variable voltage unit, the power it produces can reach anywhere between 3.3 V and 4.2 V. Its streamline design and onyx colouring make it a harmonious battery to be paired with a massive variety of essential oil cartridges. Because it has a power sensor tap setup, users will be able to fulfill the devices functions without having to hassle with an overly complex system</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>concentrate vaporizer</s:tag>
+    <s:tag>Oil Vaporizer</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Vaporizer</s:tag>
+    <s:tag>Vendor_Exxus</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1775589720106</id>
+      <title>Black</title>
+      <s:price currency="CAD">10.90</s:price>
+      <s:sku>CV1028BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1775589720106</id>
+      <title>Gun Metal</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>CV1028GM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1775589720106</id>
+      <title>Silver</title>
+      <s:price currency="CAD">10.90</s:price>
+      <s:sku>CV1028S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1859357081649</id>
+    <published>2020-07-10T05:56:24-06:00</published>
+    <updated>2020-07-10T05:56:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/glass-bowl-vodka-diamond-series"/>
+    <title>Glass Bowl Vodka Diamond Series</title>
+    <s:type>Dab Rig</s:type>
+    <s:vendor>Vodka</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/EG1039M14-Bowl-Vodka-Diamond-Series-14mm-Male.jpg?v=1563308318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vodka<br>
+        <strong>Type: </strong>Dab Rig<br>
+        <strong>Price: </strong>
+            2.45 - 4.90
+            <a href="https://valiantdist.ca/products/glass-bowl-vodka-diamond-series">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Dab Rig</s:tag>
+    <s:tag>Vendor_Vodka</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1859357081649</id>
+      <title>14mm</title>
+      <s:price currency="CAD">2.45</s:price>
+      <s:sku>EG1039M14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1859357081649</id>
+      <title>18mm</title>
+      <s:price currency="CAD">4.90</s:price>
+      <s:sku>EG1039M18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237288878122</id>
+    <published>2020-07-10T04:49:58-06:00</published>
+    <updated>2020-07-10T04:49:58-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/quartz-carb-cap-for-banger-with-handle"/>
+    <title>Quartz Carb Cap for Banger with handle</title>
+    <s:type>Carb Cap</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/QCBCAP2_2.jpg?v=1551456798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Carb Cap<br>
+        <strong>Price: </strong>
+            9.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Quartz Carb Cap for Banger with handle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Carb Cap with Handle</s:tag>
+    <s:tag>Carb CapsCarb Cap</s:tag>
+    <s:tag>Famous Dispensary Supply</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Quartz</s:tag>
+    <s:tag>Quartz Carb Cap</s:tag>
+    <s:tag>Type_Carb Cap</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237288878122</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>QCBCAP2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237322825770</id>
+    <published>2020-07-10T04:49:47-06:00</published>
+    <updated>2020-07-10T04:49:47-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/lighter-torch-stiletto"/>
+    <title>Lighter Torch Stiletto</title>
+    <s:type>Lighter</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/hl1047.jpg?v=1554135783"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Lighter<br>
+        <strong>Price: </strong>
+            2.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lighter Torch Stiletto - Copper &amp; Silver</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lighters</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Lighter</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237322825770</id>
+      <title>Copper</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>HL1047C</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237322825770</id>
+      <title>Silver</title>
+      <s:price currency="CAD">2.50</s:price>
+      <s:sku>HL1047S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251425222698</id>
+    <published>2020-07-05T15:55:22-06:00</published>
+    <updated>2020-07-05T15:55:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/smoktech-tfv12-tank-black"/>
+    <title>Smoktech TFV12 Tank Black RBA Edition</title>
+    <s:type>E-Cig Tank</s:type>
+    <s:vendor>Smoktech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/SMOKTECH_TFV12.png?v=1572627326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smoktech<br>
+        <strong>Type: </strong>E-Cig Tank<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>The beast tank has grown to be unprecedented strong and wild, with a 27mm </span><span>chest, The newest TFV12 Sub ohm tank is coming with the ever biggest &amp; cloud-</span><span>chasing coil heads: the V12-T12 (Twelve Coils) and V12-X4(quadruple coils) and </span><span>V12-Q4 (quadruple coils), which definitely makes it to be the cloud beast king for </span><span>the year 2017, Innovation keeps changing the vaping experience!</span></p>
+<meta charset="utf-8">
+<p><span><strong>SMOK TFV12 RBA Edition Includes:</strong></span></p>
+<ul>
+<li><span>1 TFV12 Cloud Beast King</span></li>
+<li><span>1 V12-RBA Rebuildable Head</span></li>
+<li><span>1 V12-RBA-T Rebuildable Head</span></li>
+<li><span>1 Replacement Glass Tube</span></li>
+<li><span>Spare Parts &amp; O-Rings</span></li>
+<li><span>Instructional Manual</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>E-Cig Tank</s:tag>
+    <s:tag>E-Cig Tanks</s:tag>
+    <s:tag>E-Juice Tank</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Smok Tech</s:tag>
+    <s:tag>SMOKSMOK</s:tag>
+    <s:tag>Smoktech</s:tag>
+    <s:tag>Tank</s:tag>
+    <s:tag>TFV12</s:tag>
+    <s:tag>TFV12 Tank</s:tag>
+    <s:tag>Type_E-Cig Tank</s:tag>
+    <s:tag>Vendor_Smoktech</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251425222698</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku>CET137BK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1251397926954</id>
+    <published>2020-05-06T08:24:43-06:00</published>
+    <updated>2020-05-06T08:24:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/quartz-banger-frosted-19mm-male-with-4mm-thickness-90-degree-angle"/>
+    <title>Quartz Banger Frosted w/4mm Thickness 90 Degree Angle</title>
+    <s:type>Quartz Banger</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/qn47f14.jpg?v=1519805485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Quartz Banger<br>
+        <strong>Price: </strong>
+            4.00 - 9.90
+            <a href="https://valiantdist.ca/products/quartz-banger-frosted-19mm-male-with-4mm-thickness-90-degree-angle">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>14mm/19mm Male 14mm/19mm Female</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Famous Supply Dispensary</s:tag>
+    <s:tag>NEW Dab Rigs</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Quartz Bangers</s:tag>
+    <s:tag>Rig accessory</s:tag>
+    <s:tag>Type_Quartz Banger</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251397926954</id>
+      <title>14mm Female</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>QN47F14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251397926954</id>
+      <title>19mm Female</title>
+      <s:price currency="CAD">9.90</s:price>
+      <s:sku>QN47F19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1251397926954</id>
+      <title>14mm Male</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku>QN47M14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237242282026</id>
+    <published>2020-02-21T08:06:52-07:00</published>
+    <updated>2020-02-21T08:06:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/silicone-pipe"/>
+    <title>Silicone Pipe 3.5&quot; Assorted</title>
+    <s:type>Spoon Pipe</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/BSL101_3.jpg?v=1610403564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Spoon Pipe<br>
+        <strong>Price: </strong>
+            1.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This simple 3.5" silicone hand pipe is a perfect pocket companion. Durable and heat resistant, it features a bowl cap and discreet design. Available in 7 different colors.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Famous dispensary supply</s:tag>
+    <s:tag>Hand Pipes</s:tag>
+    <s:tag>NEW Silicone Pipes</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Silicone</s:tag>
+    <s:tag>Type_Spoon Pipe</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237242282026</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.40</s:price>
+      <s:sku>BSL101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237402189866</id>
+    <published>2019-11-25T15:59:27-07:00</published>
+    <updated>2019-11-25T15:59:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/green-chronic"/>
+    <title>Green Chronic Plastic and Acrylic Cleaner 12oz</title>
+    <s:type>Cleaner</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/Green_Chronic_Cleaner_12oz_Bottle.jpg?v=1567355957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Cleaner<br>
+        <strong>Price: </strong>
+            3.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Green Chronic 12oz</strong> is an earth friendly, biodegradable cleaner that is designed to maintain the look of plastic and acrylic smoking accessories; such as, bongs, water pipes, hand pipes, grinders and ashtrays.</p>
+<p>Directions:</p>
+<ul>
+<li>Fill item with Green Chronic and cover and holes to prevent leaking. Small items can be placed in a container and submerged in solution.</li>
+<li>Soak until item is clean. We recommend letting it sit over night.</li>
+<li>Rinse thoroughly with warm water and enjoy!</li>
+</ul>
+<p><strong>Pro Tip â€“</strong> to reuse, filter out large particles and pour back into bottle.</p>
+<p>No harmful chemicals are used in the production of this product. Not tested on animals.</p>
+<p>Home Grown in California, USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bong Cleaner</s:tag>
+    <s:tag>Chatik</s:tag>
+    <s:tag>Citrus</s:tag>
+    <s:tag>clean</s:tag>
+    <s:tag>Cleaners</s:tag>
+    <s:tag>Cleaning</s:tag>
+    <s:tag>Cleaning Solutions&apos;Orange Chronic</s:tag>
+    <s:tag>glass cleaner</s:tag>
+    <s:tag>Granulated Cleaner</s:tag>
+    <s:tag>Green Chronik</s:tag>
+    <s:tag>Orange</s:tag>
+    <s:tag>Oranges</s:tag>
+    <s:tag>Pipe cleaner</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Cleaner</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:tag>Water Pipe Cleaner</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237402189866</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.50</s:price>
+      <s:sku>HC1004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2078685921329</id>
+    <published>2019-11-25T08:46:43-07:00</published>
+    <updated>2019-11-25T08:46:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/seven-budz-soda-bottle-bubbler"/>
+    <title>Seven Budz Soda Bottle Bubbler</title>
+    <s:type>Water Pipe</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/A2025_1_400x_eed524b7-6b1b-4315-87ed-478b4856c3fa.jpg?v=1574702175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Water Pipe<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Seven Budz Soda Bottle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bubblers</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Water Pipe</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:tag>Water Pipes</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2078685921329</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>A2025</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1316597858346</id>
+    <published>2019-11-25T08:46:43-07:00</published>
+    <updated>2019-11-25T08:46:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/single-perc-replacement-glass-bubbler-for-sutra-dbr"/>
+    <title>Single Perc Glass Bubbler for Sutra DBR</title>
+    <s:type>E-Nail</s:type>
+    <s:vendor>Sutra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/Sutra-DBR_SPB_3.jpg?v=1575219243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sutra<br>
+        <strong>Type: </strong>E-Nail<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Single Perc Replacement Glass Bubbler for Sutra DBR</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>concentrate vape accessory</s:tag>
+    <s:tag>E-Nail Replacement Bubblers</s:tag>
+    <s:tag>New-Update</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_E-Nail</s:tag>
+    <s:tag>Vendor_Sutra</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1316597858346</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>HTI118-SPBBLR</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1237388951594</id>
+    <published>2019-11-24T14:33:10-07:00</published>
+    <updated>2019-11-24T14:33:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/specialty-nubbed-bowl"/>
+    <title>Glass Funnel Bowl with Nubs</title>
+    <s:type>Herb Bowl</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/eg1011.jpg?v=1564677105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Herb Bowl<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>14.4mm</s:tag>
+    <s:tag>14mm</s:tag>
+    <s:tag>18.4mm</s:tag>
+    <s:tag>18mm</s:tag>
+    <s:tag>19mm</s:tag>
+    <s:tag>Black</s:tag>
+    <s:tag>bowls</s:tag>
+    <s:tag>Clear</s:tag>
+    <s:tag>Cone</s:tag>
+    <s:tag>Herb</s:tag>
+    <s:tag>Herb Bowls</s:tag>
+    <s:tag>herbal</s:tag>
+    <s:tag>Male</s:tag>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Herb Bowl</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:tag>water pipe accessory</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237388951594</id>
+      <title>14mm</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>EG100114</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1237388951594</id>
+      <title>19mm</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>EG100118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2190222721073</id>
+    <published>2019-09-04T19:24:37-06:00</published>
+    <updated>2019-09-04T19:24:37-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/silicone-football-pipe-brown"/>
+    <title>Silicone Football Pipe Brown</title>
+    <s:type>Hand Pipe</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/SHP009_2.jpg?v=1611168350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Hand Pipe<br>
+        <strong>Price: </strong>
+            5.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>This pipe’s a touchdown! Deflate-gate no longer, this silicone stunner packs in the team spirit. Featuring a deep, glass bowl and a comfortable grip, this pipe is perfect for any football fan. Available in classic brown.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Hand Pipe</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2190222721073</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.90</s:price>
+      <s:sku>SHP009</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2189424525361</id>
+    <published>2019-09-04T13:24:54-06:00</published>
+    <updated>2019-09-04T13:24:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/silicone-tray-8inch-6inch"/>
+    <title>Silicone Tray 8inchX6inch</title>
+    <s:type>Rolling Tray</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/Trays_1.jpg?v=1601573218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Rolling Tray<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Perfect for concentrates! The non-stick surface is ideal for all your dabbing needs. The tray is 8”x6” and made from silicone. Heavy handed? Set your rig down on the mat without worry. Need a place to put your tool or extracts while you’re dabbing? Pop it on the tray. Available in four different colourways.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Rolling Tray</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2189424525361</id>
+      <title>Camo</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SRT001CAMO</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2189424525361</id>
+      <title>Rasta</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SRT001RT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2189424525361</id>
+      <title>Blue Purple Red</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SRT001BP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2189424525361</id>
+      <title>Black Yellow</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku>SRT001BY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2189376290865</id>
+    <published>2019-09-04T13:00:25-06:00</published>
+    <updated>2019-09-04T13:00:25-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/silicone-teardrop-container"/>
+    <title>Silicone Teardrop Container</title>
+    <s:type>Container</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/SCNT001BP_2.jpg?v=1611167742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Container<br>
+        <strong>Price: </strong>
+            1.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>Crying over broken dab containers? Dry those eyes and grab one in silicone. This teardrop shaped container holds your concentrates without worry of breaking. The non-stick surface is perfect for packing extracts inside. Available in four colourways.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Container</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2189376290865</id>
+      <title>Pink Blue</title>
+      <s:price currency="CAD">1.90</s:price>
+      <s:sku>SCNT001BP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2189376290865</id>
+      <title>Yellow Green Red</title>
+      <s:price currency="CAD">1.90</s:price>
+      <s:sku>SCNT001RT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2189376290865</id>
+      <title>Black Yellow</title>
+      <s:price currency="CAD">1.90</s:price>
+      <s:sku>SCNT001BKY</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2189376290865</id>
+      <title>Red Blue White</title>
+      <s:price currency="CAD">1.90</s:price>
+      <s:sku>SCNT001RWB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2186719297585</id>
+    <published>2019-09-03T13:47:14-06:00</published>
+    <updated>2019-09-03T13:47:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/silicone-dab-ring-with-4mm-banger-top-wax-container-and-steel-dabble"/>
+    <title>silicone dab ring with 4mm banger , top wax container and steel dabble</title>
+    <s:type>Water Pipe</s:type>
+    <s:vendor>RGR Canada Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/red1.jpg?v=1604074072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RGR Canada Inc.<br>
+        <strong>Type: </strong>Water Pipe<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span>This silicone dab rig features a bent neck to ensure there’s no splashback. The perfect rig for on the go, this durable piece offers security from breakage. This rig also includes a 14mm glass on glass banger, for optimal flavour, a top wax container and a steel dabble. Available in four fun colourways.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_Water Pipe</s:tag>
+    <s:tag>Vendor_RGR Canada Inc.</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2186719297585</id>
+      <title>Red White</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>SWP009RWB</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/2089818849329</id>
+    <published>2019-07-25T19:00:36-06:00</published>
+    <updated>2019-07-25T19:00:36-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/integra-boost-4-gram-62-retail-200-pack"/>
+    <title>Integra Boost 62% (Pack)</title>
+    <s:type>Humidity Control</s:type>
+    <s:vendor>Desiccare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/integra_5c3c70dc-6be1-4b41-8b6f-87309692624e.jpg?v=1596302187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Desiccare<br>
+        <strong>Type: </strong>Humidity Control<br>
+        <strong>Price: </strong>
+            79.70 - 93.80
+            <a href="https://valiantdist.ca/products/integra-boost-4-gram-62-retail-200-pack">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Integra Boost humidity regulators help create the perfect balance of moisture. Their patented technology adds or removes moisture to keep humidity levels at 62%. Keeping moisture as bay helps prevent rot and adding moisture helps maintain freshness. A replacement indicator is included to alert you when it's time to change the pack, it will change from red to blue. <span>Each pack can protect moisture for up to 12 grams of plants. </span>The packs are easy to use and are available in a 4 gram, 200 pack as well as an 8 gram, 144 pack.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_$50 - $100</s:tag>
+    <s:tag>Type_Accessory</s:tag>
+    <s:tag>Type_Humidity Control</s:tag>
+    <s:tag>Vendor_Desiccare</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2089818849329</id>
+      <title>4 gram/200 pack</title>
+      <s:price currency="CAD">79.70</s:price>
+      <s:sku>L048</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://valiantdist.ca/products/2089818849329</id>
+      <title>8 gram/144 pack</title>
+      <s:price currency="CAD">93.80</s:price>
+      <s:sku>L050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://valiantdist.ca/products/1978765836337</id>
+    <published>2019-06-20T04:02:19-06:00</published>
+    <updated>2019-06-20T04:02:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://valiantdist.ca/products/smok-tfv8-baby-v2-a3-coil-0-15ohm-dual-triple-coil"/>
+    <title>Smok TFV8 Baby V2 A3 0.15 ohm Dual Triple Coil 3 Pcs Stainless</title>
+    <s:type>E-Cig Accessory</s:type>
+    <s:vendor>SMOK</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2642/8492/products/smok-v8-baby-v2-a2-0-2-ohm-coils-stainless_ki_xl.jpg?v=1591031471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SMOK<br>
+        <strong>Type: </strong>E-Cig Accessory<br>
+        <strong>Price: </strong>
+            1.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>TFV8 Baby V2, a thoroughly upgraded new tank! It has "V" carved on top cap and base as the symbol of the new version. To avoid accidental leakage, it has a press button on the top cap; to enlarge the capacity, it uses Bulb Pyrex Glass Tube #7, which has 5ml capacity, increasing by 70% than the first version. And surprisingly, it has two powerful new cores, Baby <strong>V2 A3</strong> has dual mesh structure inside to produce huge vapor cloud. Besides, this tank has 3 wider airflow slots to bring more air in. Take TFV8 Baby V2 and ready to lost in the massive vapor!Â </span></p>
+<p><span>Innovation keeps changing the vaping experience!</span></p>
+<meta charset="utf-8">
+<p><span>Resistance Level : 0.15ohm</span></p>
+<p>Â </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Price_Under $50</s:tag>
+    <s:tag>Type_E-Cig Accessory</s:tag>
+    <s:tag>Vendor_SMOK</s:tag>
+    <s:variant>
+      <id>https://valiantdist.ca/products/1978765836337</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.00</s:price>
+      <s:sku>COILTFV8BABYV2A3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
